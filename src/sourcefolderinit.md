@@ -1,1 +1,0 @@
-An init file for the src folder, can be removed once more files are added
