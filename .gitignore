@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 *.vite
+deps_temp_dc*
