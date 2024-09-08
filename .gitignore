@@ -129,4 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.vite/deps_temp_dc884068
+*.vite
