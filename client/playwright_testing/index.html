@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracted Toys R Us Data</title>
+    <link href="css.css" rel="stylesheet">
+</head>
+<body>
+    <div id="content">
+    <h1>Extracted Toys R Us Data</h1>
+    <img id="screenshot" src="images/screenshot.png">
+    <table id="data-table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Price</th>
+                <th>Stock</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    </div>
+
+    <script>
+        // Get JSON Data
+        fetch('extractedData.json')
+            .then(response => response.json())
+            .then(data => {
+                const tableBody = document.querySelector('#data-table tbody');
+
+                data.forEach(item => {
+                    const row = document.createElement('tr');
+
+                    const titleCell = document.createElement('td');
+                    titleCell.textContent = item.item_title;
+                    row.appendChild(titleCell);
+
+                    const priceCell = document.createElement('td');
+                    priceCell.textContent = item.price;
+                    row.appendChild(priceCell);
+
+                    const ratingCell = document.createElement('td');
+                    ratingCell.textContent = item.stock;
+                    row.appendChild(ratingCell);
+
+                    tableBody.appendChild(row);
+                });
+            });
+    </script>
+</body>
+</html>
