@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FairwayFinder - Golf Site Data Extraction</title>
+    <link href="css.css" rel="stylesheet">
+</head>
+<body>
+    <div id="content">
+        <h1>FairwayFinder - Golf Site Data Extraction</h1>
+        <img id="screenshot" src="screenshot.png">
+        <table id="data-table">
+            <thead>
+                <th>Clubs</th>
+                <th>Prices</th>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <img id="screenshot" src="screenshot2.png">
+        <table id="data-table2">
+            <thead>
+                <th>Clubs</th>
+                <th>Prices</th>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </table>
+    <!-- <img id="screenshot" src="screenshot3.png">
+    <table id="data-table3">
+        <thead>
+            <th>Clubs</th>
+            <th>Prices</th>
+        </thead>
+        <tbody>
+        </tbody>
+    </table> -->
+    <img id="screenshot" src="screenshot4.png">
+    <table id="data-table4">
+        <thead>
+            <th>Clubs</th>
+            <th>Prices</th>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <!-- <img id="screenshot" src="screenshot5.png">
+    <table id="data-table5">
+        <thead>
+            <th>Clubs</th>
+            <th>Prices</th>
+        </thead>
+        <tbody>
+        </tbody>
+    </table> -->
+    <img id="screenshot" src="screenshot6.png">
+    <table id="data-table6">
+        <thead>
+            <th>Clubs</th>
+            <th>Prices</th>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    </div>
+
+    <script>
+    // Fetch the JSON data and populate the table
+    fetch('extractedData.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.querySelector('#data-table tbody');
+
+            data.forEach(item => {
+                const tableBody = document.querySelector('#data-table tbody');
+
+                // Split titles and prices into arrays
+                const titleArray = item.titles.split('\n');
+                const priceArray = item.prices.split('\n');
+
+                // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+                for (let i = 0; i < titleArray.length; i++) {
+                    
+                    const row = document.createElement('tr');
+
+                    const titleCell = document.createElement('td');
+                    titleCell.textContent = titleArray[i].trim();
+                    row.appendChild(titleCell);
+
+                    const priceCell = document.createElement('td');
+                    priceCell.textContent = priceArray[i].trim();
+                    row.appendChild(priceCell);
+
+                    tableBody.appendChild(row);
+
+                    // Create a new row after the price cell if it's the last item
+                    if (i === titleArray.length - 1) {
+                        const newRow = document.createElement('tr');
+                        tableBody.appendChild(newRow);
+                    }
+                }
+            });
+        });
+
+         // Fetch the JSON data and populate the table
+    fetch('extractedData2.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.querySelector('#data-table2 tbody');
+
+            data.forEach(item => {
+                const tableBody = document.querySelector('#data-table2 tbody');
+
+                // Split titles and prices into arrays
+                const titleArray = item.titles2.split('\n');
+                const priceArray = item.prices2.split('\n');
+
+                // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+                for (let i = 0; i < titleArray.length; i++) {
+                    
+                    const row = document.createElement('tr');
+
+                    const titleCell = document.createElement('td');
+                    titleCell.textContent = titleArray[i].trim();
+                    row.appendChild(titleCell);
+
+                    const priceCell = document.createElement('td');
+                    priceCell.textContent = priceArray[i].trim();
+                    row.appendChild(priceCell);
+
+                    tableBody.appendChild(row);
+
+                    // Create a new row after the price cell if it's the last item
+                    if (i === titleArray.length - 1) {
+                        const newRow = document.createElement('tr');
+                        tableBody.appendChild(newRow);
+                    }
+                }
+            });
+        });
+
+          // Fetch the JSON data and populate the table
+    // fetch('extractedData3.json')
+    //     .then(response => response.json())
+    //     .then(data => {
+    //         const tableBody = document.querySelector('#data-table3 tbody');
+
+    //         data.forEach(item => {
+    //             const tableBody = document.querySelector('#data-table3 tbody');
+
+    //             // Split titles and prices into arrays
+    //             const titleArray = item.titles3.split('\n');
+    //             const priceArray = item.prices3.split('\n');
+
+    //             // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+    //             for (let i = 0; i < titleArray.length; i++) {
+                    
+    //                 const row = document.createElement('tr');
+
+    //                 const titleCell = document.createElement('td');
+    //                 titleCell.textContent = titleArray[i].trim();
+    //                 row.appendChild(titleCell);
+
+    //                 const priceCell = document.createElement('td');
+    //                 priceCell.textContent = priceArray[i].trim();
+    //                 row.appendChild(priceCell);
+
+    //                 tableBody.appendChild(row);
+
+    //                 // Create a new row after the price cell if it's the last item
+    //                 if (i === titleArray.length - 1) {
+    //                     const newRow = document.createElement('tr');
+    //                     tableBody.appendChild(newRow);
+    //                 }
+    //             }
+    //         });
+    //     });
+              // Fetch the JSON data and populate the table
+    fetch('extractedData4.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.querySelector('#data-table4 tbody');
+
+            data.forEach(item => {
+                const tableBody = document.querySelector('#data-table4 tbody');
+
+                // Split titles and prices into arrays
+                const titleArray = item.titles4.split('\n');
+                const priceArray = item.prices4.split('\n');
+
+                // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+                for (let i = 0; i < titleArray.length; i++) {
+                    
+                    const row = document.createElement('tr');
+
+                    const titleCell = document.createElement('td');
+                    titleCell.textContent = titleArray[i].trim();
+                    row.appendChild(titleCell);
+
+                    const priceCell = document.createElement('td');
+                    priceCell.textContent = priceArray[i].trim();
+                    row.appendChild(priceCell);
+
+                    tableBody.appendChild(row);
+
+                    // Create a new row after the price cell if it's the last item
+                    if (i === titleArray.length - 1) {
+                        const newRow = document.createElement('tr');
+                        tableBody.appendChild(newRow);
+                    }
+                }
+            });
+        });
+
+        // fetch('extractedData5.json')
+        // .then(response => response.json())
+        // .then(data => {
+        //     const tableBody = document.querySelector('#data-table5 tbody');
+
+        //     data.forEach(item => {
+        //         const tableBody = document.querySelector('#data-table5 tbody');
+
+        //         // Split titles and prices into arrays
+        //         const titleArray = item.titles5.split('\n');
+        //         const priceArray = item.prices5.split('\n');
+
+        //         // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+        //         for (let i = 0; i < titleArray.length; i++) {
+                    
+        //             const row = document.createElement('tr');
+
+        //             const titleCell = document.createElement('td');
+        //             titleCell.textContent = titleArray[i].trim();
+        //             row.appendChild(titleCell);
+
+        //             const priceCell = document.createElement('td');
+        //             priceCell.textContent = priceArray[i].trim();
+        //             row.appendChild(priceCell);
+
+        //             tableBody.appendChild(row);
+
+        //             // Create a new row after the price cell if it's the last item
+        //             if (i === titleArray.length - 1) {
+        //                 const newRow = document.createElement('tr');
+        //                 tableBody.appendChild(newRow);
+        //             }
+        //         }
+        //     });
+        // });
+
+        fetch('extractedData6.json')
+        .then(response => response.json())
+        .then(data => {
+            const tableBody = document.querySelector('#data-table6 tbody');
+
+            data.forEach(item => {
+                const tableBody = document.querySelector('#data-table6 tbody');
+
+                // Split titles and prices into arrays
+                const titleArray = item.titles6.split('\n');
+                const priceArray = item.prices6.split('\n');
+
+                // Create cells for each title and price, ensuring they're side-by-side and in separate rows
+                for (let i = 0; i < titleArray.length; i++) {
+                    
+                    const row = document.createElement('tr');
+
+                    const titleCell = document.createElement('td');
+                    titleCell.textContent = titleArray[i].trim();
+                    row.appendChild(titleCell);
+
+                    const priceCell = document.createElement('td');
+                    priceCell.textContent = priceArray[i].trim();
+                    row.appendChild(priceCell);
+
+                    tableBody.appendChild(row);
+
+                    // Create a new row after the price cell if it's the last item
+                    if (i === titleArray.length - 1) {
+                        const newRow = document.createElement('tr');
+                        tableBody.appendChild(newRow);
+                    }
+                }
+            });
+        });
+</script>
+</body>
+</html>

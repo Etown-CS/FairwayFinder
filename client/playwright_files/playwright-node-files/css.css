@@ -16,12 +16,16 @@ th {
 }
 
 #content{
-    width: 750px;
+    width: 700px;
     margin: auto;
 }
 
 #screenshot{
-    width: 650px;
+    width: 700px;
     margin: auto;
+    text-align: center;
+}
+
+h1{
     text-align: center;
 }
