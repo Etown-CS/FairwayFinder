@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Navbar /> {/* Add the Navbar component */}
+      <Navbar />
     </>
   );
 }
