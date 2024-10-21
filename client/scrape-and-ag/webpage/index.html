@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retrived Data</title>
+</head>
+<body>
+    <h1>Retrived Data from Golf Gear Websites</h1>
+    <div id="txt-content"></div>
+    
+    <!-- Code that puts txt file data into the txt-content div -->
+
+    <script>
+
+       function fetchAndDisplayTXT() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/analyze-data/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("txt-content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT();
+    </script>
+</body>
+</html>
