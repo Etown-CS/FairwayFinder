@@ -66,7 +66,6 @@ Brand: <b>Callaway</b> Title: <b>OPUS Platinum Wedge</b> Price: <b>$229.99</b>
 Brand: <b>Bettinardi</b> Title: <b>2023 Queen B 6 Putter</b> Price: <b>$349.99</b>
 Brand: <b>TaylorMade</b> Title: <b>2024 P770 Irons</b> Price: <b>$1399.99</b>
 Brand: <b>Titleist</b> Title: <b>T200 Custom Irons</b> Price: <b>$200.00 - $1800.00</b>
-
 Website: <b>Golf Galaxy</b>
 
 Result from ../../web-src-scraping/extracted_text3.txt:
