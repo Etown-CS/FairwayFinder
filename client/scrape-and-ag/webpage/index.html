@@ -4,25 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Retrived Data</title>
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
     <h1>Retrived Data from Golf Gear Websites</h1>
-    <div id="txt-content"></div>
+    <div id="contents"><h2>Table of Contents:</h2>
+    <h3>Clubs:</h3>
+    <ul>
+    <li><a href="#club_drivers_content"><h4>Driver</h4></a>
+    <li><a href="#club_fairway-woods_content"><h4>Fairway Woods</h4></a></li>
+    <li><a href="#club_irons_content"><h4>Irons</h4></a></li>
+    <li><a href="#club_wedges_content"><h4>Wedges</h4></a></li>
+    <li><a href="#club_putters_content"><h4>Putters</h4></a></li>
+    <li><a href="#club_hybrids_content"><h4>Hybrids</h4></a></ul></li>
+
+    <h3>Balls:</h3>
+    <ul>
+    <li><a href="#balls_personalized_content"><h4>Personalized</h4></a>
+    <li><a href="#balls_all_content"><h4>All</h4></a></li>
     
+    </div>
+    <div id="club_drivers_content"><h2>Clubs/Driver <a href="#contents"><span>^</span></a></h2></div>
+    <div id="club_fairway-woods_content"><h2>Clubs/Fairway Woods <a href="#contents"><span>^</span></a></h2></div>
+    <div id="club_irons_content"><h2>Clubs/Irons <a href="#contents"><span>^</span></a></h2></div>
+    <div id="club_wedges_content"><h2>Clubs/Wedges <a href="#contents"><span>^</span></a></h2></div>
+    <div id="club_putters_content"><h2>Clubs/Putters <a href="#contents"><span>^</span></a></h2></div>
+    <div id="club_hybrids_content"><h2>Clubs/Hybrids <a href="#contents"><span>^</span></a></h2></div>
+    <br>
+
+    <div id="balls_personalized_content"><h2>Balls/Personalized <a href="#contents"><span>^</span></a></h2></div>
+    <div id="balls_all_content"><h2>Balls/All <a href="#contents"><span>^</span></a></h2></div>
+    <br>
+
     <!-- Code that puts txt file data into the txt-content div -->
 
     <script>
 
-       function fetchAndDisplayTXT() {
+    // Clubs
+    
+    function fetchAndDisplayTXT() {
     const xhr = new XMLHttpRequest();
-    xhr.open("GET", "../data-ag/analyze-data/output.txt", true); // Replace with the actual path
+    xhr.open("GET", "../data-ag/clubs/drivers/output.txt", true); // Replace with the actual path
 
     xhr.onload = function() {
         if (xhr.status === 200) {
             const txtContent = xhr.responseText;
             const newElement = document.createElement("div");
             newElement.innerHTML = txtContent;
-            const preElement = document.getElementById("txt-content");
+            const preElement = document.getElementById("club_drivers_content");
             preElement.appendChild(newElement);
             
             preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
@@ -35,6 +64,171 @@
 }
 
 fetchAndDisplayTXT();
+
+function fetchAndDisplayTXT2() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/clubs/fairway-woods/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("club_fairway-woods_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT2();
+
+function fetchAndDisplayTXT3() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/clubs/irons/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("club_irons_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT3();
+
+function fetchAndDisplayTXT4() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/clubs/wedges/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("club_wedges_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT4();
+
+function fetchAndDisplayTXT5() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/clubs/putters/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("club_putters_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT5();
+
+function fetchAndDisplayTXT6() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/clubs/hybrids/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("club_hybrids_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT6();
+
+
+// Balls
+
+function fetchAndDisplayTXT7() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/balls/personalized/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("balls_personalized_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT7();
+
+function fetchAndDisplayTXT8() {
+    const xhr = new XMLHttpRequest();
+    xhr.open("GET", "../data-ag/balls/all/output.txt", true); // Replace with the actual path
+
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            const txtContent = xhr.responseText;
+            const newElement = document.createElement("div");
+            newElement.innerHTML = txtContent;
+            const preElement = document.getElementById("balls_all_content");
+            preElement.appendChild(newElement);
+            
+            preElement.style.whiteSpace = "pre-wrap"; // Preserve line breaks
+        } else {
+            console.error("Error fetching TXT file:", xhr.status);
+        }
+    };
+
+    xhr.send();
+}
+
+fetchAndDisplayTXT8();
+
     </script>
 </body>
 </html>
