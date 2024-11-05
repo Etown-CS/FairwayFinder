@@ -9,5 +9,5 @@
     "default": 10,
     "max": 50
   },
-  "mongodb": "mongodb+srv://tannerw:<tanpretzel>@fairwayfinder.stoif.mongodb.net/?retryWrites=true&w=majority&appName=FairwayFinder"
+  "mongodb": 
 }
