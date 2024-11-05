@@ -118,6 +118,6 @@ dist
 .pnp.*
 .sqlite
 
-lib/
-
 .config/default.json
+
+lib/
