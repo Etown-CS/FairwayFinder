@@ -4,7 +4,7 @@ import logo from '/public/react.svg';
 function Navbar() {
   return (
     <nav className="navbar">
-        <a href="home" className="navbar-logo">
+        <a href="/" className="navbar-logo">
         <img src={logo} alt="Logo" />
       </a>
       <ul className="navbar-links">
