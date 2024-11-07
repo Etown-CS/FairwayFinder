@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@feathersjs/express": "^5.0.31",
+    "@feathersjs/feathers": "^5.0.31",
+    "@feathersjs/mongodb": "^5.0.31",
     "dotenv": "^16.4.5",
     "mongodb": "^6.10.0",
-    "openai": "^4.68.1",
+    "mongoose": "^8.8.0",
+    "openai": "^4.71.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
