@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@feathersjs/express": "^5.0.31",
+    "@feathersjs/feathers": "^5.0.31",
+    "@feathersjs/mongodb": "^5.0.31"
+  }
+}
