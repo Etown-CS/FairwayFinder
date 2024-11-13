@@ -23,6 +23,6 @@ COPY --from=client-builder /app/client /app/client
 # Copy API files
 COPY --from=api-builder /app/api /app/api
 
-WORKDIR /app/api
+WORKDIR /app
 EXPOSE 8080
 CMD ["npm", "start"]
