@@ -18,7 +18,7 @@ FROM node:18-slim
 WORKDIR /app
 
 # Copy built client files
-COPY --from=client-builder /app/client/build /app/client/build
+COPY --from=client-builder /app/client /app/client
 
 # Copy API files
 COPY --from=api-builder /app/api /app/api
