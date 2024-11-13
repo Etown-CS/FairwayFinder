@@ -17,12 +17,17 @@ COPY api/ ./
 FROM node:18-slim
 WORKDIR /app
 
+# Install serve to serve the built client files
+RUN npm install -g serve
+
 # Copy built client files
-COPY --from=client-builder /app/client /app/client
+COPY --from=client-builder /app/client/dist /app/client
 
 # Copy API files
 COPY --from=api-builder /app/api /app/api
 
-WORKDIR /app
+WORKDIR /app/api
 EXPOSE 8080
-CMD ["npm", "start"]
+
+# Start both the backend and the static file server
+CMD ["sh", "-c", "serve -s /app/client -l 3000 & npm start"]
