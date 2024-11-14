@@ -21,7 +21,7 @@ WORKDIR /app
 RUN npm install -g serve
 
 # Copy built client files
-COPY --from=client-builder /app/client/dist /app/client
+COPY --from=client-builder /app/client/ /app/client
 
 # Copy API files
 COPY --from=api-builder /app/api /app/api
