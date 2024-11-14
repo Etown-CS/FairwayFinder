@@ -1,4 +1,3 @@
-// For more information about this file see https://dove.feathersjs.com/guides/cli/application.html
 import { feathers } from '@feathersjs/feathers'
 import configuration from '@feathersjs/configuration'
 import { koa, rest, bodyParser, errorHandler, parseAuthentication, cors, serveStatic } from '@feathersjs/koa'

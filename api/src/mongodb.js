@@ -1,4 +1,3 @@
-// For more information about this file see https://dove.feathersjs.com/guides/cli/databases.html
 import { MongoClient } from 'mongodb'
 
 export const mongodb = (app) => {
