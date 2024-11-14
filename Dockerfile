@@ -26,7 +26,7 @@ COPY --from=client-builder /app/client/ /app/client
 # Copy API files
 COPY --from=api-builder /app/api /app/api
 
-WORKDIR /app/api
+WORKDIR /app/client
 EXPOSE 8080
 
 # Start both the backend and the static file server
