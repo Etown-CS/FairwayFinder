@@ -21,12 +21,12 @@ WORKDIR /app
 RUN npm install -g serve
 
 # Copy built client files
-COPY --from=client-builder /app/client/ /app/client
+COPY --from=client-builder /app/client /app/client
 
 # Copy API files
 COPY --from=api-builder /app/api /app/api
 
-WORKDIR /app/client
+WORKDIR /app/api
 EXPOSE 8080
 
 # Start both the backend and the static file server
