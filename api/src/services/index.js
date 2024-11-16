@@ -13,7 +13,7 @@ export const services = async (app) => {
   console.log('MongoClient initially:', mongoClient);
 
   // Add a delay to wait for MongoDB client to be set
-  await sleep(2000);  // Sleep for 2 seconds (2000 ms)
+  await sleep(3000);  // Sleep for 3 seconds (3000 ms)
 
   // After the sleep, check if the client is set
   mongoClient = app.get('mongodbClient');

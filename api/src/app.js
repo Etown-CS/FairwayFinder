@@ -7,6 +7,8 @@ import { mongodb } from './mongodb.js'; // MongoDB connection logic
 import { services } from './services/index.js'; // Import services
 import { channels } from './channels.js';
 
+console.log("running");
+
 // Load environment variables
 dotenv.config();
 
@@ -23,6 +25,10 @@ app.configure(configuration())
 // Configure Feathers transports
 app.configure(rest());
 app.configure(socketio({ cors: { origin: app.get('origins') }}));
+
+const psswd = process.env.DATABASE_PSSWD;
+console.log("psswd:");
+console.log(psswd);
 
 // MongoDB URI and connection setup
 const mongoUri = `mongodb+srv://samh:${encodeURIComponent(process.env.DATABASE_PSSWD)}@fairwayfinder.stoif.mongodb.net/FairwayFinderDB?retryWrites=true&w=majority&tls=true`;
