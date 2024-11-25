@@ -1,0 +1,225 @@
+{
+    "websites": [
+      {
+        "base_url": "https://www.tgw.com",
+        "categories": {
+          "Drivers": "/golf-clubs/golf-drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrid-golf-clubs",
+          "Irons": "/golf-clubs/golf-irons",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/golf-wedges",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized-golf-balls"
+        }
+      },
+       {
+        "base_url": "https://www.rockbottomgolf.com",
+        "categories": {
+          "Drivers": "/golf-clubs/golf-drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/iron-sets",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/balls/new-golf-balls",
+          "Personalized Balls": "/balls/custom-logo-balls"
+        }
+      },
+       {
+        "base_url": "https://www.globalgolf.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-wood",
+          "Hybrids": "/golf-clubs/hybrid",
+          "Irons": "/golf-clubs/iron-set",
+          "Putters": "/golf-clubs/putter",
+          "Wedges": "/golf-clubs/wedge",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.pgatoursuperstore.com",
+        "categories": {
+          "Drivers": "/golf-clubs/driver",
+          "Fairway Woods": "/golf-clubs/fairway-metals",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/irons-sets",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.golfdiscount.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods/mens?resultsPerPage=36",
+          "Hybrids": "/golf-clubs/hybrids?resultsPerPage=36",
+          "Irons": "/golf-clubs/irons?resultsPerPage=36",
+          "Putters": "/golf-clubs/putters?resultsPerPage=36",
+          "Wedges": "/golf-clubs/wedges?resultsPerPage=36",
+          "Balls": "/golf-balls?resultsPerPage=36",
+          "Personalized Balls": "/golf-balls/balls/personalized?resultsPerPage=36"
+        }
+      },
+       {
+        "base_url": "https://www.carlsgolfland.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/iron-sets",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized-golf-balls"
+        }
+      },
+       {
+        "base_url": "https://www.dickssportinggoods.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/f/fairway-woods",
+          "Hybrids": "/f/hybrid-golf-clubs",
+          "Irons": "/f/golf-irons-sets",
+          "Putters": "/f/putters",
+          "Wedges": "/f/golf-wedges",
+          "Balls": "/f/golf-balls",
+          "Personalized Balls": "/f/golf-balls?filterFacets=4973%253APersonalized"
+        }
+      },
+       {
+        "base_url": "https://www.golfavenue.com",
+        "categories": {
+          "Drivers": "/us/golf-clubs/drivers",
+          "Fairway Woods": "/us/golf-clubs/fairway-woods",
+          "Hybrids": "/us/golf-clubs/hybrids",
+          "Irons": "/us/golf-clubs/iron-sets",
+          "Putters": "/us/golf-clubs/putters",
+          "Wedges": "/us/golf-clubs/wedges",
+          "Balls": "/us/golf-balls",
+          "Personalized Balls": "/us/golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.worldwidegolfshops.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairways",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/irons",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls/d",
+          "Personalized Balls": "/golf-balls/custom-golf-balls"
+        }
+      },
+       {
+        "base_url": "https://golfhq.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/iron-sets",
+          "Putters": "/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls/chrome-tour",
+          "Personalized Balls": "/customs/corporate-logo/custom-logo-golf-balls"
+        }
+      },
+       {
+        "base_url": "https://www.fairwaygolfusa.com",
+        "categories": {
+            "Drivers": "/collections/mens-golf-drivers?filter.v.availability=1",
+            "Fairway Woods": "/collections/mens-golf-fairway-woods?filter.v.availability=1",
+            "Hybrids": "/collections/mens-golf-hybrids?filter.v.availability=1",
+            "Irons": "/collections/mens-golf-irons-sets?filter.v.availability=1",
+            "Putters": "/collections/mens-golf-putters?filter.v.availability=1",
+            "Wedges": "/collections/mens-golf-wedges?filter.v.availability=1",
+            "Balls": "/collections/golf-balls?filter.v.availability=1",
+            "Personalized Balls": "/collections/personalized-golf-balls?filter.v.availability=1"
+        }
+      },
+       {
+        "base_url": "https://www.callawaygolf.com",
+        "categories": {
+          "Drivers": "/plugin/view/_action/productlisting/_f/script/?cid=251",
+          "Fairway Woods": "/plugin/view/_action/productlisting/_f/script/?cid=252",
+          "Hybrids": "/plugin/view/_action/productlisting/_f/script/?cid=253",
+          "Irons": "/plugin/view/_action/productlisting/_f/script/?cid=254",
+          "Putters": "/plugin/view/_action/productlisting/_f/script/?cid=257",
+          "Wedges": "/plugin/view/_action/productlisting/_f/script/?cid=256",
+          "Balls": "/plugin/view/_action/productlisting/_f/script/?cid=300",
+          "Personalized Balls": "/plugin/view/_action/productlisting/_f/script/?cid=756"
+        }
+      },
+       {
+        "base_url": "https://www.ghq1.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/iron-sets",
+          "Putters": "/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.golfetail.com",
+        "categories": {
+          "Drivers": "/Golf-Drivers-s/171.htm",
+          "Fairway Woods": "/Fairway-Woods-s/115.htm",
+          "Hybrids": "/Hybrid-Rescue-Golf-Clubs-s/116.htm",
+          "Irons": "/Golf-Irons-s/117.htm",
+          "Putters": "/Golf-Putters-s/121.htm",
+          "Wedges": "/Golf-Wedges-s/120.htm",
+          "Balls": "/Golf-Balls-s/289.htm",
+          "Personalized Balls": "/Golf-Balls-s/289/personlized.htm"
+        }
+      },
+       {
+        "base_url": "https://www.hurricanegolf.com",
+        "categories": {
+          "Drivers": "/golf-clubs/drivers",
+          "Fairway Woods": "/golf-clubs/fairway-woods",
+          "Hybrids": "/golf-clubs/hybrids",
+          "Irons": "/golf-clubs/irons",
+          "Putters": "/golf-clubs/putters",
+          "Wedges": "/golf-clubs/wedges",
+          "Balls": "/golf-balls",
+          "Personalized Balls": "/golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.dallasgolf.com",
+        "categories": {
+          "Drivers": "/close-out-golf-equipment/close-out-drivers",
+          "Fairway Woods": "/close-out-golf-equipment/discount-fairway-woods",
+          "Hybrids": "/close-out-golf-equipment/close-out-hybrids",
+          "Irons": "/close-out-golf-equipment/irons",
+          "Putters": "/close-out-golf-equipment/close-out-putters",
+          "Wedges": "/close-out-golf-equipment/close-out-wedges",
+          "Balls": "/close-out-golf-balls?limit=24",
+          "Personalized Balls": "/close-out-golf-balls/personalized"
+        }
+      },
+       {
+        "base_url": "https://www.dunhamssports.com",
+        "categories": {
+          "Drivers": "/by-sport/golf/clubs/drivers",
+          "Fairway Woods": "/by-sport/golf/clubs/fairway-woods/?srule=Default&sz=24",
+          "Hybrids": "/by-sport/golf/clubs/hybrids/?srule=Default&sz=24",
+          "Irons": "/by-sport/golf/clubs/irons-sets/?srule=Default&sz=24",
+          "Putters": "/by-sport/golf/clubs/putters/?srule=Default&sz=24",
+          "Wedges": "/by-sport/golf/clubs/wedges/?srule=Default&sz=24",
+          "Balls": "/by-sport/golf/balls/?srule=Default",
+          "Personalized Balls": "/by-sport/golf/clubs/?srule=Default/personalized"
+      }
+    }
+  ]
+}

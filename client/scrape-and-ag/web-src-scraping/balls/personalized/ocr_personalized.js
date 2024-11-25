@@ -147,7 +147,7 @@ Tesseract.recognize(
          // Website 7 OCR
 
 Tesseract.recognize(
-  imagePath6,
+  imagePath7,
   'eng', // Specify the language of the text in the image
   { logger: m => console.log(m) } // Optional: Log the progress
 )
