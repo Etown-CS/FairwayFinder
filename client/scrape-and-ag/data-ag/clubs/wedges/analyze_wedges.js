@@ -32,7 +32,7 @@ async function analyzeTextFile(filePath) {
 
     // Prepare the request to OpenAI
     const response = await openai.chat.completions.create({
-      model: "gpt-4-turbo", // Ensure you have access to the correct model
+      model: "gpt-4o-mini, // Ensure you have access to the correct model
       messages: [
         { role: "system", content: "You are an AI that analyzes a text file with info from a webpage that has golf products and price information. Provide brand name, product title, and price/price ranges for each. Also provide the website it is from. Format all of your result in the exact format. Brand: <b>[Brand]</b> Title: <b>[Title]</b> Price: <b>[Price]</b>, at the end of the list add Website: <b>[Website]</b>. If price is not given like click for low price or add to cart for price do no include that product in the list" },
         { role: "user", content: `Analyze the following text and answer the question: "${question}"\n\n${fileContent}` },
