@@ -12,7 +12,7 @@
     "dev:client": "vite",
     "dev:server": "cd .. && cd api && cd src && node app.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@feathersjs/mongodb": "^5.0.31",
