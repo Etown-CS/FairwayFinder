@@ -1,54 +1,73 @@
-// For more information about this file see https://dove.feathersjs.com/guides/cli/application.html
-import { feathers } from '@feathersjs/feathers'
-import configuration from '@feathersjs/configuration'
-import { koa, rest, bodyParser, errorHandler, parseAuthentication, cors, serveStatic } from '@feathersjs/koa'
-import socketio from '@feathersjs/socketio'
+import dotenv from 'dotenv';
+import { feathers } from '@feathersjs/feathers';
+import configuration from '@feathersjs/configuration';
+import { koa, rest, bodyParser, errorHandler, parseAuthentication, cors } from '@feathersjs/koa';
+import socketio from '@feathersjs/socketio';
+import { mongodb } from './mongodb.js'; // MongoDB connection logic
+import { services } from './services/index.js'; // Import services
+import { channels } from './channels.js';
 
-import { configurationValidator } from './configuration.js'
-import { logError } from './hooks/log-error.js'
-import { mongodb } from './mongodb.js'
-import { services } from './services/index.js'
-import { channels } from './channels.js'
+console.log("running");
 
-const app = koa(feathers())
+// Load environment variables
+dotenv.config();
 
-// Load our app configuration (see config/ folder)
-app.configure(configuration(configurationValidator))
+// Feathers app setup
+const app = koa(feathers());
 
-// Set up Koa middleware
-app.use(cors())
-app.use(serveStatic(app.get('public')))
-app.use(errorHandler())
-app.use(parseAuthentication())
-app.use(bodyParser())
+// Middleware and configurations
+app.configure(configuration())
+   .use(cors())
+   .use(errorHandler())
+   .use(parseAuthentication())
+   .use(bodyParser());
 
-// Configure services and transports
-app.configure(rest())
-app.configure(
-  socketio({
-    cors: {
-      origin: app.get('origins')
+// Configure Feathers transports
+app.configure(rest());
+app.configure(socketio({ cors: { origin: app.get('origins') }}));
+
+const psswd = process.env.DATABASE_PSSWD;
+console.log("psswd:");
+console.log(psswd);
+
+// MongoDB URI and connection setup
+const mongoUri = `mongodb+srv://samh:${encodeURIComponent(process.env.DATABASE_PSSWD)}@fairwayfinder.stoif.mongodb.net/FairwayFinderDB?retryWrites=true&w=majority&tls=true`;
+
+// Set MongoDB URI on the app config
+app.set('mongodb', mongoUri);
+
+// Initialize MongoDB connection and Feathers app
+async function initializeApp() {
+  try {
+    console.log('Initializing MongoDB connection...');
+    
+    // Wait for MongoDB to connect and client to be set
+    const mongoClient = await app.configure(mongodb);  // Waits for the mongodb.js to finish
+
+    if (!mongoClient) {
+      throw new Error('MongoDB client is not set on the app.');
     }
-  })
-)
-app.configure(mongodb)
 
-app.configure(services)
-app.configure(channels)
+    console.log('MongoDB client connected:', mongoClient);
 
-// Register hooks that run on all service methods
-app.hooks({
-  around: {
-    all: [logError]
-  },
-  before: {},
-  after: {},
-  error: {}
-})
-// Register application setup and teardown hooks here
-app.hooks({
-  setup: [],
-  teardown: []
-})
+    // Register services and channels after MongoDB is connected
+    app.configure(services);
+    app.configure(channels);
 
-export { app }
+    //console.log("TEST");
+
+    // Start the app server
+    const port = app.get('port') || 3031;
+    const host = app.get('host') || 'localhost';
+    app.listen(port).then(() => {
+      console.log(`Feathers app is listening on http://${host}:${port}`);
+    });
+  } catch (error) {
+    console.error('Error initializing app:', error);
+  }
+}
+
+// Run the app initialization
+initializeApp();
+
+export { app };
