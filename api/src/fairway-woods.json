@@ -1,0 +1,898 @@
+[
+  {
+    "_id": "672eb563c9bae5e02c703a25",
+    "brand_name": "PING",
+    "product_title": "Men's G430 MAX Fairway",
+    "price": "$269",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a26",
+    "brand_name": "PING",
+    "product_title": "Men's G410 Fairway",
+    "price": "$399",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a27",
+    "brand_name": "Titleist",
+    "product_title": "Men's GT 2 Fairway",
+    "price": "$1529",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a28",
+    "brand_name": "TaylorMade",
+    "product_title": "Men's Qi10 Fairway",
+    "price": "$269",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a29",
+    "brand_name": "PING",
+    "product_title": "Men's G430 SFT Fairway",
+    "price": "$269",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2a",
+    "brand_name": "TaylorMade",
+    "product_title": "Men's Stealth 2 Steel Fairway",
+    "price": "$219",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2b",
+    "brand_name": "Cleveland",
+    "product_title": "Men's Launcher Halo XL Fairway",
+    "price": "$229",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2c",
+    "brand_name": "Callaway",
+    "product_title": "Men's Paradym Al Fairway",
+    "price": "$199",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2d",
+    "brand_name": "TaylorMade",
+    "product_title": "Men's SIM2 Max Fairway Wood",
+    "price": "$299",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2e",
+    "brand_name": "Callaway",
+    "product_title": "Men's Paradym X Fairway",
+    "price": "$259",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a2f",
+    "brand_name": "PING",
+    "product_title": "Men's G430 SFT HL Fairway",
+    "price": "$269",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a30",
+    "brand_name": "PING",
+    "product_title": "Men's G425 LST Fairway",
+    "price": "$249",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a31",
+    "brand_name": "PING",
+    "product_title": "Men's G425 MAX Fairway",
+    "price": "$249",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a32",
+    "brand_name": "Callaway",
+    "product_title": "Men's Rogue ST 24 Max Fairway",
+    "price": "$249",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a33",
+    "brand_name": "XXIO",
+    "product_title": "Men's 13 Fairway",
+    "price": "$399",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a34",
+    "brand_name": "Titleist",
+    "product_title": "Men's GT 3 Fairway Wood",
+    "price": "$399",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a35",
+    "brand_name": "XXIO",
+    "product_title": "Men's Prime 11 Fairway",
+    "price": "$399",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a36",
+    "brand_name": "Callaway",
+    "product_title": "Men's Mavrik Fairway",
+    "price": "$179",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a37",
+    "brand_name": "Cleveland",
+    "product_title": "Ladies Launcher Halo XL Fairway",
+    "price": "$179",
+    "website": "TGW.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a38",
+    "brand": "Mizuno Golf",
+    "product_title": "ST-MAX 230 Fairway Wood",
+    "price": "$179.95",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a39",
+    "brand": "Mizuno Golf",
+    "product_title": "ST-Z 230 Fairway Wood",
+    "price": "$249.95",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3a",
+    "brand": "Cobra Golf",
+    "product_title": "LTDx Fairway Wood",
+    "price": "$149.00",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3b",
+    "brand": "Cobra Golf",
+    "product_title": "LTDx Max Fairway Wood",
+    "price": "$149.00",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3c",
+    "brand": "Callaway Golf",
+    "product_title": "Mavrik Fairway Wood",
+    "price": "$179.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3d",
+    "brand": "Callaway Golf",
+    "product_title": "Paradym Ai Smoke Max Fairway Wood",
+    "price": "$349.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3e",
+    "brand": "Callaway Golf",
+    "product_title": "Big Bertha B21 Fairway Wood",
+    "price": "$249.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a3f",
+    "brand": "Callaway Golf",
+    "product_title": "Paradym Triple Diamond Fairway Wood",
+    "price": "$279.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a40",
+    "brand": "Callaway Golf",
+    "product_title": "Paradym Fairway Wood",
+    "price": "$229.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a41",
+    "brand": "Callaway Golf",
+    "product_title": "Paradym X Fairway Wood",
+    "price": "$249.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a42",
+    "brand": "Callaway Golf",
+    "product_title": "Rogue ST Max Fairway Wood",
+    "price": "$249.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a43",
+    "brand": "TaylorMade Golf",
+    "product_title": "Stealth 2 Fairway Wood",
+    "price": "$449.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a44",
+    "brand": "Titleist Golf",
+    "product_title": "TSR1 Fairway Wood",
+    "price": "$299.00",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a45",
+    "brand": "Titleist Golf",
+    "product_title": "TSR2 Fairway Wood",
+    "price": "$299.00",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a46",
+    "brand": "Titleist Golf",
+    "product_title": "TSR3 Fairway Wood",
+    "price": "$299.00",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a47",
+    "brand": "Srixon Golf",
+    "product_title": "ZX MKII Fairway Wood",
+    "price": "$149.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a48",
+    "brand": "Tour Edge Golf",
+    "product_title": "Hot Launch C523 Fairway Wood",
+    "price": "$169.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a49",
+    "brand": "Tour Edge Golf",
+    "product_title": "Hot Launch C524 Fairway Wood",
+    "price": "$229.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4a",
+    "brand": "Tour Edge Golf",
+    "product_title": "Hot Launch E524 Fairway Wood",
+    "price": "$169.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4b",
+    "brand": "Tour Edge Golf",
+    "product_title": "Exotics E723 Fairway Wood",
+    "price": "$199.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4c",
+    "brand": "Wilson Golf",
+    "product_title": "Staff Dynapower Fairway Wood",
+    "price": "$199.99",
+    "website": "Rock Bottom Golf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4d",
+    "brand_name": "TaylorMade",
+    "product_title": "M5 STEALTH 2 Fairway Wood",
+    "price": "$229.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4e",
+    "brand_name": "XXIO",
+    "product_title": "Prime 11 Fairway Wood",
+    "price": "$579.99 - $103.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a4f",
+    "brand_name": "Mizuno",
+    "product_title": "Fairway Wood",
+    "price": "$161.99 - $242.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a50",
+    "brand_name": "TaylorMade",
+    "product_title": "STEALTH 2 HD Fairway Wood",
+    "price": "$229.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a51",
+    "brand_name": "Callaway",
+    "product_title": "XR 16 Fairway Wood",
+    "price": "$71.99 - $119.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a52",
+    "brand_name": "Callaway",
+    "product_title": "Epic MAX Fairway Wood",
+    "price": "$99.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a53",
+    "brand_name": "TaylorMade",
+    "product_title": "M2 Fairway Wood",
+    "price": "$79.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a54",
+    "brand_name": "Srixon",
+    "product_title": "ZX Paradym X Fairway Wood",
+    "price": "$199.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a55",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Fairway Wood",
+    "price": "$249.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a56",
+    "brand_name": "XXIO",
+    "product_title": "X Black Fairway Wood",
+    "price": "$71.99 - $60.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a57",
+    "brand_name": "Titleist",
+    "product_title": "TSR2 Fairway Wood",
+    "price": "$159.99 - $269.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a58",
+    "brand_name": "Titleist",
+    "product_title": "917F2 Fairway Wood",
+    "price": "$119.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a59",
+    "brand_name": "Cobra",
+    "product_title": "King F9 SpeedBack Black Yellow Fairway Wood",
+    "price": "$129.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5a",
+    "brand_name": "Ping",
+    "product_title": "G Fairway Wood",
+    "price": "$109.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5b",
+    "brand_name": "Callaway",
+    "product_title": "XR Fairway Wood",
+    "price": "$71.99 - $103.99",
+    "website": "GlobalGolf"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5c",
+    "brand": "TITLEIST",
+    "product_title": "GT2 Fairway Wood",
+    "price": "$399.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5d",
+    "brand": "TITLEIST",
+    "product_title": "GT3 Fairway Wood",
+    "price": "$399.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5e",
+    "brand": "PING",
+    "product_title": "Prodi G Fairway Wood",
+    "price": "$154.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a5f",
+    "brand": "TOUR EDGE",
+    "product_title": "Exotics C725 Fairway Wood",
+    "price": "$299.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a60",
+    "brand": "TOUR EDGE",
+    "product_title": "Exotics E725 Fairway Wood",
+    "price": "$249.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a61",
+    "brand": "TOUR EDGE",
+    "product_title": "Exotics E725 Women's Fairway Wood",
+    "price": "$249.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a62",
+    "brand": "CALLAWAY",
+    "product_title": "Paradym Ai Smoke TI Mini Driver",
+    "price": "$449.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a63",
+    "brand": "TAYLORMADE",
+    "product_title": "Stealth 2 Fairway Wood",
+    "price": "$220.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a64",
+    "brand": "PING",
+    "product_title": "G430 SFT Fairway Wood",
+    "price": "$349.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a65",
+    "brand": "CALLAWAY",
+    "product_title": "Mavrik 2022 Fairway Wood",
+    "price": "$179.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a66",
+    "brand": "TAYLORMADE",
+    "product_title": "BRNR Mini Driver Copper",
+    "price": "$269.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a67",
+    "brand": "MIZUNO",
+    "product_title": "ST-Max 230 Fairway Wood",
+    "price": "$179.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a68",
+    "brand": "CALLAWAY",
+    "product_title": "Paradym Fairway Wood",
+    "price": "$249.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a69",
+    "brand": "CALLAWAY",
+    "product_title": "Paradym X Fairway Wood",
+    "price": "$349.99",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6a",
+    "brand": "COBRA",
+    "product_title": "Aerojet Max Fairway Wood",
+    "price": "$159.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6b",
+    "brand": "TAYLORMADE",
+    "product_title": "Stealth 2 Plus+ Fairway Wood",
+    "price": "$220.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6c",
+    "brand": "COBRA",
+    "product_title": "Aerojet Fairway Wood",
+    "price": "$159.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6d",
+    "brand": "WILSON",
+    "product_title": "Dynapower Fairway Wood",
+    "price": "$199.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6e",
+    "brand": "COBRA",
+    "product_title": "Aerojet LS Fairway Wood",
+    "price": "$159.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a6f",
+    "brand": "CLEVELAND",
+    "product_title": "Launcher Halo XL 2024 Fairway Wood",
+    "price": "$229.98",
+    "website": "PGA TOUR Superstore"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a70",
+    "brand_name": "Ping",
+    "product_title": "G430 MAX Fairway Wood",
+    "price": "$349.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a71",
+    "brand_name": "Cleveland",
+    "product_title": "Halo XL Fairway Wood",
+    "price": "$229.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a72",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Ai Wood",
+    "price": "$267",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a73",
+    "brand_name": "Titleist",
+    "product_title": "GT2 Fairway",
+    "price": "$399",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a74",
+    "brand_name": "TaylorMade",
+    "product_title": "Qi10 Max Fairway Wood",
+    "price": "$349.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a75",
+    "brand_name": "XXIO",
+    "product_title": "13 Fairway Wood",
+    "price": "$399.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a76",
+    "brand_name": "TaylorMade",
+    "product_title": "Qi10 Fairway Wood",
+    "price": "$349.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a77",
+    "brand_name": "Titleist",
+    "product_title": "GT3 Fairway",
+    "price": "$399",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a78",
+    "brand_name": "TaylorMade",
+    "product_title": "Stealth 2 Fairway Wood",
+    "price": "$218.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a79",
+    "brand_name": "Callaway",
+    "product_title": "MAVRIK Fairway Wood",
+    "price": "$179.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7a",
+    "brand_name": "Titleist",
+    "product_title": "TSR2 Fairway Wood",
+    "price": "$299",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7b",
+    "brand_name": "Ping",
+    "product_title": "G430 SFT Fairway Wood",
+    "price": "$267",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7c",
+    "brand_name": "Ping",
+    "product_title": "G425 Max Fairway Wood",
+    "price": "$247",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7d",
+    "brand_name": "Tour Edge",
+    "product_title": "Women's Exotics E725 Fairway",
+    "price": "$249.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7e",
+    "brand_name": "Tour Edge",
+    "product_title": "Exotics E725 Fairway",
+    "price": "$249.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a7f",
+    "brand_name": "Tour Edge",
+    "product_title": "Exotics C725 Fairway",
+    "price": "$299.99",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a80",
+    "brand_name": "Titleist",
+    "product_title": "Women's GT2 Fairway",
+    "price": "$399",
+    "website": "example.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a81",
+    "brand_name": "TaylorMade",
+    "product_title": "Sim2 Max Driver",
+    "price": 499.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a82",
+    "brand_name": "Callaway",
+    "product_title": "Epic Speed Driver",
+    "price": 529.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a83",
+    "brand_name": "Titleist",
+    "product_title": "TSi2 Driver",
+    "price": 549.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a84",
+    "brand_name": "TaylorMade",
+    "product_title": "M6 Iron Set",
+    "price": 699.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a85",
+    "brand_name": "Callaway",
+    "product_title": "Mavrik Irons",
+    "price": 799.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a86",
+    "brand_name": "Cobra",
+    "product_title": "King Forged Tec Iron Set",
+    "price": 1099.99,
+    "website": "GolfDiscount.com"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a87",
+    "brand_name": "TaylorMade",
+    "product_title": "Qi10 Fairway Woods 2024",
+    "price": "$347.00",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a88",
+    "brand_name": "PING",
+    "product_title": "G430 MAX Fairway Woods",
+    "price": "$267.00",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a89",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Ai Smoke Fairway Woods 2024",
+    "price": "$349.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8a",
+    "brand_name": "Titleist",
+    "product_title": "GT2 Fairway Woods",
+    "price": "$399.00",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8b",
+    "brand_name": "Callaway",
+    "product_title": "Big Bertha B21 Fairway Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8c",
+    "brand_name": "Srixon",
+    "product_title": "ZX Mk Il Fairway Woods 2024",
+    "price": "$119.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8d",
+    "brand_name": "TaylorMade",
+    "product_title": "Qi10 Max Fairway Woods 2024",
+    "price": "$279.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8e",
+    "brand_name": "TaylorMade",
+    "product_title": "SIM 2 Max Fairway Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a8f",
+    "brand_name": "Adams",
+    "product_title": "Tight Lies Fairway Woods",
+    "price": "$199.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a90",
+    "brand_name": "Callaway",
+    "product_title": "Apex UW 24 Utility Woods",
+    "price": "$89.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a91",
+    "brand_name": "Callaway",
+    "product_title": "Big Bertha 23 Fairway Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a92",
+    "brand_name": "Callaway",
+    "product_title": "Great Big Bertha Fairway Woods 2024",
+    "price": "$499.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a93",
+    "brand_name": "Callaway",
+    "product_title": "Mavrik 22 Fairway Woods",
+    "price": "$229.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a94",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Ai Smoke Triple Diamond Fairway Woods 2024",
+    "price": "$199.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a95",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Ai Smoke Fairway Woods",
+    "price": "$179.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a96",
+    "brand_name": "Callaway",
+    "product_title": "Rogue ST 24 Max Fairway Woods",
+    "price": "$229.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a97",
+    "brand_name": "Callaway",
+    "product_title": "Womens Big Bertha REVA 23 Fairway Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a98",
+    "brand_name": "Callaway",
+    "product_title": "Womens Great Big Bertha Fairway Woods",
+    "price": "$229.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a99",
+    "brand_name": "Callaway",
+    "product_title": "Womens Mavrik 22 Fairway Woods",
+    "price": "$199.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9a",
+    "brand_name": "Callaway",
+    "product_title": "Womens Paradym Ai Smoke MAX D Fairway Woods 2024",
+    "price": "$179.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9b",
+    "brand_name": "Callaway",
+    "product_title": "Womens Paradym Ai Smoke MAX Fairway Woods 2024",
+    "price": "$349.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9c",
+    "brand_name": "Callaway",
+    "product_title": "Womens Paradym Ai Smoke MAX Fast Fairway Woods 2024",
+    "price": "$349.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9d",
+    "brand_name": "Mizuno",
+    "product_title": "PING G430 MAX Fairway Woods",
+    "price": "$347.00",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9e",
+    "brand_name": "TaylorMade",
+    "product_title": "Qi10 Fairway Woods 2024",
+    "price": "$267.00",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703a9f",
+    "brand_name": "Callaway",
+    "product_title": "Paradym Ai Smoke MAX Fairway Woods 2024",
+    "price": "$349.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703aa0",
+    "brand_name": "Titleist",
+    "product_title": "GT2 Fairway Woods",
+    "price": "$349.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703aa1",
+    "brand_name": "TaylorMade",
+    "product_title": "SIM 2 Max Fairway Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703aa2",
+    "brand_name": "Adams",
+    "product_title": "Tight Lies Fairway Woods",
+    "price": "$199.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703aa3",
+    "brand_name": "Callaway",
+    "product_title": "Apex UW 24 Utility Woods",
+    "price": "$299.99",
+    "website": "Carl's Golfland"
+  },
+  {
+    "_id": "672eb563c9bae5e02c703aa4",
+    "brand_name": "Callaway",
+    "product_title": "Big Bertha 23 Fairway Woods",
+    "price": "$229.99",
+    "website": "Carl's Golfland"
+  }
+]

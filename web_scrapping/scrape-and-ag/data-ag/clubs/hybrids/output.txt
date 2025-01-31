@@ -1,0 +1,153 @@
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_1.txt:
+Brand: <b>PING</b> Title: <b>Men's G430 Hybrid</b> Price: <b>$239.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G410 Hybrid</b> Price: <b>$135.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 Rescue</b> Price: <b>$199.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Rescue Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Rescue</b> Price: <b>$179.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo XL Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 HL Hybrid</b> Price: <b>$239.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Rescue Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 HD Rescue</b> Price: <b>$199.99</b>  
+Brand: <b>PING</b> Title: <b>Men's iCrossover Hybrid</b> Price: <b>$249.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym AI Smoke HL Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Hybrid</b> Price: <b>$149.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR2 Hybrid</b> Price: <b>$249.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G425 Hybrid</b> Price: <b>$219.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym AI Smoke Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's 2023 T200 Utility Iron</b> Price: <b>$269.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Star Hybrid</b> Price: <b>$212.40</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSi3 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Cobra</b> Title: <b>Men's AirX2 Hybrid</b> Price: <b>$199.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Tour Rescue Hybrid</b> Price: <b>$299.99</b>  
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_2.txt:
+Brand: <b>Honma Golf</b> Title: <b>TW 757 Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Pro 21 Hybrid</b> Price: <b>$139.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Pro Hybrid</b> Price: <b>$139.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Hybrid</b> Price: <b>$114.00</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>SIM2 Max Rescue Hybrid</b> Price: <b>$179.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Stealth Rescue Hybrid</b> Price: <b>$169.99</b>
+Brand: <b>XXIO Golf</b> Title: <b>Prime 11 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch C522 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Offset Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron-Wood</b> Price: <b>$79.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Hybrid</b> Price: <b>$279.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Utility Hybrid</b> Price: <b>$289.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Hybrid</b> Price: <b>$249.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max OS Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Qi10 Hybrid</b> Price: <b>$299.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Stealth 2 HD Rescue Hybrid</b> Price: <b>$219.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR1 Hybrid</b> Price: <b>$249.00</b>
+Brand: <b>Cleveland Golf</b> Title: <b>Halo XL Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>King Tec Hybrid</b> Price: <b>$299.00</b>
+Brand: <b>Mizuno Golf</b> Title: <b>ST-MAX 230 Hybrid</b> Price: <b>$159.95</b>
+Brand: <b>Srixon Golf</b> Title: <b>ZX MKII Hybrid</b> Price: <b>$179.99</b>
+Brand: <b>Lynx Golf</b> Title: <b>Predator Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E524 Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics C723 Hybrid</b> Price: <b>$169.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics E723 Hybrid</b> Price: <b>$169.99</b>
+Website: <b>Rock Bottom Golf</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_3.txt:
+Brand: <b>Callaway</b> Title: <b>Rogue X STEALTH 2 Rescue</b> Price: <b>$209.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX OS</b> Price: <b>$199.99</b>
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Halo</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 PLUS Rescue</b> Price: <b>$149.99</b>
+Brand: <b>Cobra</b> Title: <b>King TEC 2021</b> Price: <b>$149.98</b>
+
+Website: <b>GlobalGolf</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_4.txt:
+Brand: <b>PING</b> Title: <b>G430 Hybrid</b> Price: <b>$239.98 - $279.99</b> 
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Rescue</b> Price: <b>$299.99</b>
+Brand: <b>PING</b> Title: <b>Crossover w/ Graphite Shafts</b> Price: <b>$209.98</b>
+Brand: <b>PING</b> Title: <b>G425 Hybrid Mens</b> Price: <b>$249.99 - $299.99</b>
+Brand: <b>MIZUNO</b> Title: <b>ST-Max 230 Hybrid</b> Price: <b>$159.98</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 High Draw Rescue</b> Price: <b>$249.99</b>
+Brand: <b>PING</b> Title: <b>G430 HL Hybrid</b> Price: <b>$209.98 - $279.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Mavrik 2022 Hybrid</b> Price: <b>$149.98 - $199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Prodi G Hybrid</b> Price: <b>$144.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TITLEIST</b> Title: <b>TSR2 Hybrid</b> Price: <b>$249.98 - $299.99</b>
+Brand: <b>COBRA</b> Title: <b>Aerojet One Length Hybrid</b> Price: <b>$129.98 - $279.99</b>
+Brand: <b>CLEVELAND</b> Title: <b>Launcher Halo XL 2024 Hybrid</b> Price: <b>$199.98 - $229.99</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Plus+ Rescue</b> Price: <b>$299.99</b>
+Brand: <b>MIZUNO</b> Title: <b>ST-Z 230 Hybrid</b> Price: <b>$159.98 - $249.99</b>
+Brand: <b>TITLEIST</b> Title: <b>U505 2023 Utility Iron w/ Graphite Shaft</b> Price: <b>$269.99 - $399.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Hybrid</b> Price: <b>$219.98 - $299.99</b>
+Brand: <b>SRIXON</b> Title: <b>ZX MK I Utility</b> Price: <b>$239.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym X Hybrid</b> Price: <b>$219.98 - $299.99</b>
+Brand: <b>TITLEIST</b> Title: <b>TSR1 Hybrid</b> Price: <b>$249.98 - $299.99</b>
+
+Website: <b>PGA TOUR Superstore</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_5.txt:
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Rescue</b> Price: <b>$299.99</b>  
+Brand: <b>Ping</b> Title: <b>G425 Hybrid</b> Price: <b>$217</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke HL Hybrid</b> Price: <b>$159.95</b>  
+Brand: <b>Mizuno</b> Title: <b>ST-Max 230 Hybrid</b> Price: <b>$187</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM2 Max Rescue</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>MAVRIK Hybrid</b> Price: <b>$149.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Max Fast Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Women's Qi10 Max Rescue</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Paradym Ai Smoke Hybrid Max Fast</b> Price: <b>$279.99</b>  
+Brand: <b>XXIO</b> Title: <b>Women's 13 Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Women's Exotics E725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Ping</b> Title: <b>G430 HL Hybrid</b> Price: <b>$237</b>  
+Website: <b>golfdiscount.com</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_6.txt:
+Brand: <b>TaylorMade</b> Title: <b>G430 Hybrids</b> Price: <b>$297.60</b>
+Brand: <b>Callaway</b> Title: <b>Apex 21 Hybrids</b> Price: <b>$237.00</b>
+Brand: <b>Titleist</b> Title: <b>Hybrids 2024</b> Price: <b>$269.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Super Hybrid 2024</b> Price: <b>$399.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Rescue Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Hybrids</b> Price: <b>$198.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex Pro 21 Hybrids</b> Price: <b>$249.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Hybrids</b> Price: <b>$149.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Hybrids</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Hybrids</b> Price: <b>$259.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik Max Hybrids</b> Price: <b>$219.99 - $449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Hybrids</b> Price: <b>$99.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA Hybrids</b> Price: <b>$259.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Hybrids 2023</b> Price: <b>$449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fast Hybrids 2024</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Rogue ST 24 Max OS Lite Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST Pro Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Cleveland</b> Title: <b>HALO XL 2 Hy-Woods 2024</b> Price: <b>$239.99</b>
+Website: <b>Carl's Golfland</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_7.txt:
+Brand: <b>TaylorMade</b> Title: <b>Hybrids 2024</b> Price: <b>$297.60 - $237.00</b>
+Brand: <b>Titleist</b> Title: <b>Hybrids 2024</b> Price: <b>$269.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Super Hybrid 2024</b> Price: <b>$399.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Rescue Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Hybrids</b> Price: <b>$198.99 - $249.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex Pro 21 Hybrids</b> Price: <b>$99.99 - $269.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Hybrids</b> Price: <b>$149.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Hybrids</b> Price: <b>$259.99 - $449.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Hybrids</b> Price: <b>$219.99 - $199.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Hybrids 2024</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Hybrids</b> Price: <b>$99.99 - $259.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA Hybrids</b> Price: <b>$219.99 - $249.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Hybrids 2023</b> Price: <b>$449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fast Hybrids 2024</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Rogue ST X Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Cleveland</b> Title: <b>HALO XL 2 Hy-Woods 2024</b> Price: <b>$239.99 - $209.99</b>
+Website: <b>Carl's Golfland</b>
+

@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* Container for centering the button */
+.centered-container {
+  display: flex;
+  flex-direction: column;  
+  justify-content: center; 
+  align-items: center;    
+  height: 100vh;           
+  background-color: white; 
+  text-align: center;      
+}
+
+/* Styling for the input textbox */
+.search-box {
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;           
+  margin-bottom: 20px;    
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Styling for the button */
+.button-deals {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-deals:hover {
+  background-color: #0056b3; /* Darken the button on hover */
+}
