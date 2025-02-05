@@ -4,7 +4,7 @@ const { OpenAI } = require('openai');
 const cliProgress = require('cli-progress'); // Import the cli-progress package
 
 // Define the question here
-const question = "What are the prices for the products and the site they are from? formating must be as follows including square brackets and bold tags: Brand: <b>[Brand]</b> Title: <b>[Title]</b> Price: <b>[Price]</b>, at the end of the list add Website: <b>[Website]</b>. If price is not given like click for low price or add to cart for price do no include that product in the list";
+const question = "What are the prices for the products and the site they are from? formatting must be as follows including square brackets and bold tags: Brand: <b>[Brand]</b> Title: <b>[Title]</b> Price: <b>[Price]</b>, at the end of the list add Website: <b>[Website]</b>. If a price does not exist for a product, drop the product. All prices must be actual prices and not text like low new price or checkout for price.";
 
 // Define the file paths here (replace with your actual file paths)
 const filePaths = [
