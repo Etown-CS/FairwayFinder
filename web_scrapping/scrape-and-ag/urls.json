@@ -1,0 +1,105 @@
+{
+    "clubs": {
+      "drivers": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/golf-drivers",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/driver",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/drivers",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/golf-drivers"
+      },
+      "fairway-woods": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/fairway-woods",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/golf-clubs/fairway-woods",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/fairway-wood",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/fairway-metals",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/fairway-woods?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/fairway-woods",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/fairway-woods"
+      },
+      "hybrids": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/hybrid",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/hybrid-golf-clubs"
+      },
+      "irons": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/golf-irons",
+        "rockbottomgolf.com": "https://rockbottomgolf.com/golf-clubs/iron-sets",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/iron-set",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/golf-irons-sets"
+      },
+      "putters": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/putters",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/golf-clubs/putters",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/putter",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/putters",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/putters"
+      },
+      "wedges": {
+        "tgw.com": "https://www.tgw.com/golf-clubs/golf-wedges",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+        "globalgolf.com": "https://www.globalgolf.com/golf-clubs/wedge",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-clubs/wedges",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/golf-wedges"
+      }
+    },
+    "balls": {
+      "personalized": {
+        "tgw.com": "https://www.tgw.com/golf-balls/personalized-golf-balls",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/balls/custom-logo-balls",
+        "globalgolf.com": "https://www.globalgolf.com/golf-balls/personalized",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-balls/personalized",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-balls/balls/personalized?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-balls/personalized-golf-balls",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/golf-balls?filterFacets=4973%253APersonalized"
+      },
+      "all": {
+        "tgw.com": "https://www.tgw.com/golf-balls/top-golf-balls",
+        "rockbottomgolf.com": "https://www.rockbottomgolf.com/balls/new-golf-balls",
+        "globalgolf.com": "https://www.globalgolf.com/golf-balls",
+        "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/golf-balls",
+        "golfdiscount.com": "https://www.golfdiscount.com/golf-balls?resultsPerPage=24",
+        "carlsgolfland.com": "https://www.carlsgolfland.com/golf-balls",
+        "dickssportinggoods.com": "https://www.dickssportinggoods.com/f/golf-balls"
+      }
+    },
+    "gloves": {
+      "left": {
+        "men": {
+          "globalgolf.com": "https://www.globalgolf.com/search/?ply=1&term=gloves"
+        },
+        "women": {
+          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Womens"
+        }
+      },
+      "right": {
+        "men": {
+          "globalgolf.com": "https://www.globalgolf.com/search/?ply=1&term=gloves"
+        },
+        "women": {
+          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Womens"
+        }
+      },
+      "other": {
+        "men": {
+          "globalgolf.com": "https://www.globalgolf.com/search/?ply=1&term=gloves"
+        },
+        "women": {
+          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Womens"
+        }
+      }
+    }
+  }
+  
