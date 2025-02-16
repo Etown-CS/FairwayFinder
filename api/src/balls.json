@@ -1,1166 +1,1162 @@
 [
   {
-    "_id": "672eb56bc9bae5e02c703aa5",
-    "brand": "Titleist",
-    "product_title": "Pro V1 Custom Number Personalized White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7f7a",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Custom Number Personalized White Golf Balls",
     "price": "$59.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aa6",
-    "brand": "Titleist",
-    "product_title": "Pro V1 Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f7b",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aa7",
-    "brand": "Bridgestone",
-    "product_title": "2022 Tour B X Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f7c",
+    "brandName": "Bridgestone",
+    "productTitle": "2022 Tour B X Golf Ball",
     "price": "$34.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aa8",
-    "brand": "Titleist",
-    "product_title": "Pro Vix Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f7d",
+    "brandName": "Titleist",
+    "productTitle": "Pro Vix Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aa9",
-    "brand": "Bridgestone",
-    "product_title": "2022 Tour B RXS Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f7e",
+    "brandName": "Bridgestone",
+    "productTitle": "2022 Tour B RXS Golf Ball",
     "price": "$34.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aaa",
-    "brand": "TaylorMade",
-    "product_title": "2021 Distance + Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f7f",
+    "brandName": "TaylorMade",
+    "productTitle": "2021 Distance + Golf Ball",
     "price": "$19.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aab",
-    "brand": "Bridgestone",
-    "product_title": "2022 Tour B XS Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f80",
+    "brandName": "Bridgestone",
+    "productTitle": "2022 Tour B XS Golf Ball",
     "price": "$29.73",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aac",
-    "brand": "Titleist",
-    "product_title": "Pro Vix Left Dash Personalized White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7f81",
+    "brandName": "Titleist",
+    "productTitle": "Pro Vix Left Dash Personalized White Golf Balls",
     "price": "$59.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aad",
-    "brand": "Titleist",
-    "product_title": "Pro V1x Custom Number Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f82",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1x Custom Number Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aae",
-    "brand": "Titleist",
-    "product_title": "2024 Velocity Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f83",
+    "brandName": "Titleist",
+    "productTitle": "2024 Velocity Golf Ball",
     "price": "$29.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aaf",
-    "brand": "Callaway",
-    "product_title": "SuperSoft 23 Splatter Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f84",
+    "brandName": "Callaway",
+    "productTitle": "SuperSoft 23 Splatter Golf Ball",
     "price": "$24.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab0",
-    "brand": "TaylorMade",
-    "product_title": "2024 SpeedSoft Ink Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7f85",
+    "brandName": "TaylorMade",
+    "productTitle": "2024 SpeedSoft Ink Golf Balls",
     "price": "$24.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab1",
-    "brand": "Titleist",
-    "product_title": "2024 AVX Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f86",
+    "brandName": "Titleist",
+    "productTitle": "2024 AVX Golf Ball",
     "price": "$49.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab2",
-    "brand": "Titleist",
-    "product_title": "Pro V1 Custom Number Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f87",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Custom Number Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab3",
-    "brand": "Titleist",
-    "product_title": "Pro Vx Enhanced Alignment Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f88",
+    "brandName": "Titleist",
+    "productTitle": "Pro Vx Enhanced Alignment Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab4",
-    "brand": "Wilson",
-    "product_title": "Staff 2023 Duo Soft Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7f89",
+    "brandName": "Wilson",
+    "productTitle": "Staff 2023 Duo Soft Golf Balls",
     "price": "$19.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab5",
-    "brand": "Titleist",
-    "product_title": "2024 Tour Soft Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f8a",
+    "brandName": "Titleist",
+    "productTitle": "2024 Tour Soft Golf Ball",
     "price": "$39.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab6",
-    "brand": "TaylorMade",
-    "product_title": "2024 TP5x pix 3.0 Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f8b",
+    "brandName": "TaylorMade",
+    "productTitle": "2024 TP5x pix 3.0 Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab7",
-    "brand": "Callaway",
-    "product_title": "SuperSoft 23 Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f8c",
+    "brandName": "Callaway",
+    "productTitle": "SuperSoft 23 Golf Ball",
     "price": "$24.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab8",
-    "brand": "Titleist",
-    "product_title": "Pro V1 Enhanced Alignment Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f8d",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Enhanced Alignment Golf Ball",
     "price": "$54.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ab9",
-    "brand": "Callaway",
-    "product_title": "2024 Chrome Tour Personalized Golf Ball",
+    "_id": "67b161c2a3c58c1d53bc7f8e",
+    "brandName": "Callaway",
+    "productTitle": "2024 Chrome Tour Personalized Golf Ball",
     "price": "$59.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aba",
-    "brand": "Callaway",
-    "product_title": "2023 Supersoft White Personalized Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7f8f",
+    "brandName": "Callaway",
+    "productTitle": "2023 Supersoft White Personalized Golf Balls",
     "price": "$28.99",
-    "website": "TGW.com"
+    "website": "TGW.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703abb",
-    "brand": "Mizuno Golf",
-    "title": "Rock Bottom Price",
-    "price": "$54.95"
+    "_id": "67b161c2a3c58c1d53bc7f90",
+    "brandName": "Titleist",
+    "productTitle": "Pro Vix Left Dash Golf Balls",
+    "price": "$49.95",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703abc",
-    "brand": "Mizuno Golf",
-    "title": "Rock Bottom Price",
-    "price": "$60.00"
+    "_id": "67b161c2a3c58c1d53bc7f91",
+    "brandName": "Titleist",
+    "productTitle": "AVX Golf Balls",
+    "price": "$54.95",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703abd",
-    "brand": "Nitro Golf",
-    "title": "Rock Bottom Price",
-    "price": "$55.00"
+    "_id": "67b161c2a3c58c1d53bc7f92",
+    "brandName": "Titleist",
+    "productTitle": "TruFeel Golf Balls",
+    "price": "$24.95",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703abe",
-    "brand": "Titleist",
-    "title": "Pro Vix Left Dash Golf Balls",
-    "price": "$49.95"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703abf",
-    "brand": "Titleist",
-    "title": "AVX Golf Balls",
-    "price": "$54.95"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac0",
-    "brand": "Titleist",
-    "title": "TruFeel Golf Balls",
-    "price": "$24.95"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac1",
-    "brand": "Callaway",
-    "title": "Chrome Soft Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac2",
-    "brand": "Callaway",
-    "title": "Chrome Tour Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac3",
-    "brand": "Callaway",
-    "title": "Chrome Tour X Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac4",
-    "brand": "Callaway",
-    "title": "Chrome Soft TruTrack USA Golf Balls",
-    "price": "$57.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac5",
-    "brand": "TaylorMade",
-    "title": "TP5 Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac6",
-    "brand": "TaylorMade",
-    "title": "TP5 Stripe Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac7",
-    "brand": "TaylorMade",
-    "title": "TP5x Stripe Golf Balls",
-    "price": "$57.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac8",
-    "brand": "TaylorMade",
-    "title": "TP5 Pix Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ac9",
-    "brand": "TaylorMade",
-    "title": "TP5x Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703aca",
-    "brand": "TaylorMade",
-    "title": "TP5x Pix Golf Balls",
-    "price": "$54.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703acb",
-    "brand": "Callaway",
-    "title": "Warbird Golf Balls",
-    "price": "As Low As $17.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703acc",
-    "brand": "TaylorMade",
-    "title": "TM Distance+ Golf Balls",
-    "price": "As Low As $17.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703acd",
-    "brand": "Srixon",
-    "title": "Marathon 3 Golf Balls [15-Ball Pack]",
-    "price": "As Low As $15.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ace",
-    "brand": "Strata",
-    "title": "Boom Golf Balls [24-Ball]",
-    "price": "$19.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703acf",
-    "brand": "Snake Eyes",
-    "title": "Extreme Distance Golf Balls",
-    "price": "As Low As $15.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad0",
-    "brand": "Snake Eyes",
-    "title": "Soft Distance Golf Balls",
-    "price": "As Low As $15.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad1",
-    "brand": "Cut",
-    "title": "Matte 3-Piece Surlyn Golf Balls",
-    "price": "As Low As $12.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad2",
-    "brand": "Honma",
-    "title": "D1 Dynamic Distance Golf Balls",
-    "price": "As Low As $14.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad3",
-    "brand": "TaylorMade",
-    "title": "TP5 pix Golf Balls [12-Ball]",
-    "price": "As Low As $30.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad4",
-    "brand": "Bridgestone",
-    "title": "Prior Generation Tour B RX Golf Balls [12-Ball]",
-    "price": "As Low As $25.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad5",
-    "brand": "Bridgestone",
-    "title": "e6 Logo Overrun Golf Balls [12-Ball]",
-    "price": "As Low As $15.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad6",
-    "brand": "Nitro",
-    "title": "Ultimate Distance Golf Balls",
-    "price": "As Low As $9.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad7",
-    "brand": "Spalding",
-    "title": "SD Tour Golf Balls",
-    "price": "As Low As $12.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad8",
-    "brand": "Spalding",
-    "title": "SD Tour X Golf Balls",
-    "price": "As Low As $12.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ad9",
-    "brand": "Nitro",
-    "title": "Liquid Golf Balls",
-    "price": "As Low As $9.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ada",
-    "brand": "PXG",
-    "title": "Xtreme Golf Balls",
-    "price": "As Low As $33.33"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703adb",
-    "brand": "PXG",
-    "title": "Xtreme Tour Golf Balls",
-    "price": "As Low As $33.33"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703adc",
-    "brand": "PXG",
-    "title": "Xtreme Tour X Golf Balls",
-    "price": "As Low As $37.50"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703add",
-    "brand": "Shock'd",
-    "title": "Golf Balls",
-    "price": "$19.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ade",
-    "brand": "Bullet",
-    "title": ".444 Distance Golf Balls [12-Ball]",
-    "price": "As Low As $12.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703adf",
-    "brand": "Bullet",
-    "title": ".444 Distance Golf Balls [30-Ball]",
-    "price": "As Low As $20.00"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae0",
-    "brand": "Titleist",
-    "title": "Prior Generation Velocity Golf Balls",
-    "price": "$20.95"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae1",
-    "brand": "Titleist",
-    "title": "Tour Soft Golf Balls",
-    "price": "$39.95"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae2",
-    "brand": "Pinnacle",
-    "title": "Rush Golf Balls [15-Ball]",
-    "price": "$24.99"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae3",
-    "brand_name": "Callaway",
-    "product_title": "Mavrik Max Driver",
-    "price": 499.99,
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae4",
-    "brand_name": "TaylorMade",
-    "product_title": "SIM2 Max Iron Set",
-    "price": 799.99,
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae5",
-    "brand_name": "Cleveland",
-    "product_title": "RTX ZipCore Wedge",
-    "price": 149.99,
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae6",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1 High Number Golf Balls",
-    "price": 49.99,
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae7",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1",
+    "_id": "67b161c2a3c58c1d53bc7f93",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Soft Golf Balls",
     "price": "$54.99",
-    "website": "http://example.com"
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703ae8",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x",
-    "price": "$54.99 - $60.00",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703ae9",
-    "brand_name": "Bridgestone",
-    "product_title": "Soft Feel 13",
-    "price": "$42.99",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703aea",
-    "brand_name": "TaylorMade",
-    "product_title": "Tour Response 22",
-    "price": "$22.99",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703aeb",
-    "brand_name": "Srixon",
-    "product_title": "Z-Star XV 8",
-    "price": "$49.99",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703aec",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x High Numbers",
+    "_id": "67b161c2a3c58c1d53bc7f94",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Golf Balls",
     "price": "$54.99",
-    "website": "http://example.com"
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aed",
-    "brand_name": "TaylorMade",
-    "product_title": "Tour Response Yellow 22",
-    "price": "$42.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7f95",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour X Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aee",
-    "brand_name": "Srixon",
-    "product_title": "Z-Star 8",
-    "price": "$27.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7f96",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Soft TruTrack USA Golf Balls",
+    "price": "$57.99",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703aef",
-    "brand_name": "Srixon",
-    "product_title": "Q-Star 6",
-    "price": "$27.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7f97",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af0",
-    "brand_name": "TaylorMade",
-    "product_title": "Distance+",
+    "_id": "67b161c2a3c58c1d53bc7f98",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Stripe Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f99",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5x Stripe Golf Balls",
+    "price": "$57.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9a",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9b",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5x Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9c",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5x Pix Golf Balls",
+    "price": "$54.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9d",
+    "brandName": "Callaway",
+    "productTitle": "Warbird Golf Balls",
+    "price": "As Low As $17.50",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9e",
+    "brandName": "TaylorMade",
+    "productTitle": "TM Distance+ Golf Balls",
+    "price": "As Low As $17.50",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7f9f",
+    "brandName": "Srixon",
+    "productTitle": "Marathon 3 Golf Balls [15-Ball Pack]",
+    "price": "As Low As $15.00",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fa0",
+    "brandName": "Strata",
+    "productTitle": "Boom Golf Balls [24-Ball]",
     "price": "$19.99",
-    "website": "http://example.com"
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af1",
-    "brand_name": "Callaway",
-    "product_title": "Supersoft 23",
-    "price": "$39.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa1",
+    "brandName": "Snake Eyes",
+    "productTitle": "Extreme Distance Golf Balls",
+    "price": "As Low As $15.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af2",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B X 22",
-    "price": "$39.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa2",
+    "brandName": "Snake Eyes",
+    "productTitle": "Soft Distance Golf Balls",
+    "price": "As Low As $15.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af3",
-    "brand_name": "TaylorMade",
-    "product_title": "Noodle Long and Soft 21",
-    "price": "$27.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa3",
+    "brandName": "Cut",
+    "productTitle": "Matte 3-Piece Surlyn Golf Balls",
+    "price": "As Low As $12.50",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af4",
-    "brand_name": "Srixon",
-    "product_title": "Double Q-Star 6 Yellow",
-    "price": "$27.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa4",
+    "brandName": "Honma",
+    "productTitle": "D1 Dynamic Distance Golf Balls",
+    "price": "As Low As $14.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af5",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B RXS 22",
-    "price": "$39.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa5",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 pix Golf Balls [12-Ball]",
+    "price": "As Low As $30.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af6",
-    "brand_name": "Callaway",
-    "product_title": "ERC Soft Triple Track 23",
-    "price": "$39.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa6",
+    "brandName": "Bridgestone",
+    "productTitle": "Prior Generation Tour B RX Golf Balls [12-Ball]",
+    "price": "As Low As $25.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af7",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 2021",
-    "price": "$54.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa7",
+    "brandName": "Bridgestone",
+    "productTitle": "e6 Logo Overrun Golf Balls [12-Ball]",
+    "price": "As Low As $15.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af8",
-    "brand_name": "Bridgestone",
-    "product_title": "e6 23",
-    "price": "$22.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa8",
+    "brandName": "Nitro",
+    "productTitle": "Ultimate Distance Golf Balls",
+    "price": "As Low As $9.00",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703af9",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B XS 22",
-    "price": "$39.99",
-    "website": "http://example.com"
+    "_id": "67b161c2a3c58c1d53bc7fa9",
+    "brandName": "Spalding",
+    "productTitle": "SD Tour Golf Balls",
+    "price": "As Low As $12.50",
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703afa",
-    "brand_name": "Divot",
-    "product_title": "42 Foam Balls w/Bucket",
+    "_id": "67b161c2a3c58c1d53bc7faa",
+    "brandName": "Spalding",
+    "productTitle": "SD Tour X Golf Balls",
+    "price": "As Low As $12.50",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fab",
+    "brandName": "Nitro",
+    "productTitle": "Liquid Golf Balls",
+    "price": "As Low As $9.00",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fac",
+    "brandName": "PXG",
+    "productTitle": "Xtreme Golf Balls",
+    "price": "As Low As $33.33",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fad",
+    "brandName": "PXG",
+    "productTitle": "Xtreme Tour Golf Balls",
+    "price": "As Low As $33.33",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fae",
+    "brandName": "PXG",
+    "productTitle": "Xtreme Tour X Golf Balls",
+    "price": "As Low As $37.50",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7faf",
+    "brandName": "Shock'd",
+    "productTitle": "Golf Balls",
+    "price": "$19.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb0",
+    "brandName": "Bullet",
+    "productTitle": ".444 Distance Golf Balls [12-Ball]",
+    "price": "As Low As $12.00",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb1",
+    "brandName": "Bullet",
+    "productTitle": ".444 Distance Golf Balls [30-Ball]",
+    "price": "As Low As $20.00",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb2",
+    "brandName": "Titleist",
+    "productTitle": "Prior Generation Velocity Golf Balls",
+    "price": "$20.95",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb3",
+    "brandName": "Titleist",
+    "productTitle": "Tour Soft Golf Balls",
+    "price": "$39.95",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb4",
+    "brandName": "Pinnacle",
+    "productTitle": "Rush Golf Balls [15-Ball]",
     "price": "$24.99",
-    "website": "http://example.com"
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703afb",
-    "brand_name": "TaylorMade",
-    "product_title": "Distance+ Yellow",
+    "_id": "67b161c2a3c58c1d53bc7fb5",
+    "brandName": "Divot",
+    "productTitle": "42 Foam Balls w/Bucket",
+    "price": "$24.99",
+    "website": "website",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7fb6",
+    "brandName": "Divot",
+    "productTitle": "24 Dimple Foam Balls in Bag",
     "price": "$19.99",
-    "website": "http://example.com"
+    "website": "website",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703afc",
-    "brand_name": "Divot",
-    "product_title": "24 Dimple Foam Balls in Bag",
-    "price": "$19.99",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703afd",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B XS TW 22",
-    "price": "$39.99",
-    "website": "http://example.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703afe",
-    "brand_name": "TaylorMade",
-    "product_title": "Stealth Driver",
-    "price": "$499.99",
-    "website": "globalgolf.com"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703aff",
-    "brand_name": "Titleist",
-    "product_title": "2023 Pro V1 Chicago Cubs Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fb7",
+    "brandName": "Titleist",
+    "productTitle": "2023 Pro V1 Chicago Cubs Golf Balls",
     "price": "$68.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b00",
-    "brand_name": "Titleist",
-    "product_title": "2023 Pro Vi Detroit Tigers Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fb8",
+    "brandName": "Titleist",
+    "productTitle": "2023 Pro Vi Detroit Tigers Golf Balls",
     "price": "$68.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b01",
-    "brand_name": "Titleist",
-    "product_title": "2023 Pro V1 Padres Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fb9",
+    "brandName": "Titleist",
+    "productTitle": "2023 Pro V1 Padres Golf Balls",
     "price": "$33.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b02",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Stripe 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fba",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Stripe 2024 Golf Balls",
     "price": "$57.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b03",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Pix 3.0 - UNC Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fbb",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix 3.0 - UNC Golf Balls",
     "price": "$64.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b04",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Pix 3.0 - Georgia Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fbc",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix 3.0 - Georgia Golf Balls",
     "price": "$64.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b05",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Pix 3.0 - Michigan Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fbd",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix 3.0 - Michigan Golf Balls",
     "price": "$64.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b06",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Pix 3.0 - Alabama Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fbe",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix 3.0 - Alabama Golf Balls",
     "price": "$64.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b07",
-    "brand_name": "TaylorMade",
-    "product_title": "Pix 30 - Notre Dame Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fbf",
+    "brandName": "TaylorMade",
+    "productTitle": "Pix 30 - Notre Dame Golf Balls",
     "price": "$59.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b08",
-    "brand_name": "Vice Golf",
-    "product_title": "Pro Plus 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc0",
+    "brandName": "Vice Golf",
+    "productTitle": "Pro Plus 2024 Golf Balls",
     "price": "$39.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b09",
-    "brand_name": "Vice Golf",
-    "product_title": "Pro Vix Performance Alignment 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc1",
+    "brandName": "Vice Golf",
+    "productTitle": "Pro Vix Performance Alignment 2024 Golf Balls",
     "price": "$59.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0a",
-    "brand_name": "Vice Golf",
-    "product_title": "Pro Air 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc2",
+    "brandName": "Vice Golf",
+    "productTitle": "Pro Air 2024 Golf Balls",
     "price": "$39.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0b",
-    "brand_name": "Vice Golf",
-    "product_title": "Drive 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc3",
+    "brandName": "Vice Golf",
+    "productTitle": "Drive 2024 Golf Balls",
     "price": "$19.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0c",
-    "brand_name": "Vice Golf",
-    "product_title": "Tour 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc4",
+    "brandName": "Vice Golf",
+    "productTitle": "Tour 2024 Golf Balls",
     "price": "$27.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0d",
-    "brand_name": "Callaway",
-    "product_title": "SuperSoft Casino 2024 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc5",
+    "brandName": "Callaway",
+    "productTitle": "SuperSoft Casino 2024 Golf Balls",
     "price": "$24.99",
-    "website": "PGA TOUR Superstore"
+    "website": "PGA TOUR Superstore",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0e",
-    "brand": "Titleist",
-    "product_title": "Pro V1 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc6",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Balls",
     "price": "$54.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b0f",
-    "brand": "Titleist",
-    "product_title": "Pro Vix Left Dash Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc7",
+    "brandName": "Titleist",
+    "productTitle": "Pro Vix Left Dash Golf Balls",
     "price": "$54.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b10",
-    "brand": "Callaway",
-    "product_title": "Supersoft Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc8",
+    "brandName": "Callaway",
+    "productTitle": "Supersoft Golf Balls",
     "price": "$24.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b11",
-    "brand": "Callaway",
-    "product_title": "Warbird White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fc9",
+    "brandName": "Callaway",
+    "productTitle": "Warbird White Golf Balls",
     "price": "$17.50",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b12",
-    "brand": "Callaway",
-    "product_title": "Supersoft Casino Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fca",
+    "brandName": "Callaway",
+    "productTitle": "Supersoft Casino Golf Balls",
     "price": "$24.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b13",
-    "brand": "TaylorMade",
-    "product_title": "Distance+ Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fcb",
+    "brandName": "TaylorMade",
+    "productTitle": "Distance+ Golf Balls",
     "price": "$19.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b14",
-    "brand": "TaylorMade",
-    "product_title": "Tour Response Stripe Blue/Pink Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fcc",
+    "brandName": "TaylorMade",
+    "productTitle": "Tour Response Stripe Blue/Pink Golf Balls",
     "price": "$42.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b15",
-    "brand": "TaylorMade",
-    "product_title": "TP5 Pix USA Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fcd",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Pix USA Golf Balls",
     "price": "$57.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b16",
-    "brand": "TaylorMade",
-    "product_title": "TP5 White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fce",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 White Golf Balls",
     "price": "$54.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b17",
-    "brand": "Srixon",
-    "product_title": "Soft Feel 13 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fcf",
+    "brandName": "Srixon",
+    "productTitle": "Soft Feel 13 Golf Balls",
     "price": "$22.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b18",
-    "brand": "Bridgestone",
-    "product_title": "e12 Soft Practice Bagged Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd0",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Soft Practice Bagged Golf Balls",
     "price": "$11.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b19",
-    "brand": "Bridgestone",
-    "product_title": "e12 Contact Patriot 15-Pack Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd1",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Patriot 15-Pack Golf Balls",
     "price": "$29.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1a",
-    "brand": "Titleist",
-    "product_title": "Pro V1 USA Limited Edition 6-Pack Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd2",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 USA Limited Edition 6-Pack Golf Balls",
     "price": "$31.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1b",
-    "brand": "Titleist",
-    "product_title": "2022 Pro V1 Logo Overrun Golf Balls 15-Pack",
+    "_id": "67b161c2a3c58c1d53bc7fd3",
+    "brandName": "Titleist",
+    "productTitle": "2022 Pro V1 Logo Overrun Golf Balls 15-Pack",
     "price": "$39.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1c",
-    "brand": "Callaway",
-    "product_title": "Supersoft Lucky Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd4",
+    "brandName": "Callaway",
+    "productTitle": "Supersoft Lucky Golf Balls",
     "price": "$24.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1d",
-    "brand": "Srixon",
-    "product_title": "Soft Feel 13 White Logo Overrun Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd5",
+    "brandName": "Srixon",
+    "productTitle": "Soft Feel 13 White Logo Overrun Golf Balls",
     "price": "$15.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1e",
-    "brand": "TaylorMade",
-    "product_title": "TPSx White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd6",
+    "brandName": "TaylorMade",
+    "productTitle": "TPSx White Golf Balls",
     "price": "$54.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b1f",
-    "brand": "Srixon",
-    "product_title": "Q-Star Tour 5 White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd7",
+    "brandName": "Srixon",
+    "productTitle": "Q-Star Tour 5 White Golf Balls",
     "price": "$39.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b20",
-    "brand": "Wilson Staff",
-    "product_title": "Zip Double Dozen Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd8",
+    "brandName": "Wilson Staff",
+    "productTitle": "Zip Double Dozen Golf Balls",
     "price": "$29.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b21",
-    "brand": "Srixon",
-    "product_title": "Soft Feel 11 White Logo Overrun Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fd9",
+    "brandName": "Srixon",
+    "productTitle": "Soft Feel 11 White Logo Overrun Golf Balls",
     "price": "$12.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b22",
-    "brand": "Titleist",
-    "product_title": "Prior Gen AVX White Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fda",
+    "brandName": "Titleist",
+    "productTitle": "Prior Gen AVX White Golf Balls",
     "price": "$44.99",
-    "website": "golfdiscount.com"
+    "website": "golfdiscount.com",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b23",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fdb",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b24",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fdc",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1x Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b25",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x Left Dash",
-    "price": "$54.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703b26",
-    "brand_name": "Titleist",
-    "product_title": "Tour Soft Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fdd",
+    "brandName": "Titleist",
+    "productTitle": "Tour Soft Golf Balls",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b27",
-    "brand_name": "Titleist",
-    "product_title": "Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fde",
+    "brandName": "Titleist",
+    "productTitle": "Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b28",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour Hallowen Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fdf",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Hallowen Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b29",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour Dia De Los Muertos Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe0",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Dia De Los Muertos Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2a",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5x Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fe1",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5x Golf Balls",
     "price": "$31.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2b",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe2",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Golf Balls 2024",
     "price": "$27.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2c",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR 6 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fe3",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR 6 Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2d",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Soft 360 Triple Track Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe4",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Soft 360 Triple Track Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2e",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe5",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b2f",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour X Triple Track Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe6",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour X Triple Track Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b30",
-    "brand_name": "TaylorMade",
-    "product_title": "SpeedSoft INK Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe7",
+    "brandName": "TaylorMade",
+    "productTitle": "SpeedSoft INK Golf Balls 2024",
     "price": "$24.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b31",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024",
+    "_id": "67b161c2a3c58c1d53bc7fe8",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b32",
-    "brand_name": "Srixon",
-    "product_title": "Z-STAR 8 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fe9",
+    "brandName": "Srixon",
+    "productTitle": "Z-STAR 8 Golf Balls",
     "price": "$49.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b33",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024",
+    "_id": "67b161c2a3c58c1d53bc7fea",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b34",
-    "brand_name": "Bridgestone",
-    "product_title": "e6 Golf Balls 2024 - Yellow",
+    "_id": "67b161c2a3c58c1d53bc7feb",
+    "brandName": "Bridgestone",
+    "productTitle": "e6 Golf Balls 2024 - Yellow",
     "price": "$24.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b35",
-    "brand_name": "Bridgestone",
-    "product_title": "e9 Long Drive Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fec",
+    "brandName": "Bridgestone",
+    "productTitle": "e9 Long Drive Golf Balls",
     "price": "$29.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b36",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7fed",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Golf Balls 2024",
     "price": "$34.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b37",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Matte Color Golf Balls - Green",
+    "_id": "67b161c2a3c58c1d53bc7fee",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Matte Color Golf Balls - Green",
     "price": "$29.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b38",
-    "brand_name": "Bridgestone",
-    "product_title": "Personalized Golf Balls - ON SALE",
+    "_id": "67b161c2a3c58c1d53bc7fef",
+    "brandName": "Bridgestone",
+    "productTitle": "Personalized Golf Balls - ON SALE",
     "price": "$37.99 - $46.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b39",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B RX Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff0",
+    "brandName": "Bridgestone",
+    "productTitle": "Tour B RX Golf Balls 2024",
     "price": "$49.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b3a",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7ff1",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b3b",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7ff2",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1x Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b3c",
-    "brand_name": "Titleist",
-    "product_title": "Pro V1x Left Dash",
-    "price": "$54.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb56bc9bae5e02c703b3d",
-    "brand_name": "Titleist",
-    "product_title": "Tour Soft Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7ff3",
+    "brandName": "Titleist",
+    "productTitle": "Tour Soft Golf Balls",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b3e",
-    "brand_name": "Titleist",
-    "product_title": "Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff4",
+    "brandName": "Titleist",
+    "productTitle": "Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b3f",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff5",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b40",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour Dia De Los Muertos Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff6",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Dia De Los Muertos Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b41",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5x Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff7",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5x Golf Balls 2024",
     "price": "$31.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b42",
-    "brand_name": "TaylorMade",
-    "product_title": "TP5 Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ff8",
+    "brandName": "TaylorMade",
+    "productTitle": "TP5 Golf Balls 2024",
     "price": "$27.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b43",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR 6 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7ff9",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR 6 Golf Balls",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b44",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Soft 360 Triple Track Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ffa",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Soft 360 Triple Track Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b45",
-    "brand_name": "Callaway",
-    "product_title": "Chrome Tour X Triple Track Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ffb",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour Golf Balls 2024",
     "price": "$54.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b46",
-    "brand_name": "TaylorMade",
-    "product_title": "SpeedSoft Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc7ffc",
+    "brandName": "Callaway",
+    "productTitle": "Chrome Tour X Triple Track Golf Balls 2024",
+    "price": "$54.99",
+    "website": "Carl's Golfland",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc7ffd",
+    "brandName": "TaylorMade",
+    "productTitle": "SpeedSoft Golf Balls 2024",
     "price": "$24.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b47",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024",
+    "_id": "67b161c2a3c58c1d53bc7ffe",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b48",
-    "brand_name": "Srixon",
-    "product_title": "Z-STAR 8 Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc7fff",
+    "brandName": "Srixon",
+    "productTitle": "Z-STAR 8 Golf Balls",
     "price": "$49.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b49",
-    "brand_name": "Srixon",
-    "product_title": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024",
+    "_id": "67b161c2a3c58c1d53bc8000",
+    "brandName": "Srixon",
+    "productTitle": "Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024",
     "price": "$39.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4a",
-    "brand_name": "Bridgestone",
-    "product_title": "e6 Golf Balls 2024 - Yellow",
+    "_id": "67b161c2a3c58c1d53bc8001",
+    "brandName": "Bridgestone",
+    "productTitle": "e6 Golf Balls 2024 - Yellow",
     "price": "$24.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4b",
-    "brand_name": "Bridgestone",
-    "product_title": "e9 Long Drive Golf Balls",
+    "_id": "67b161c2a3c58c1d53bc8002",
+    "brandName": "Bridgestone",
+    "productTitle": "e9 Long Drive Golf Balls",
     "price": "$26.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4c",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc8003",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Golf Balls 2024",
     "price": "$26.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4d",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Limited Edition Bonus Pack Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc8004",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Limited Edition Bonus Pack Golf Balls 2024",
     "price": "$34.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4e",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Matte Color Golf Balls - Green 2024",
+    "_id": "67b161c2a3c58c1d53bc8005",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Matte Color Golf Balls - Green 2024",
     "price": "$29.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b4f",
-    "brand_name": "Bridgestone",
-    "product_title": "e12 Contact Matte Color Golf Balls - Yellow 2024",
+    "_id": "67b161c2a3c58c1d53bc8006",
+    "brandName": "Bridgestone",
+    "productTitle": "e12 Contact Matte Color Golf Balls - Yellow 2024",
     "price": "$29.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
   },
   {
-    "_id": "672eb56bc9bae5e02c703b50",
-    "brand_name": "Bridgestone",
-    "product_title": "Tour B RX Golf Balls 2024",
+    "_id": "67b161c2a3c58c1d53bc8007",
+    "brandName": "Bridgestone",
+    "productTitle": "Tour B RX Golf Balls 2024",
     "price": "$49.99",
-    "website": "Carl's Golfland"
+    "website": "Carl's Golfland",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc8008",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Balls",
+    "price": "49.99",
+    "website": "PGA TOUR Superstore",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc8009",
+    "brandName": "Titleist",
+    "productTitle": "Pro V1 Golf Balls",
+    "price": "€49.99",
+    "website": "website1.com",
+    "__v": 0
+  },
+  {
+    "_id": "67b161c2a3c58c1d53bc800a",
+    "brandName": "Srixon",
+    "productTitle": "Z-Star Golf Balls",
+    "price": "€44.99",
+    "website": "website2.com",
+    "__v": 0
   }
 ]
