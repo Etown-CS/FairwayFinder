@@ -27,6 +27,6 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.other.women["carlsgolfland.com"], 'screen1.png');
+    await screenShot(data.gloves.other.women["carlsgolfland.com"], data.gloves.other.women["carlsgolfland.com"] + ".png");
 
 })();

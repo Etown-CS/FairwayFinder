@@ -8,13 +8,13 @@ const question = "What are the prices for the products and the site they are fro
 
 // Define the file paths here (replace with your actual file paths)
 const filePaths = [
-  "../../../web-src-scraping/balls/personalized/ball_personalized_1.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_2.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_3.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_4.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_5.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_6.txt",
-  "../../../web-src-scraping/balls/personalized/ball_personalized_7.txt"
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["tgw.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["rockbottomgolf.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["globalgolf.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["pgatoursuperstore.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["golfdiscount.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["carlsgolfland.com"] + '.txt',
+  "../../../web-src-scraping/balls/personalized/" + data.balls.personalized["dickssportinggoods.com"] + '.txt'
 ];
 
 // Define the single output file path

@@ -1,22 +1,25 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
+const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
+const data = JSON.parse(jsonString);
+
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/screen1.png';
-const outputFilePath1 = 'gloves_right_women_1.txt';
+const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/' + data.gloves.right.women["tgw.com"] + '.png';
+const outputFilePath1 = data.gloves.right.women["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/screen2.png';
-const outputFilePath2 = 'gloves_right_women_2.txt';
+const imagePath2 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/' + data.gloves.right.women["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = data.gloves.right.women["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/screen3.png';
-const outputFilePath3 = 'gloves_right_women_3.txt';
+const imagePath3 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/' + data.gloves.right.women["pgatoursuperstore.com"] + '.png';
+const outputFilePath3 = data.gloves.right.women["pgatoursuperstore.com"] + '.txt';
 
-const imagePath4 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/screen4.png';
-const outputFilePath4 = 'gloves_right_women_4.txt';
+const imagePath4 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/' + data.gloves.right.women["golfdiscount.com"] + '.png';
+const outputFilePath4 = data.gloves.right.women["golfdiscount.com"] + '.txt';
 
-const imagePath5 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/screen5.png';
-const outputFilePath5 = 'gloves_right_women_5.txt';
+const imagePath5 = '../../../../../playwright_files/playwright-node-files/gloves/right/women/' + data.gloves.right.women["dickssportinggoods.com"] + '.png';
+const outputFilePath5 = data.gloves.right.women["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 

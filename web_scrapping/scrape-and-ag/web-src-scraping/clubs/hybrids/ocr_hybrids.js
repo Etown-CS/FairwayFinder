@@ -1,28 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
+const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
+const data = JSON.parse(jsonString);
+
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen1.png';
-const outputFilePath1 = 'club_hybrids_1.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["tgw.com"] + '.png';
+const outputFilePath1 = data.clubs.hybrids["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen2.png';
-const outputFilePath2 = 'club_hybrids_2.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = data.clubs.hybrids["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen3.png';
-const outputFilePath3 = 'club_hybrids_3.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["globalgolf.com"] + '.png';
+const outputFilePath3 = data.clubs.hybrids["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen4.png';
-const outputFilePath4 = 'club_hybrids_4.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = data.clubs.hybrids["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen5.png';
-const outputFilePath5 = 'club_hybrids_5.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["golfdiscount.com"] + '.png';
+const outputFilePath5 = data.clubs.hybrids["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen6.png';
-const outputFilePath6 = 'club_hybrids_6.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["carlsgolfland.com"] + '.png';
+const outputFilePath6 = data.clubs.hybrids["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/screen7.png';
-const outputFilePath7 = 'club_hybrids_7.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/hybrids/' + data.clubs.hybrids["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = data.clubs.hybrids["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 
@@ -147,7 +150,7 @@ Tesseract.recognize(
          // Website 7 OCR
 
 Tesseract.recognize(
-  imagePath6,
+  imagePath7,
   'eng', // Specify the language of the text in the image
   { logger: m => console.log(m) } // Optional: Log the progress
 )

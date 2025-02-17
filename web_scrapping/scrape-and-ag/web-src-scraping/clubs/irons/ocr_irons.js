@@ -1,28 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
+const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
+const data = JSON.parse(jsonString);
+
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen1.png';
-const outputFilePath1 = 'club_irons_1.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["tgw.com"] + '.png';
+const outputFilePath1 = data.clubs.irons["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen2.png';
-const outputFilePath2 = 'club_irons_2.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = data.clubs.irons["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen3.png';
-const outputFilePath3 = 'club_irons_3.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["globalgolf.com"] + '.png';
+const outputFilePath3 = data.clubs.irons["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen4.png';
-const outputFilePath4 = 'club_irons_4.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = data.clubs.irons["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen5.png';
-const outputFilePath5 = 'club_irons_5.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["golfdiscount.com"] + '.png';
+const outputFilePath5 = data.clubs.irons["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen6.png';
-const outputFilePath6 = 'club_irons_6.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["carlsgolfland.com"] + '.png';
+const outputFilePath6 = data.clubs.irons["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/irons/screen7.png';
-const outputFilePath7 = 'club_irons_7.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/irons/' + data.clubs.irons["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = data.clubs.irons["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 
@@ -147,7 +150,7 @@ Tesseract.recognize(
          // Website 7 OCR
 
 Tesseract.recognize(
-  imagePath6,
+  imagePath7,
   'eng', // Specify the language of the text in the image
   { logger: m => console.log(m) } // Optional: Log the progress
 )

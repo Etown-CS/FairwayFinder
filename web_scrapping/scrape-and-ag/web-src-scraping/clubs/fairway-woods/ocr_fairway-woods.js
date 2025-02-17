@@ -1,28 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
+const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
+const data = JSON.parse(jsonString);
+
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen1.png';
-const outputFilePath1 = 'club_fairway-woods_1.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath1 = data.clubs.fairway-woods["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen2.png';
-const outputFilePath2 = 'club_fairway-woods_2.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath2 = data.clubs.fairway-woods["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen3.png';
-const outputFilePath3 = 'club_fairway-woods_3.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath3 = data.clubs.fairway-woods["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen4.png';
-const outputFilePath4 = 'club_fairway-woods_4.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath4 = data.clubs.fairway-woods["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen5.png';
-const outputFilePath5 = 'club_fairway-woods_5.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath5 = data.clubs.fairway-woods["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen6.png';
-const outputFilePath6 = 'club_fairway-woods_6.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath6 = data.clubs.fairway-woods["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/screen7.png';
-const outputFilePath7 = 'club_fairway-woods_7.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/fairway-woods/' + data.clubs.fairway-woods["tgw.com"] + '.png';
+const outputFilePath7 = data.clubs.fairway-woods["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 
@@ -147,7 +150,7 @@ Tesseract.recognize(
          // Website 7 OCR
 
 Tesseract.recognize(
-  imagePath6,
+  imagePath7,
   'eng', // Specify the language of the text in the image
   { logger: m => console.log(m) } // Optional: Log the progress
 )

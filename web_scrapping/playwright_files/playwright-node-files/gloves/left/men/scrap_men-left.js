@@ -27,11 +27,11 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.left.men["tgw.com"], 'screen1.png');
-    await screenShot(data.gloves.left.men["rockbottomgolf.com"], 'screen2.png');
-    await screenShot(data.gloves.left.men["pgatoursuperstore.com"], 'screen3.png');
-    await screenShot(data.gloves.left.men["golfdiscount.com"], 'screen4.png');
-    await screenShot(data.gloves.left.men["carlsgolfland.com"], 'screen5.png');
-    await screenShot(data.gloves.left.men["dickssportinggoods.com"], 'screen6.png');
+    await screenShot(data.gloves.left.men["tgw.com"], data.gloves.left.men["tgw.com"] + ".png");
+    await screenShot(data.gloves.left.men["rockbottomgolf.com"], data.gloves.left.men["rockbottomgolf.com"] + ".png");
+    await screenShot(data.gloves.left.men["pgatoursuperstore.com"], data.gloves.left.men["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.gloves.left.men["golfdiscount.com"], data.gloves.left.men["golfdiscount.com"] + ".png");
+    await screenShot(data.gloves.left.men["carlsgolfland.com"], data.gloves.left.men["carlsgolfland.com"] + ".png");
+    await screenShot(data.gloves.left.men["dickssportinggoods.com"], data.gloves.left.men["dickssportinggoods.com"] + ".png");
 
 })();

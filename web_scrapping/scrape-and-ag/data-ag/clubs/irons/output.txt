@@ -1,170 +1,128 @@
 Result from ../../../web-src-scraping/clubs/irons/club_irons_1.txt:
-Brand: <b>PING</b> Title: <b>Men's G430 Irons</b> Price: <b>$1,285 - $1,1420</b>
-Brand: <b>PING</b> Title: <b>Men's G425 Irons</b> Price: <b>$1,149 - $1,027</b>
-Brand: <b>Titleist</b> Title: <b>Men's 2023 T200 Irons</b> Price: <b>$1,399 - $1,499</b>
-Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL Halo Irons</b> Price: <b>$424.99</b>
-Brand: <b>Mizuno</b> Title: <b>Men's Pro 245 Irons</b> Price: <b>$1,399 - $1,599</b>
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi Irons</b> Price: <b>$428.50 - $1,257.13</b>
-Brand: <b>PING</b> Title: <b>Men's Blueprint S Irons</b> Price: <b>$1,275 - $1,699</b>
-Brand: <b>TaylorMade</b> Title: <b>Men's 2023 P790 Irons</b> Price: <b>$1,399 - $1,599</b>
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke HL Irons</b> Price: <b>$1,428 - $1,099</b>
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Irons</b> Price: <b>$599.99 - $699.99</b>
-Brand: <b>TaylorMade</b> Title: <b>Men's Stealth Irons</b> Price: <b>$1,287 - $913</b>
-Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL Irons</b> Price: <b>$424.99</b>
-Brand: <b>PING</b> Title: <b>Men's 1530 Irons</b> Price: <b>$1,862 - $1,400</b>
-Brand: <b>Titleist</b> Title: <b>Men's Gen 2 T300 Golf Irons</b> Price: <b>$799.99</b>
-Brand: <b>PING</b> Title: <b>Men's i230 Irons</b> Price: <b>$875 - $1,599</b>
-Brand: <b>Srixon</b> Title: <b>Men's ZX5 Mk II Irons</b> Price: <b>$1,857.10 - $1,299</b>
-Brand: <b>Mizuno</b> Title: <b>Men's JPX 923 Hot Metal Pro Irons</b> Price: <b>$787.50</b>
-Brand: <b>Srixon</b> Title: <b>Men's ZX7 Mk II Irons</b> Price: <b>$1,142 - $1,199</b>
-Brand: <b>Srixon</b> Title: <b>Men's SRX ZX7 MK II Black Chrome Irons</b> Price: <b>$1,499</b>
-Brand: <b>Srixon</b> Title: <b>Men's SRX ZX5 MK II Black Chrome Irons</b> Price: <b>$1,499</b>
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi Combo Irons</b> Price: <b>$1,209 - $1,399</b>
-Brand: <b>Mizuno</b> Title: <b>Men's JPX 921 Forged Irons</b> Price: <b>$1,399</b>
-Brand: <b>Titleist</b> Title: <b>Men's 2023 T350 Irons</b> Price: <b>$1,285 - $1,499</b>
+Brand: <b>PING</b> Title: <b>Men's G440 Irons</b> Price: <b>$157.00 - $1,359.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 Irons</b> Price: <b>$128.00 - $1,142.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G730 Irons</b> Price: <b>$170.00 - $1,277.50</b>  
+Brand: <b>Titleist</b> Title: <b>Men's 2023 T200 Irons</b> Price: <b>$1,399.00 - $1,499.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi Irons</b> Price: <b>$942.85 - $1,257.13</b>  
+Brand: <b>TaylorMade</b> Title: <b>2024 P770 Iron Set</b> Price: <b>$1,399.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's JPX 925 Forged Irons</b> Price: <b>$1,399.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Irons</b> Price: <b>$1,426.00 - $999.99</b>  
+Brand: <b>PING</b> Title: <b>Men's 1525 Irons Smoke Irons</b> Price: <b>$1,049.99 - $1,199.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Apex Al200 Irons</b> Price: <b>$1,000.00 - $799.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Irons</b> Price: <b>$1,200.00 - $1,400.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Rogue ST 24 Max Irons</b> Price: <b>$799.97 - $699.97</b>  
+Brand: <b>PING</b> Title: <b>Men's 1530 Irons</b> Price: <b>$1,860.00 - $1,400.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's Pro 245 Irons</b> Price: <b>$1,399.99 - $1,599.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's JPX 923 Forged Irons</b> Price: <b>$1,050.00 - $1,200.00</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Gen 2 T100S Golf Irons</b> Price: <b>$1,299.00</b>  
+Brand: <b>PING</b> Title: <b>Men's i59 Irons</b> Price: <b>$1,499.00 - $1,999.00</b>  
+Brand: <b>Cobra</b> Title: <b>Men's DS Adapt Iron Set</b> Price: <b>$999.99 - $1,099.00</b>  
 Website: <b>TGW.com</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_2.txt:
-Brand: <b>Cobra Golf</b> Title: <b>LTDx Irons (7 Iron Set)</b> Price: <b>$629.99</b>
-Brand: <b>Snake Eyes Golf</b> Title: <b>685X Irons (7 Iron Set)</b> Price: <b>$369.99</b>
-Brand: <b>Snake Eyes Golf</b> Title: <b>6850S Irons (7 Iron Set)</b> Price: <b>$449.99</b>
-Brand: <b>Snake Eyes Golf</b> Title: <b>6850S Combo Irons (7 Club Set)</b> Price: <b>$499.99</b>
-Brand: <b>Snake Eyes Golf</b> Title: <b>MAX Combo Irons (8 Club Set)</b> Price: <b>$399.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (6 Iron Set)</b> Price: <b>$689.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>E725 Irons (7 Iron Set)</b> Price: <b>$799.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (6 Iron Set) Graphite</b> Price: <b>$779.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (6 Iron Set)</b> Price: <b>$770.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (7 Iron Set)</b> Price: <b>$899.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (6 Iron Set) Graphite</b> Price: <b>$856.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (7 Iron Set) Graphite</b> Price: <b>$899.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (8 Iron Set) Graphite</b> Price: <b>$1,142.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (8 Iron Set)</b> Price: <b>$1,028.99</b>
-Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (7 Iron Set) Graphite</b> Price: <b>$999.99</b>
-Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron (7 Iron Set) Graphite</b> Price: <b>$389.99</b>
-Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Combo Irons (7 Club Set) Graphite</b> Price: <b>$449.99</b>
-Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron-Woods (7 Iron Set) Graphite</b> Price: <b>$499.99</b>
-Brand: <b>Wilson Golf</b> Title: <b>Staff D9 Irons (7 Iron Set)</b> Price: <b>$479.99</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (5 Iron Set) Graphite</b> Price: <b>$1,000.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (5 Iron Set) Graphite</b> Price: <b>$1,000.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (6 Iron Set) Graphite</b> Price: <b>$1,200.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (7 Iron Set) Graphite</b> Price: <b>$1,400.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (7 Iron Set) Graphite</b> Price: <b>$1,400.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (6 Iron Set) Graphite</b> Price: <b>$1,200.00</b>
-Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Iron [6 Iron Set]</b> Price: <b>$590.99</b>
-Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (8 Iron Set)</b> Price: <b>$1,600.00</b>
+Brand: <b>Adams Golf</b> Title: <b>Idea Irons [7 Iron Set]</b> Price: <b>$549.99</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>Launcher XL Irons (7 Iron Set)</b> Price: <b>$549.99</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>Launcher MAX Irons (7 Iron Set)</b> Price: <b>$495.00</b>  
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Irons (7 Iron Set)</b> Price: <b>$599.00</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>JPX 923 Hot Metal Irons</b> Price: <b>$467.49</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Elyte X Irons (8 Iron Set)</b> Price: <b>$1,199.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Elyte X Irons (5 Iron Set)</b> Price: <b>$749.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Elyte HL Irons (6 Iron Set)</b> Price: <b>$999.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Elyte X Irons (7 Iron Set)</b> Price: <b>$1,049.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Irons (7 Iron Set)</b> Price: <b>$1,049.99</b>  
+Brand: <b>Snake Eyes Golf</b> Title: <b>6850S Irons (7 Iron Set)</b> Price: <b>$349.99</b>  
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Irons (7 Iron Set)</b> Price: <b>$399.99</b>
+
 Website: <b>Rock Bottom Golf</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_3.txt:
-Brand: <b>Cobra</b> Title: <b>RADSpeed One Length</b> Price: <b>$499.99</b>
-Brand: <b>Mizuno</b> Title: <b>JPX 919 Forged</b> Price: <b>$384.99 - $564.99</b>
-Brand: <b>Mizuno</b> Title: <b>JPX-850 Forged</b> Price: <b>$1,399.00</b>
-Brand: <b>Mizuno</b> Title: <b>Pro 223</b> Price: <b>$1,200.00</b>
-Brand: <b>Ping</b> Title: <b>G30</b> Price: <b>$404.99 - $494.99</b>
-Brand: <b>Ping</b> Title: <b>G700</b> Price: <b>$554.99 - $899.99</b>
-Brand: <b>Titleist</b> Title: <b>620 CB</b> Price: <b>$541.49 - $769.49</b>
-Brand: <b>Titleist</b> Title: <b>718 AP2</b> Price: <b>$480.00</b>
-Brand: <b>Titleist</b> Title: <b>718 AP3</b> Price: <b>$329.99 - $749.99</b>
-Brand: <b>TaylorMade</b> Title: <b>M4 2018</b> Price: <b>$301.74 - $420.74</b>
-Brand: <b>TaylorMade</b> Title: <b>M5</b> Price: <b>$726.74 - $1,082.99</b>
-Brand: <b>TaylorMade</b> Title: <b>P770</b> Price: <b>$859.99</b>
-Brand: <b>TaylorMade</b> Title: <b>RocketBladez</b> Price: <b>$220.99</b>
-Brand: <b>Callaway</b> Title: <b>Rogue X</b> Price: <b>$239.99 - $479.99</b>
-Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Combo</b> Price: <b>$509.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Iron Set STEALTH</b> Price: <b>$799.99 - $899.99</b>  
+Brand: <b>Srixon</b> Title: <b>Iron Set ZX4 MK</b> Price: <b>$999.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Iron Set JPX 925 Hot Metal</b> Price: <b>$1,049.99 - $1,199.99</b>  
+Brand: <b>Titleist</b> Title: <b>Iron Set T200 36</b> Price: <b>$1,399.00 - $1,499.00</b>  
+Brand: <b>Cobra</b> Title: <b>Iron Set AeroJet</b> Price: <b>$799.99</b>  
+Brand: <b>Adams</b> Title: <b>Iron Set Idea 2023</b> Price: <b>$349.98</b>  
+Brand: <b>Cleveland</b> Title: <b>Iron Set Launcher XL</b> Price: <b>$1,299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Iron Set P770'24</b> Price: <b>$1,399.99</b>  
 Website: <b>GlobalGolf</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_4.txt:
-Brand: <b>CALLAWAY</b> Title: <b>Apex TCB 2024 Irons w/ Steel Shafts</b> Price: <b>$1504.99</b>  
-Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal Pro Irons w/ Graphite Shafts</b> Price: <b>$1049.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Apex Ti Fusion Irons w/ Steel Shafts</b> Price: <b>$2099.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Apex Ai200 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Apex Ai300 Irons w/ Graphite Shafts</b> Price: <b>$1199.99 - $1399.99</b>  
-Brand: <b>TAYLORMADE</b> Title: <b>P«7CB 2024 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
-Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Irons w/ Graphite Shafts</b> Price: <b>$1049.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Apex Ai300 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Apex Ai200 Irons w/ Graphite Shafts</b> Price: <b>$1399.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING TEC X 2024 ONE Length Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING CB Black Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING TEC X 2024 Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
-Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Irons w/ Graphite Shafts</b> Price: <b>$649.99 - $899.99</b>  
-Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Combo Set w/ Graphite Shafts</b> Price: <b>$1049.99 - $1199.99</b>  
-Brand: <b>TOUR EDGE</b> Title: <b>Exotics X725 Women's Irons w/ Graphite Shafts</b> Price: <b>$779.99 - $899.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING TEC 2024 Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex TCB 2024 Irons w/ Steel Shafts</b> Price: <b>$1,504.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex TCB 2024 Irons w/ Graphite Shafts</b> Price: <b>$1,049.99 - $1,199.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal Irons w/ Steel Shafts</b> Price: <b>$1,049.99 - $1,199.99</b>  
+Brand: <b>PING</b> Title: <b>G440 Irons w/ Steel Shafts</b> Price: <b>$942.99 - $1,255.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal Irons w/ Graphite Shafts</b> Price: <b>$1,049.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Irons w/ Steel Shafts</b> Price: <b>$749.99 - $1,199.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ai200 Irons w/ Steel Shafts</b> Price: <b>$1,399.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC X 2025 Irons w/ Steel Shafts</b> Price: <b>$1,299.99</b>  
+Brand: <b>COBRA</b> Title: <b>Apex Ti Fusion Irons w/ Steel Shafts</b> Price: <b>$2,099.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Qi Gunmetal Edition Irons w/ Steel Shafts</b> Price: <b>$1,099.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Irons w/ Graphite Shafts</b> Price: <b>$1,049.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Forged Irons w/ Steel Shafts</b> Price: <b>$1,399.99 - $1,599.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING CB Black Irons w/ Steel Shafts</b> Price: <b>$1,299.99</b>  
 
 Website: <b>PGA TOUR Superstore</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_5.txt:
-Brand: <b>Ping</b> Title: <b>Ping G430 Irons</b> Price: <b>From $771 To $1028</b>
-Brand: <b>Callaway</b> Title: <b>Callaway Paradym Ai Smoke Irons</b> Price: <b>From $714.3 To $1414.26</b>
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade Customer Reviews</b> Price: <b>From $857.13 To $1224.99</b>
-Brand: <b>Cobra</b> Title: <b>Cobra King Forged TEC X Black Irons</b> Price: <b>From $599.99 To $699.99</b>
-Brand: <b>Titleist</b> Title: <b>Titleist 2021 T300 Irons</b> Price: <b>From $799.99 To $914.99</b>
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade P790 Aged Copper Irons</b> Price: <b>$1499.99</b>
-Brand: <b>Ping</b> Title: <b>Ping G425 Irons</b> Price: <b>From $642.5 To $798</b>
-Brand: <b>Ping</b> Title: <b>Ping i525 Irons</b> Price: <b>From $771 To $899.5</b>
-Brand: <b>Callaway</b> Title: <b>Callaway MAVRIK Irons</b> Price: <b>$514.28</b>
-Brand: <b>Ping</b> Title: <b>Ping G730 Irons</b> Price: <b>From $912.5 To $1095</b>
-Brand: <b>Cleveland</b> Title: <b>Cleveland ZipCore XL Irons</b> Price: <b>From $714.25 To $1157.13</b>
-Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Pro Irons</b> Price: <b>From $1049.95 To $1199.95</b>
-Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Irons</b> Price: <b>From $1049.95 To $1199.95</b>
-Brand: <b>Cleveland</b> Title: <b>Cleveland Halo XL Full-Face Irons</b> Price: <b>From $714.25 To $1285.65</b>
-Brand: <b>Cleveland</b> Title: <b>Cleveland Launcher XL Halo Irons</b> Price: <b>From $449.99 To $499.99</b>
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade Stealth Irons</b> Price: <b>From $685.71 To $914.27</b>
-Brand: <b>Cobra</b> Title: <b>Cobra King MIM Tour Irons</b> Price: <b>$599</b>
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade SIM2 Max Irons</b> Price: <b>From $599.99 To $699.99</b>
-Brand: <b>XXIO</b> Title: <b>XXIO 13 Irons</b> Price: <b>From $1099.99 To $1539.99</b>
-Brand: <b>Cleveland</b> Title: <b>Cleveland Launcher UHX Irons</b> Price: <b>$299.99</b>
+Brand: <b>Cobra</b> Title: <b>Cobra King Forged TEC X Black Irons</b> Price: <b>From $599.99 To $699.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Cleveland Launcher XL Halo Irons</b> Price: <b>From $449.99 To $499.99</b>  
+Brand: <b>Ping</b> Title: <b>Ping G425 Irons</b> Price: <b>From $582.5 To $735</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno Pro 5-3 Irons</b> Price: <b>From $1399.95 To $1599.95</b>  
+Brand: <b>Cobra</b> Title: <b>Cobra Ds-Adapt Irons</b> Price: <b>From $999.99 To $1099.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Qi Gunmetal Irons</b> Price: <b>$1099.99</b>  
+Brand: <b>Srixon</b> Title: <b>Srixon ZX Irons</b> Price: <b>From $1114.26 To $1399.99</b>  
+Brand: <b>Ping</b> Title: <b>Ping G430 Irons</b> Price: <b>From $771 To $1028</b>  
+Brand: <b>Ping</b> Title: <b>Ping i525 Irons</b> Price: <b>From $685 To $799</b>  
+Brand: <b>Titleist</b> Title: <b>Titleist 2021 T300 Irons</b> Price: <b>From $799.99 To $914.99</b>  
+Brand: <b>Callaway</b> Title: <b>Callaway Paradym Ai Smoke Irons</b> Price: <b>From $642.85 To $1285.74</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Qi Irons</b> Price: <b>From $857.13 To $1224.99</b>  
+Brand: <b>Srixon</b> Title: <b>Srixon ZXi7 Irons</b> Price: <b>From $1114.26 To $1299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade P790 Aged Copper Irons</b> Price: <b>$1499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Callaway MAVRIK Irons</b> Price: <b>Price in cart</b>  
+Brand: <b>Cleveland</b> Title: <b>Cleveland ZipCore XL Irons</b> Price: <b>From $714.25 To $999.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Pro Irons</b> Price: <b>From $1049.95 To $1199.95</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Irons</b> Price: <b>From $1049.95 To $1199.95</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Forged Black Irons</b> Price: <b>From $1504.95 To $1719.95</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Forged Irons</b> Price: <b>From $1399.95 To $1599.95</b>  
+Brand: <b>Ping</b> Title: <b>Ping G730 Irons</b> Price: <b>From $912.5 To $1095</b>  
+
 Website: <b>GolfDiscount.com</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_6.txt:
-Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Irons</b> Price: <b>$799.99</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Irons 2024</b> Price: <b>$1,299.00 - $599.99 - $699.99</b>  
-Brand: <b>Titleist</b> Title: <b>T300 Irons</b> Price: <b>$999.99</b>  
-Brand: <b>Cleveland</b> Title: <b>Launcher XL Irons</b> Price: <b>$799.99</b>  
-Brand: <b>PING</b> Title: <b>G425 Irons</b> Price: <b>$599.25</b>  
-Brand: <b>Titleist</b> Title: <b>T350 Irons 2024</b> Price: <b>$1,199.16</b>  
-Brand: <b>Tour Edge</b> Title: <b>---</b> Price: <b>$399.99 - $499.99</b>  
-Brand: <b>COBRA</b> Title: <b>3D Printed LIMIT3D Irons 2024</b> Price: <b>$3,000.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>P790 Aged Copper Irons 2024</b> Price: <b>$1,499.99</b>  
-Brand: <b>Bettinardi</b> Title: <b>MB24 Irons</b> Price: <b>$1,599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ai200 Irons 2024</b> Price: <b>$1,200.00 - $1,200.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ai300 Irons</b> Price: <b>$1,600.00 - $1,600.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons</b> Price: <b>$1,505.00 - $1,505.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2025</b> Price: <b>$857.13 - $1,257.13</b>  
+Brand: <b>Srixon</b> Title: <b>ZXi5 Irons 2025</b> Price: <b>$1,114.28 - $1,199.16</b>  
+Brand: <b>Titleist</b> Title: <b>T350 Irons 2025</b> Price: <b>$750.00 - $1,199.99</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte X Irons 2025</b> Price: <b>$799.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke</b> Price: <b>$771.00 - $1,142.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex 21 Irons</b> Price: <b>$459.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons</b> Price: <b>$1,505.00</b>  
 Brand: <b>Callaway</b> Title: <b>Apex MB 24 Irons</b> Price: <b>$1,720.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Pro 24 Irons</b> Price: <b>$1,720.00 - $1,720.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2024</b> Price: <b>$1,800.00</b>  
-Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Irons</b> Price: <b>$768.00 - $1,200.00</b>  
-Brand: <b>Callaway</b> Title: <b>Great Big Bertha</b> Price: <b>$2,250.00 - $2,400.00</b>  
-Brand: <b>Mizuno</b> Title: <b>JPX 925 Hot Metal Pro Irons 2024</b> Price: <b>$771.00 - $1,142.00</b>  
-Brand: <b>Mizuno</b> Title: <b>JPX 925 Hot Metal Irons 2024</b> Price: <b>$750.00 - $1,199.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING TEC X Irons</b> Price: <b>$900.00 - $1,199.99</b>  
-Brand: <b>COBRA</b> Title: <b>KING TEC Irons 2025</b> Price: <b>$857.13 - $1,257.13</b>  
-Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2024</b> Price: <b>$857.13 - $1,257.13</b>  
-Brand: <b>Callaway</b> Title: <b>Mavrik 22 Irons</b> Price: <b>$685.68 - $514.28 - $699.99</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Black Irons 2024</b> Price: <b>$1,099.99 - $1,257.14</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Pro 24 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2025</b> Price: <b>$1,800.00</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte HL Irons 2025</b> Price: <b>$3150.00</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Wedges 2025</b> Price: <b>$999.99 - $1,333.28</b>  
+
 Website: <b>Carl's Golfland</b>
 
 Result from ../../../web-src-scraping/clubs/irons/club_irons_7.txt:
-Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Irons</b> Price: <b>$799.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2024</b> Price: <b>$857.13 - $1,257.13</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Irons 2024</b> Price: <b>$599.99 - $699.99</b>  
-Brand: <b>Titleist</b> Title: <b>T300 Irons - ON SALE</b> Price: <b>$999.99</b>  
-Brand: <b>Cleveland</b> Title: <b>Launcher XL Irons</b> Price: <b>$799.99</b>  
-Brand: <b>PING</b> Title: <b>G425 Irons</b> Price: <b>$799.25</b>  
-Brand: <b>Titleist</b> Title: <b>T350 Irons 2024</b> Price: <b>$1,199.16</b>  
-Brand: <b>COBRA</b> Title: <b>3D Printed LIMIT3D Irons 2024</b> Price: <b>$3,000.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>P790 Aged Copper Irons 2024</b> Price: <b>$1,499.99</b>  
-Brand: <b>Bettinardi</b> Title: <b>MB24 Irons</b> Price: <b>$1,599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Apex 21 Irons - ON SALE</b> Price: <b>$1,200.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ai200 Irons 2024</b> Price: <b>$1,600.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ai300 Irons 2024</b> Price: <b>$1,600.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons - ON SALE</b> Price: <b>$1,505.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex MB 24 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2025</b> Price: <b>$857.13 - $1,257.13</b>  
+Brand: <b>Srixon</b> Title: <b>ZXi5 Irons 2025</b> Price: <b>$1,114.28 - $1,199.16</b>  
+Brand: <b>Titleist</b> Title: <b>T350 Irons 2025</b> Price: <b>$750.00 - $1,199.99</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte X Irons 2025</b> Price: <b>$799.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke</b> Price: <b>$999.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2025</b> Price: <b>$1,800.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons</b> Price: <b>$1,505.00</b>  
 Brand: <b>Callaway</b> Title: <b>Apex Pro 24 Irons</b> Price: <b>$1,720.00</b>  
-Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2024</b> Price: <b>$1,800.00</b>  
-Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Irons - ON SALE</b> Price: <b>$768.00 - $1,200.00</b>  
-Brand: <b>Callaway</b> Title: <b>Great Big Bertha Irons</b> Price: <b>$2,250.00 - $2,400.00</b>  
-Brand: <b>Callaway</b> Title: <b>Mavrik 22 Irons - ON SALE</b> Price: <b>$685.68</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Black Irons 2024</b> Price: <b>$1,099.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex 21 Irons</b> Price: <b>$4599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Wedges 2025</b> Price: <b>$3150.00</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte HL Irons 2025</b> Price: <b>$999.99 - $1,142.86</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke HL Irons</b> Price: <b>$757.13 - $1,142.86</b>  
+Brand: <b>Ping</b> Title: <b>G430 Irons</b> Price: <b>$999.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Irons</b> Price: <b>$1,599.99</b>  
+Brand: <b>Bettinardi</b> Title: <b>MB24 Irons</b> Price: <b>$1,599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex 21 Irons</b> Price: <b>$4599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200 Irons</b> Price: <b>$1,200.00 - $1,200.00</b>  
 
 Website: <b>Carl's Golfland</b>
 

@@ -27,10 +27,10 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.left.women["tgw.com"], 'screen1.png');
-    await screenShot(data.gloves.left.women["rockbottomgolf.com"], 'screen2.png');
-    await screenShot(data.gloves.left.women["pgatoursuperstore.com"], 'screen3.png');
-    await screenShot(data.gloves.left.women["golfdiscount.com"], 'screen4.png');
-    await screenShot(data.gloves.left.women["dickssportinggoods.com"], 'screen5.png');
+    await screenShot(data.gloves.left.women["tgw.com"], data.gloves.left.women["tgw.com"] + ".png");
+    await screenShot(data.gloves.left.women["rockbottomgolf.com"], data.gloves.left.women["rockbottomgolf.com"] + ".png");
+    await screenShot(data.gloves.left.women["pgatoursuperstore.com"], data.gloves.left.women["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.gloves.left.women["golfdiscount.com"], data.gloves.left.women["golfdiscount.com"] + ".png");
+    await screenShot(data.gloves.left.women["dickssportinggoods.com"], data.gloves.left.women["dickssportinggoods.com"] + ".png");
 
 })();

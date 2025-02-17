@@ -27,12 +27,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.fairway-woods["tgw.com"], 'screen1.png');
-    await screenShot(data.clubs.fairway-woods["rockbottomgolf.com"], 'screen2.png');
-    await screenShot(data.clubs.fairway-woods["globalgolf.com"], 'screen3.png');
-    await screenShot(data.clubs.fairway-woods["pgatoursuperstore.com"], 'screen4.png');
-    await screenShot(data.clubs.fairway-woods["golfdiscount.com"], 'screen5.png');
-    await screenShot(data.clubs.fairway-woods["carlsgolfland.com"], 'screen6.png');
-    await screenShot(data.clubs.fairway-woods["dickssportinggoods.com"], 'screen7.png');
+    await screenShot(data.clubs.fairway-woods["tgw.com"], data.clubs.fairway-woods["tgw.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["rockbottomgolf.com"], data.clubs.fairway-woods["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["globalgolf.com"], data.clubs.fairway-woods["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["pgatoursuperstore.com"], data.clubs.fairway-woods["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["golfdiscount.com"], data.clubs.fairway-woods["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["carlsgolfland.com"], data.clubs.fairway-woods["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.fairway-woods["dickssportinggoods.com"], data.clubs.fairway-woods["dickssportinggoods.com"] + ".png");
 
 })();

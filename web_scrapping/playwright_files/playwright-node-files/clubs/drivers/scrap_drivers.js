@@ -27,13 +27,13 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.drivers["tgw.com"], 'screen1.png');
-    await screenShot(data.clubs.drivers["rockbottomgolf.com"], 'screen2.png');
-    await screenShot(data.clubs.drivers["globalgolf.com"], 'screen3.png');
-    await screenShot(data.clubs.drivers["pgatoursuperstore.com"], 'screen4.png');
-    await screenShot(data.clubs.drivers["golfdiscount.com"], 'screen5.png');
-    await screenShot(data.clubs.drivers["carlsgolfland.com"], 'screen6.png');
-    await screenShot(data.clubs.drivers["dickssportinggoods.com"], 'screen7.png');
+    await screenShot(data.clubs.drivers["tgw.com"], data.clubs.drivers["tgw.com"] + ".png");
+    await screenShot(data.clubs.drivers["rockbottomgolf.com"], data.clubs.drivers["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.drivers["globalgolf.com"], data.clubs.drivers["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.drivers["pgatoursuperstore.com"], data.clubs.drivers["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.drivers["golfdiscount.com"], data.clubs.drivers["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.drivers["carlsgolfland.com"], data.clubs.drivers["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.drivers["dickssportinggoods.com"], data.clubs.drivers["dickssportinggoods.com"] + ".png");
 
    
 })();

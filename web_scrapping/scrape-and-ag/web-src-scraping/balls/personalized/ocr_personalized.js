@@ -1,28 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
+const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
+const data = JSON.parse(jsonString);
+
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen1.png';
-const outputFilePath1 = 'ball_personalized_1.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["tgw.com"] + '.png';
+const outputFilePath1 = data.balls.personalized["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen2.png';
-const outputFilePath2 = 'ball_personalized_2.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = data.balls.personalized["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen3.png';
-const outputFilePath3 = 'ball_personalized_3.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["globalgolf.com"] + '.png';
+const outputFilePath3 = data.balls.personalized["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen4.png';
-const outputFilePath4 = 'ball_personalized_4.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = data.balls.personalized["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen5.png';
-const outputFilePath5 = 'ball_personalized_5.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["golfdiscount.com"] + '.png';
+const outputFilePath5 = data.balls.personalized["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen6.png';
-const outputFilePath6 = 'ball_personalized_6.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["carlsgolfland.com"] + '.png';
+const outputFilePath6 = data.balls.personalized["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/balls/personalized/screen7.png';
-const outputFilePath7 = 'ball_personalized_7.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/balls/personalized/' + data.balls.personalized["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = data.balls.personalized["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 
@@ -147,7 +150,7 @@ Tesseract.recognize(
          // Website 7 OCR
 
 Tesseract.recognize(
-  imagePath6,
+  imagePath7,
   'eng', // Specify the language of the text in the image
   { logger: m => console.log(m) } // Optional: Log the progress
 )

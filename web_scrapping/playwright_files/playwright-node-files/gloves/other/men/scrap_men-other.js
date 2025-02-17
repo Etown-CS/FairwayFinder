@@ -27,6 +27,6 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.other.men["globalgolf.com"], 'screen1.png');
+    await screenShot(data.gloves.other.men["globalgolf.com"], data.gloves.other.men["globalgolf.com"] + ".png");
 
 })();
