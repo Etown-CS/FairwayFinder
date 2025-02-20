@@ -78,18 +78,35 @@
     "gloves": {
       "left": {
         "men": {
-          "globalgolf.com": "https://www.globalgolf.com/search/?ply=1&term=gloves"
+          "tgw.com": "https://www.tgw.com/accessories/golf-gloves#facet:-77411240122833343737710111039115,-774112401228336683576101102116&productBeginIndex:0&orderBy:5&pageView:grid&minPrice:&maxPrice:&pageSize:&",
+          "rockbottomgolf.com": "https://www.rockbottomgolf.com/accessories/gloves/#?profile_id=9a60e9bcfd4c1a789dfe41a2ec4ffd11&session_id=468725c2-d939-11ef-b74b-0242ac110003&Searchcat1=Gloves&Gender=Mens&Dexteritysearch=&search_return=all&Dexterity=Left",
+          "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/search?q=mens+gloves&pmin=0.01&prefn1=STK_DEXTERITY&prefv1=Left+Hand&prefn2=gender&prefv2=Men%27s&prefn3=merchantCategory&prefv3=Golf+Gloves&srule=Best+Sellers",
+          "golfdiscount.com": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&filter.hand=Left%20Hand&filter.gender=Men%27s&resultsPerPage=36",
+          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Mens/filter:golf_club_hand:Left",
+          "dickssportinggoods.com": "https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=gloves%20golf&storeId=15108&catalogId=12301&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&fromPage=Search&searchSource=Q&pageView=&beginIndex=0&DSGsearchType=Keyword&pageSize=96&selectedStore=260&filterFacets=3945%253ALeft%2520Hand%253B5495%253AMen%27s&pageNumber=0"
         },
         "women": {
-          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Womens"
+          "tgw.com": "https://www.tgw.com/accessories/golf-gloves#facet:-77411240122833343738711110910111039115,-774112401228336683576101102116&productBeginIndex:0&orderBy:5&pageView:grid&minPrice:&maxPrice:&pageSize:&",
+          "rockbottomgolf": "https://www.rockbottomgolf.com/accessories/gloves/#?profile_id=9a60e9bcfd4c1a789dfe41a2ec4ffd11&session_id=468725c2-d939-11ef-b74b-0242ac110003&Gender=Ladies&Dexteritysearch=&Searchcat1=Gloves&search_return=all&Dexterity=Left",
+          "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/search?q=gloves+women&pmin=0.01&prefn1=STK_DEXTERITY&prefv1=Left+Hand&prefn2=gender&prefv2=Women%27s&prefn3=merchantCategory&prefv3=Golf+Gloves&srule=Best+Sellers",
+          "golfdiscount.com": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Left%20Hand&filter.gender=Women%27s",
+          "dickssportinggoods.com": "https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=gloves%20golf&storeId=15108&catalogId=12301&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&fromPage=Search&searchSource=Q&pageView=&beginIndex=0&DSGsearchType=Keyword&pageSize=96&selectedStore=260&filterFacets=3945%253ALeft%2520Hand%253B5495%253AWomen%27s"
         }
       },
       "right": {
         "men": {
-          "globalgolf.com": "https://www.globalgolf.com/search/?ply=1&term=gloves"
+          "tgw.com": "https://www.tgw.com/accessories/golf-gloves#facet:-77411240122833343737710111039115,-774112401228336683582105103104116&productBeginIndex:0&orderBy:5&pageView:grid&minPrice:&maxPrice:&pageSize:&",
+          "rockbottomgolf.com": "https://www.rockbottomgolf.com/accessories/gloves/#?profile_id=9a60e9bcfd4c1a789dfe41a2ec4ffd11&session_id=468725c2-d939-11ef-b74b-0242ac110003&Gender=Mens&Dexteritysearch=&Searchcat1=Gloves&Dexterity=Right&search_return=all",
+          "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/search?q=gloves&pmin=0.01&prefn1=STK_DEXTERITY&prefv1=Right+Hand&prefn2=gender&prefv2=Men%27s&srule=Best+Sellers",
+          "golfdiscount.com": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
+          "dickssportinggoods.com": "https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=gloves%20golf&storeId=15108&catalogId=12301&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&fromPage=Search&searchSource=Q&pageView=&beginIndex=0&DSGsearchType=Keyword&pageSize=96&selectedStore=260&filterFacets=3945%253ARight%2520Hand%253B5495%253AMen%27s"
         },
         "women": {
-          "carlsgolfland.com": "https://www.carlsgolfland.com/search/go?ts=custom&w=gloves#/perpage:90/filter:gender_filter:Womens"
+          "tgw.com": "https://www.tgw.com/accessories/golf-gloves#facet:-77411240122833343738711110910111039115,-774112401228336683582105103104116&productBeginIndex:0&orderBy:5&pageView:grid&minPrice:&maxPrice:&pageSize:&",
+          "rockbottomgolf.com": "https://www.rockbottomgolf.com/accessories/gloves/#?profile_id=9a60e9bcfd4c1a789dfe41a2ec4ffd11&session_id=468725c2-d939-11ef-b74b-0242ac110003&Gender=Ladies&Dexteritysearch=&Searchcat1=Gloves&Dexterity=Right&search_return=all",
+          "pgatoursuperstore.com": "https://www.pgatoursuperstore.com/search?q=gloves&pmin=0.01&prefn1=STK_DEXTERITY&prefv1=Right+Hand&prefn2=gender&prefv2=Women%27s&srule=Best+Sellers",
+          "golfdiscount.com": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.gender=Women%27s&filter.hand=Right%20Hand",
+          "dickssportinggoods.com": "https://www.dickssportinggoods.com/search/SearchDisplay?searchTerm=gloves%20golf&storeId=15108&catalogId=12301&langId=-1&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&fromPage=Search&searchSource=Q&pageView=&beginIndex=0&DSGsearchType=Keyword&pageSize=96&selectedStore=260&filterFacets=3945%253ARight%2520Hand%253B5382%253AGolf%2520Gloves%253B5495%253AWomen%27s"
         }
       },
       "other": {
