@@ -1,12 +1,1 @@
-Result from ../../../../web-src-scraping/gloves/other/women/gloves_other_women_1.txt:
-Brand: <b>Titleist</b> Title: <b>Womens Perma-Soft Golf Gloves</b> Price: <b>$19.99</b>  
-Brand: <b>Titleist</b> Title: <b>Womens Players Golf Gloves 2025</b> Price: <b>$27.99</b>  
-Brand: <b>FootJoy</b> Title: <b>Womens StaSof Golf Gloves - PRIOR GEN</b> Price: <b>$21.99</b>  
-Brand: <b>Callaway</b> Title: <b>Womens Dawn Patrol Golf Gloves</b> Price: <b>$10.99</b>  
-Brand: <b>North Coast Golf Co.</b> Title: <b>Womens Carolina Blues Golf Gloves 2025</b> Price: <b>$17.95</b>  
-Brand: <b>Cleveland</b> Title: <b>Womens Bionic Golf Gloves</b> Price: <b>$29.99</b>  
-Brand: <b>Sun Mountain</b> Title: <b>Womens 3.5 Lightweight Cart Bag, 2025</b> Price: <b>$279.99</b>  
-Brand: <b>FootJoy</b> Title: <b>Womens RainGrip Golf Gloves 2025</b> Price: <b>$24.95</b>  
-Brand: <b>FootJoy</b> Title: <b>Womens WeatherSof Golf Gloves 2025</b> Price: <b>$12.95</b>  
-Website: <b>Fras Shipping over $70</b>
-
+Result from ../../../../web-src-scraping/gloves/other/women/carlsgolfland.com-search-go-ts-custom&w-gloves#-perpage:90-filter:gender_filter:Womens.txt:

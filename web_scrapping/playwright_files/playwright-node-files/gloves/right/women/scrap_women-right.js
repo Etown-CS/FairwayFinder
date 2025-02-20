@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,10 +30,10 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.right.women["tgw.com"], data.gloves.right.women["tgw.com"] + ".png");
-    await screenShot(data.gloves.right.women["rockbottomgolf.com"], data.gloves.right.women["rockbottomgolf.com"] + ".png");
-    await screenShot(data.gloves.right.women["pgatoursuperstore.com"], data.gloves.right.women["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.gloves.right.women["golfdiscount.com"], data.gloves.right.women["golfdiscount.com"] + ".png");
-    await screenShot(data.gloves.right.women["dickssportinggoods.com"], data.gloves.right.women["dickssportinggoods.com"] + ".png");
+    await screenShot(data.gloves.right.women["tgw.com"], names.gloves.right.women["tgw.com"] + ".png");
+    await screenShot(data.gloves.right.women["rockbottomgolf.com"], names.gloves.right.women["rockbottomgolf.com"] + ".png");
+    await screenShot(data.gloves.right.women["pgatoursuperstore.com"], names.gloves.right.women["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.gloves.right.women["golfdiscount.com"], names.gloves.right.women["golfdiscount.com"] + ".png");
+    await screenShot(data.gloves.right.women["dickssportinggoods.com"], names.gloves.right.women["dickssportinggoods.com"] + ".png");
 
 })();

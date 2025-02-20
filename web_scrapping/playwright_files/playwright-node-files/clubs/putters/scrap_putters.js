@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.putters["tgw.com"], data.clubs.putters["tgw.com"] + ".png");
-    await screenShot(data.clubs.putters["rockbottomgolf.com"], data.clubs.putters["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.putters["globalgolf.com"], data.clubs.putters["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.putters["pgatoursuperstore.com"], data.clubs.putters["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.putters["golfdiscount.com"], data.clubs.putters["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.putters["carlsgolfland.com"], data.clubs.putters["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.putters["dickssportinggoods.com"], data.clubs.putters["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs.putters["tgw.com"], names.clubs.putters["tgw.com"] + ".png");
+    await screenShot(data.clubs.putters["rockbottomgolf.com"], names.clubs.putters["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.putters["globalgolf.com"], names.clubs.putters["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.putters["pgatoursuperstore.com"], names.clubs.putters["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.putters["golfdiscount.com"], names.clubs.putters["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.putters["carlsgolfland.com"], names.clubs.putters["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.putters["dickssportinggoods.com"], names.clubs.putters["dickssportinggoods.com"] + ".png");
 
 })();

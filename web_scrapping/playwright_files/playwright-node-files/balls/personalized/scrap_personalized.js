@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,13 +30,13 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.balls.personalized["tgw.com"], data.balls.personalized["tgw.com"] + ".png");
-    await screenShot(data.balls.personalized["rockbottomgolf.com"], data.balls.personalized["rockbottomgolf.com"] + ".png")
-    await screenShot(data.balls.personalized["globalgolf.com"], data.balls.personalized["globalgolf.com"] + ".png");
-    await screenShot(data.balls.personalized["pgatoursuperstore.com"], data.balls.personalized["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.balls.personalized["golfdiscount.com"], data.balls.personalized["golfdiscount.com"] + ".png");
-    await screenShot(data.balls.personalized["carlsgolfland.com"], data.balls.personalized["carlsgolfland.com"] + ".png");
-    await screenShot(data.balls.personalized["dickssportinggoods.com"], data.balls.personalized["dickssportinggoods.com"] + ".png");
+    await screenShot(data.balls.personalized["tgw.com"], names.balls.personalized["tgw.com"] + ".png");
+    await screenShot(data.balls.personalized["rockbottomgolf.com"], names.balls.personalized["rockbottomgolf.com"] + ".png")
+    await screenShot(data.balls.personalized["globalgolf.com"], names.balls.personalized["globalgolf.com"] + ".png");
+    await screenShot(data.balls.personalized["pgatoursuperstore.com"], names.balls.personalized["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.balls.personalized["golfdiscount.com"], names.balls.personalized["golfdiscount.com"] + ".png");
+    await screenShot(data.balls.personalized["carlsgolfland.com"], names.balls.personalized["carlsgolfland.com"] + ".png");
+    await screenShot(data.balls.personalized["dickssportinggoods.com"], names.balls.personalized["dickssportinggoods.com"] + ".png");
 
 
 })();

@@ -1,31 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
+const jsonString = fs.readFileSync('../../../scrape-and-ag/filenames.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["tgw.com"] + '.png';
-const outputFilePath1 = data.clubs.wedges["tgw.com"] + '.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["tgw.com"] + '.png';
+const outputFilePath1 = names.clubs.wedges["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["rockbottomgolf.com"] + '.png';
-const outputFilePath2 = data.clubs.wedges["rockbottomgolf.com"] + '.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = names.clubs.wedges["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["globalgolf.com"] + '.png';
-const outputFilePath3 = data.clubs.wedges["globalgolf.com"] + '.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["globalgolf.com"] + '.png';
+const outputFilePath3 = names.clubs.wedges["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["pgatoursuperstore.com"] + '.png';
-const outputFilePath4 = data.clubs.wedges["pgatoursuperstore.com"] + '.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = names.clubs.wedges["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["golfdiscount.com"] + '.png';
-const outputFilePath5 = data.clubs.wedges["golfdiscount.com"] + '.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["golfdiscount.com"] + '.png';
+const outputFilePath5 = names.clubs.wedges["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["carlsgolfland.com"] + '.png';
-const outputFilePath6 = data.clubs.wedges["carlsgolfland.com"] + '.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["carlsgolfland.com"] + '.png';
+const outputFilePath6 = names.clubs.wedges["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + data.clubs.wedges["dickssportinggoods.com"] + '.png';
-const outputFilePath7 = data.clubs.wedges["dickssportinggoods.com"] + '.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/wedges/' + names.clubs.wedges["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = names.clubs.wedges["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 

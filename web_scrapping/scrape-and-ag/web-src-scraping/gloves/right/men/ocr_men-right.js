@@ -1,25 +1,25 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
+const jsonString = fs.readFileSync('../../../../../scrape-and-ag/filenames.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + data.gloves.right.men["tgw.com"] + '.png';
-const outputFilePath1 = data.gloves.right.men["tgw.com"] + '.txt';
+const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + names.gloves.right.men["tgw.com"] + '.png';
+const outputFilePath1 = names.gloves.right.men["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + data.gloves.right.men["rockbottomgolf.com"] + '.png';
-const outputFilePath2 = data.gloves.right.men["rockbottomgolf.com"] + '.txt';
+const imagePath2 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + names.gloves.right.men["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = names.gloves.right.men["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + data.gloves.right.men["pgatoursuperstore.com"] + '.png';
-const outputFilePath3 = data.gloves.right.men["pgatoursuperstore.com"] + '.txt';
+const imagePath3 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + names.gloves.right.men["pgatoursuperstore.com"] + '.png';
+const outputFilePath3 = names.gloves.right.men["pgatoursuperstore.com"] + '.txt';
 
-const imagePath4 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + data.gloves.right.men["golfdiscount.com"] + '.png';
-const outputFilePath4 = data.gloves.right.men["golfdiscount.com"] + '.txt';
+const imagePath4 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + names.gloves.right.men["golfdiscount.com"] + '.png';
+const outputFilePath4 = names.gloves.right.men["golfdiscount.com"] + '.txt';
 
-const imagePath5 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + data.gloves.right.men["dickssportinggoods.com"] + '.png';
-const outputFilePath5 = data.gloves.right.men["dickssportinggoods.com"] + '.txt';
+const imagePath5 = '../../../../../playwright_files/playwright-node-files/gloves/right/men/' + names.gloves.right.men["dickssportinggoods.com"] + '.png';
+const outputFilePath5 = names.gloves.right.men["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 

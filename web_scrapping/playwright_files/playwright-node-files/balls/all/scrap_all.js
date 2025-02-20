@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.balls.all["tgw.com"], data.balls.all["tgw.com"] + ".png");
-    await screenShot(data.balls.all["rockbottomgolf.com"], data.balls.all["rockbottomgolf.com"] + ".png");
-    await screenShot(data.balls.all["globalgolf.com"], data.balls.all["globalgolf.com"] + ".png");
-    await screenShot(data.balls.all["pgatoursuperstore.com"], data.balls.all["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.balls.all["golfdiscount.com"], data.balls.all["golfdiscount.com"] + ".png");
-    await screenShot(data.balls.all["carlsgolfland.com"], data.balls.all["carlsgolfland.com"] + ".png");
-    await screenShot(data.balls.all["dickssportinggoods.com"], data.balls.all["dickssportinggoods.com"] + ".png");
+    await screenShot(data.balls.all["tgw.com"], names.balls.all["tgw.com"] + ".png");
+    await screenShot(data.balls.all["rockbottomgolf.com"], names.balls.all["rockbottomgolf.com"] + ".png");
+    await screenShot(data.balls.all["globalgolf.com"], names.balls.all["globalgolf.com"] + ".png");
+    await screenShot(data.balls.all["pgatoursuperstore.com"], names.balls.all["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.balls.all["golfdiscount.com"], names.balls.all["golfdiscount.com"] + ".png");
+    await screenShot(data.balls.all["carlsgolfland.com"], names.balls.all["carlsgolfland.com"] + ".png");
+    await screenShot(data.balls.all["dickssportinggoods.com"], names.balls.all["dickssportinggoods.com"] + ".png");
 
 })();

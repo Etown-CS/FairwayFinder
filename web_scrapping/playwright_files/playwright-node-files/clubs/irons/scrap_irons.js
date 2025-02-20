@@ -6,7 +6,10 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
-        
+    
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
+
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
         const browser = await playwright.chromium.launch({ headless: false });
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.irons["tgw.com"], data.clubs.irons["tgw.com"] + ".png");
-    await screenShot(data.clubs.irons["rockbottomgolf.com"], data.clubs.irons["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.irons["globalgolf.com"], data.clubs.irons["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.irons["pgatoursuperstore.com"], data.clubs.irons["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.irons["golfdiscount.com"], data.clubs.irons["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.irons["carlsgolfland.com"], data.clubs.irons["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.irons["dickssportinggoods.com"], data.clubs.irons["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs.irons["tgw.com"], names.clubs.irons["tgw.com"] + ".png");
+    await screenShot(data.clubs.irons["rockbottomgolf.com"], names.clubs.irons["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.irons["globalgolf.com"], names.clubs.irons["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.irons["pgatoursuperstore.com"], names.clubs.irons["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.irons["golfdiscount.com"], names.clubs.irons["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.irons["carlsgolfland.com"], names.clubs.irons["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.irons["dickssportinggoods.com"], names.clubs.irons["dickssportinggoods.com"] + ".png");
 
 })();

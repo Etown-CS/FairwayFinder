@@ -7,6 +7,9 @@ const playwright = require('playwright');
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
 
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
+
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
         const browser = await playwright.chromium.launch({ headless: false });
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.fairway-woods["tgw.com"], data.clubs.fairway-woods["tgw.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["rockbottomgolf.com"], data.clubs.fairway-woods["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["globalgolf.com"], data.clubs.fairway-woods["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["pgatoursuperstore.com"], data.clubs.fairway-woods["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["golfdiscount.com"], data.clubs.fairway-woods["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["carlsgolfland.com"], data.clubs.fairway-woods["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.fairway-woods["dickssportinggoods.com"], data.clubs.fairway-woods["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["tgw.com"], names.clubs["fairway-woods"]["tgw.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["rockbottomgolf.com"], names.clubs["fairway-woods"]["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["globalgolf.com"], names.clubs["fairway-woods"]["globalgolf.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["pgatoursuperstore.com"], names.clubs["fairway-woods"]["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["golfdiscount.com"], names.clubs["fairway-woods"]["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["carlsgolfland.com"], names.clubs["fairway-woods"]["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs["fairway-woods"]["dickssportinggoods.com"], names.clubs["fairway-woods"]["dickssportinggoods.com"] + ".png");
 
 })();

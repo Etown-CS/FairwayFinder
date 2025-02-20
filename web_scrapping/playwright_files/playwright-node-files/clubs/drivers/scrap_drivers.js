@@ -7,6 +7,9 @@ const playwright = require('playwright');
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
 
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
+
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
         const browser = await playwright.chromium.launch({ headless: false });
@@ -27,13 +30,13 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.drivers["tgw.com"], data.clubs.drivers["tgw.com"] + ".png");
-    await screenShot(data.clubs.drivers["rockbottomgolf.com"], data.clubs.drivers["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.drivers["globalgolf.com"], data.clubs.drivers["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.drivers["pgatoursuperstore.com"], data.clubs.drivers["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.drivers["golfdiscount.com"], data.clubs.drivers["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.drivers["carlsgolfland.com"], data.clubs.drivers["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.drivers["dickssportinggoods.com"], data.clubs.drivers["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs.drivers["tgw.com"], names.clubs.drivers["tgw.com"] + ".png");
+    await screenShot(data.clubs.drivers["rockbottomgolf.com"], names.clubs.drivers["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.drivers["globalgolf.com"], names.clubs.drivers["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.drivers["pgatoursuperstore.com"], names.clubs.drivers["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.drivers["golfdiscount.com"], names.clubs.drivers["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.drivers["carlsgolfland.com"], names.clubs.drivers["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.drivers["dickssportinggoods.com"], names.clubs.drivers["dickssportinggoods.com"] + ".png");
 
    
 })();

@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
     
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.hybrids["tgw.com"], data.clubs.hybrids["tgw.com"] + ".png");
-    await screenShot(data.clubs.hybrids["rockbottomgolf.com"], data.clubs.hybrids["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.hybrids["globalgolf.com"], data.clubs.hybrids["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.hybrids["pgatoursuperstore.com"], data.clubs.hybrids["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.hybrids["golfdiscount.com"], data.clubs.hybrids["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.hybrids["carlsgolfland.com"], data.clubs.hybrids["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.hybrids["dickssportinggoods.com"], data.clubs.hybrids["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs.hybrids["tgw.com"], names.clubs.hybrids["tgw.com"] + ".png");
+    await screenShot(data.clubs.hybrids["rockbottomgolf.com"], names.clubs.hybrids["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.hybrids["globalgolf.com"], names.clubs.hybrids["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.hybrids["pgatoursuperstore.com"], names.clubs.hybrids["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.hybrids["golfdiscount.com"], names.clubs.hybrids["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.hybrids["carlsgolfland.com"], names.clubs.hybrids["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.hybrids["dickssportinggoods.com"], names.clubs.hybrids["dickssportinggoods.com"] + ".png");
 
 })();

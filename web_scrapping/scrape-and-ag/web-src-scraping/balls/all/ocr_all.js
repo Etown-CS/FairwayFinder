@@ -1,31 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
+const jsonString = await fs.readFile('../../../scrape-and-ag/filenames.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["tgw.com"] + '.png';
-const outputFilePath1 = data.balls.all["tgw.com"] + '.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["tgw.com"] + '.png';
+const outputFilePath1 = names.balls.all["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["rockbottomgolf.com"] + '.png';
-const outputFilePath2 = data.balls.all["rockbottomgolf.com"] + '.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = names.balls.all["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["globalgolf.com"] + '.png';
-const outputFilePath3 = data.balls.all["globalgolf.com"] + '.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["globalgolf.com"] + '.png';
+const outputFilePath3 = names.balls.all["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["pgatoursuperstore.com"] + '.png';
-const outputFilePath4 = data.balls.all["pgatoursuperstore.com"] + '.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = names.balls.all["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["golfdiscount.com"] + '.png';
-const outputFilePath5 = data.balls.all["golfdiscount.com"] + '.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["golfdiscount.com"] + '.png';
+const outputFilePath5 = names.balls.all["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["carlsgolfland.com"] + '.png';
-const outputFilePath6 = data.balls.all["carlsgolfland.com"] + '.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["carlsgolfland.com"] + '.png';
+const outputFilePath6 = names.balls.all["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/balls/all/' + data.balls.all["dickssportinggoods.com"] + '.png';
-const outputFilePath7 = data.balls.all["dickssportinggoods.com"] + '.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/balls/all/' + names.balls.all["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = names.balls.all["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 

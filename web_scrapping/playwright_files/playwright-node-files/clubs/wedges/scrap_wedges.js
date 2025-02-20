@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,12 +30,12 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.clubs.wedges["tgw.com"], data.clubs.wedges["tgw.com"] + ".png");
-    await screenShot(data.clubs.wedges["rockbottomgolf.com"], data.clubs.wedges["rockbottomgolf.com"] + ".png");
-    await screenShot(data.clubs.wedges["globalgolf.com"], data.clubs.wedges["globalgolf.com"] + ".png");
-    await screenShot(data.clubs.wedges["pgatoursuperstore.com"], data.clubs.wedges["pgatoursuperstore.com"] + ".png");
-    await screenShot(data.clubs.wedges["golfdiscount.com"], data.clubs.wedges["golfdiscount.com"] + ".png");
-    await screenShot(data.clubs.wedges["carlsgolfland.com"], data.clubs.wedges["carlsgolfland.com"] + ".png");
-    await screenShot(data.clubs.wedges["dickssportinggoods.com"], data.clubs.wedges["dickssportinggoods.com"] + ".png");
+    await screenShot(data.clubs.wedges["tgw.com"], names.clubs.wedges["tgw.com"] + ".png");
+    await screenShot(data.clubs.wedges["rockbottomgolf.com"], names.clubs.wedges["rockbottomgolf.com"] + ".png");
+    await screenShot(data.clubs.wedges["globalgolf.com"], names.clubs.wedges["globalgolf.com"] + ".png");
+    await screenShot(data.clubs.wedges["pgatoursuperstore.com"], names.clubs.wedges["pgatoursuperstore.com"] + ".png");
+    await screenShot(data.clubs.wedges["golfdiscount.com"], names.clubs.wedges["golfdiscount.com"] + ".png");
+    await screenShot(data.clubs.wedges["carlsgolfland.com"], names.clubs.wedges["carlsgolfland.com"] + ".png");
+    await screenShot(data.clubs.wedges["dickssportinggoods.com"], names.clubs.wedges["dickssportinggoods.com"] + ".png");
 
 })();

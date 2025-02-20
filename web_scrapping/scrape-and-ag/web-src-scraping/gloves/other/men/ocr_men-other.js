@@ -1,13 +1,13 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = await fs.readFile('../../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
+const jsonString = fs.readFileSync('../../../../../scrape-and-ag/filenames.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/other/men/' + data.gloves.other.men["globalgolf.com"] + '.png';
-const outputFilePath1 = data.gloves.other.men["globalgolf.com"] + '.txt';
+const imagePath1 = '../../../../../playwright_files/playwright-node-files/gloves/other/men/' + names.gloves.other.men["globalgolf.com"] + '.png';
+const outputFilePath1 = names.gloves.other.men["globalgolf.com"] + '.txt';
 
 // Website 1 OCR
 

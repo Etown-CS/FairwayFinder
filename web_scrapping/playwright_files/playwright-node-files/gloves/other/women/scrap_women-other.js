@@ -6,6 +6,9 @@ const playwright = require('playwright');
     // Read and parse JSON data
     const jsonString = await fs.readFile('../../../../../scrape-and-ag/urls.json', 'utf8');
     const data = JSON.parse(jsonString);
+
+    const jsonString2 = await fs.readFile('../../../../../scrape-and-ag/filenames.json', 'utf8');
+    const names = JSON.parse(jsonString2);
         
     // SCREENSHOT CODE
     async function screenShot(pageUrl, screenshotPath) {
@@ -27,6 +30,6 @@ const playwright = require('playwright');
     }
 
     // Taking screenshots of different pages
-    await screenShot(data.gloves.other.women["carlsgolfland.com"], data.gloves.other.women["carlsgolfland.com"] + ".png");
+    await screenShot(data.gloves.other.women["carlsgolfland.com"], names.gloves.other.women["carlsgolfland.com"] + ".png");
 
 })();

@@ -3,22 +3,21 @@ const fs = require('fs');
 const { OpenAI } = require('openai');
 const cliProgress = require('cli-progress'); // Import the cli-progress package
 
-const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
-
+const jsonString = fs.readFileSync('../../../../scrape-and-ag/filenames.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // Define the question here
 const question = "What are the prices for the products and the site they are from? formatting must be as follows including square brackets and bold tags: Brand: <b>[Brand]</b> Title: <b>[Title]</b> Price: <b>[Price]</b>, at the end of the list add Website: <b>[Website]</b>. If a price does not exist for a product, drop the product. All prices must be actual prices and not text like low new price or checkout for price.";
 
 // Define the file paths here (replace with your actual file paths)
 const filePaths = [
-  "../../../web-src-scraping/balls/all/" + data.balls.all["tgw.com"] + '.txt',
-  "../../../web-src-scraping/balls/all/" + data.balls.all["rockbottomgolf.com"] + '.txt',
-  "../../../web-src-scraping/balls/all/" + data.balls.all["globalgolf.com"] + '.txt',
-  "../../../web-src-scraping/balls/all/" + data.balls.all["pgatoursuperstore.com"] + '.txt',
-  "../../../web-src-scraping/balls/all/" + data.balls.all["golfdiscount.com"] + '.txt',
-  "../../../web-src-scraping/balls/all/" + data.balls.all["carlsgolfland.com"],
-  "../../../web-src-scraping/balls/all/" + data.balls.all["dickssportinggoods.com"] + '.txt'
+  "../../../web-src-scraping/balls/all/" + names.balls.all["tgw.com"] + '.txt',
+  "../../../web-src-scraping/balls/all/" + names.balls.all["rockbottomgolf.com"] + '.txt',
+  "../../../web-src-scraping/balls/all/" + names.balls.all["globalgolf.com"] + '.txt',
+  "../../../web-src-scraping/balls/all/" + names.balls.all["pgatoursuperstore.com"] + '.txt',
+  "../../../web-src-scraping/balls/all/" + names.balls.all["golfdiscount.com"] + '.txt',
+  "../../../web-src-scraping/balls/all/" + names.balls.all["carlsgolfland.com"],
+  "../../../web-src-scraping/balls/all/" + names.balls.all["dickssportinggoods.com"] + '.txt'
 ];
 
 // Define the single output file path

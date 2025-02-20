@@ -1,31 +1,31 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = await fs.readFile('../../../scrape-and-ag/urls.json', 'utf8');
-const data = JSON.parse(jsonString);
+const jsonString = fs.readFileSync('../../../../scrape-and-ag/filename.json', 'utf8');
+const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data
 
-const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["tgw.com"] + '.png';
-const outputFilePath1 = data.clubs.putters["tgw.com"] + '.txt';
+const imagePath1 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["tgw.com"] + '.png';
+const outputFilePath1 = names.clubs.putters["tgw.com"] + '.txt';
 
-const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["rockbottomgolf.com"] + '.png';
-const outputFilePath2 = data.clubs.putters["rockbottomgolf.com"] + '.txt';
+const imagePath2 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["rockbottomgolf.com"] + '.png';
+const outputFilePath2 = names.clubs.putters["rockbottomgolf.com"] + '.txt';
 
-const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["globalgolf.com"] + '.png';
-const outputFilePath3 = data.clubs.putters["globalgolf.com"] + '.txt';
+const imagePath3 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["globalgolf.com"] + '.png';
+const outputFilePath3 = names.clubs.putters["globalgolf.com"] + '.txt';
 
-const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["pgatoursuperstore.com"] + '.png';
-const outputFilePath4 = data.clubs.putters["pgatoursuperstore.com"] + '.txt';
+const imagePath4 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["pgatoursuperstore.com"] + '.png';
+const outputFilePath4 = names.clubs.putters["pgatoursuperstore.com"] + '.txt';
 
-const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["golfdiscount.com"] + '.png';
-const outputFilePath5 = data.clubs.putters["golfdiscount.com"] + '.txt';
+const imagePath5 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["golfdiscount.com"] + '.png';
+const outputFilePath5 = names.clubs.putters["golfdiscount.com"] + '.txt';
 
-const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["carlsgolfland.com"] + '.png';
-const outputFilePath6 = data.clubs.putters["carlsgolfland.com"] + '.txt';
+const imagePath6 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["carlsgolfland.com"] + '.png';
+const outputFilePath6 = names.clubs.putters["carlsgolfland.com"] + '.txt';
 
-const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + data.clubs.putters["dickssportinggoods.com"] + '.png';
-const outputFilePath7 = data.clubs.putters["dickssportinggoods.com"] + '.txt';
+const imagePath7 = '../../../../playwright_files/playwright-node-files/clubs/putters/' + names.clubs.putters["dickssportinggoods.com"] + '.png';
+const outputFilePath7 = names.clubs.putters["dickssportinggoods.com"] + '.txt';
 
 // Website 1 OCR
 

@@ -1,132 +1,106 @@
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_1.txt:
-Brand: <b>PING</b> Title: <b>Men's G440 MAX Driver</b> Price: <b>$599.00</b>  
+Result from ../../../web-src-scraping/clubs/drivers/tgw.com-golf-clubs-golf-drivers.txt:
 Brand: <b>PING</b> Title: <b>Men's G430 MAX Driver</b> Price: <b>$599.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Driver</b> Price: <b>$649.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G440 LST Driver</b> Price: <b>$599.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 2 Driver</b> Price: <b>$649.00 - $849.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 Max 10K Driver</b> Price: <b>$599.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 3 Driver</b> Price: <b>$649.00 - $849.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G440 MAX Driver</b> Price: <b>$399.00</b>  
 Brand: <b>PING</b> Title: <b>Men's G425 LST Driver</b> Price: <b>$299.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte Driver</b> Price: <b>$599.00 - $699.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Driver</b> Price: <b>$399.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G425 SFT Driver</b> Price: <b>$599.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G440 HL MAX Driver</b> Price: <b>$549.00</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DarkSpeed MAXD Driver</b> Price: <b>$299.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Smoke Max Driver</b> Price: <b>$449.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte X Driver</b> Price: <b>$599.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 Driver</b> Price: <b>$599.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Driver</b> Price: <b>$599.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Driver</b> Price: <b>$299.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte Driver</b> Price: <b>$599.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G410 Plus Golf Driver</b> Price: <b>$212.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's BRNR Copper Mini Driver</b> Price: <b>$449.00</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 3 Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed Driver</b> Price: <b>$399.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Driver</b> Price: <b>$399.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G440 SFT Driver</b> Price: <b>$599.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Triple Diamond Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte TD Driver</b> Price: <b>$499.00</b>  
 
 Website: <b>TGW.com</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_2.txt:
-Brand: <b>TaylorMade Golf</b> Title: <b>Qi35 Driver</b> Price: <b>$599.99</b>  
-Brand: <b>TaylorMade Golf</b> Title: <b>Qi35 LS Driver</b> Price: <b>$649.99</b>  
-Brand: <b>TaylorMade Golf</b> Title: <b>Qi35 Max Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Cobra Golf</b> Title: <b>DARKSPEED Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Cobra Golf</b> Title: <b>DARKSPEED ADAPT X Driver</b> Price: <b>$549.00</b>  
-Brand: <b>Cobra Golf</b> Title: <b>DARKSPEED ADAPT LS Driver</b> Price: <b>$549.00</b>  
-Brand: <b>Srixon Golf</b> Title: <b>ZXi Driver</b> Price: <b>$549.99</b>  
-Brand: <b>Cleveland Golf</b> Title: <b>Hibore XL Driver</b> Price: <b>$399.99</b>  
-Brand: <b>Titleist Golf</b> Title: <b>TSi4 Driver</b> Price: <b>Click For Guaranteed Low Price</b>  
-Brand: <b>Callaway Golf</b> Title: <b>Elyte X Driver</b> Price: <b>$649.99</b>  
-Brand: <b>Callaway Golf</b> Title: <b>Elyte TD Driver</b> Price: <b>$199.60</b>  
-Brand: <b>Cleveland Golf</b> Title: <b>Launcher XL2 Driver</b> Price: <b>$254.99</b>  
+Result from ../../../web-src-scraping/clubs/drivers/rockbottomgolf.com-golf-clubs-drivers.txt:
+Brand: <b>Callaway Golf</b> Title: <b>Elyte Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>DARKSPEED Driver</b> Price: <b>$549.00</b>  
+Brand: <b>TourEdge</b> Title: <b>Exotics E725 Driver</b> Price: <b>$399.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>LTDX Driver</b> Price: <b>$198.74</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>Launcher XL2 Driver</b> Price: <b>$250.00</b>  
+Brand: <b>Titleist Golf</b> Title: <b>TSi2 Driver</b> Price: <b>$250.00</b>  
 Brand: <b>Srixon Golf</b> Title: <b>ZX5 MKII Driver</b> Price: <b>$250.00</b>  
-Brand: <b>TaylorMade Golf</b> Title: <b>Qi10 Max Driver</b> Price: <b>$499.99</b>  
-Brand: <b>Cobra Golf</b> Title: <b>Aerojet Driver</b> Price: <b>$235.60</b>  
-Brand: <b>Cobra Golf</b> Title: <b>Aerojet LS Driver</b> Price: <b>$235.60</b>  
-Brand: <b>Cobra Golf</b> Title: <b>Aerojet Max Driver</b> Price: <b>$235.60</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>ST-X Platinum 230 Driver</b> Price: <b>$91.78</b>  
+Brand: <b>Wilson Golf</b> Title: <b>Staff DYNAPWR Driver</b> Price: <b>$599.99</b>  
 
 Website: <b>Rock Bottom Golf</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_3.txt:
-Brand: <b>TaylorMade</b> Title: <b>Driver Qi10 MAX</b> Price: <b>$599.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Driver Qi10</b> Price: <b>$599.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Driver STEALTH 2 PLUS</b> Price: <b>$349.99</b>  
-Brand: <b>Cleveland</b> Title: <b>Driver</b> Price: <b>$399.99</b>  
-Brand: <b>Cobra</b> Title: <b>Driver DARKSPEED</b> Price: <b>$399.99</b>  
-Brand: <b>Callaway</b> Title: <b>Driver Elyte</b> Price: <b>$999.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Driver SIM 2 MAX</b> Price: <b>$5249.99</b>  
-Brand: <b>Cleveland</b> Title: <b>Driver Launcher XL</b> Price: <b>$399.99</b>  
-Brand: <b>Cobra</b> Title: <b>Driver AeroJet LS</b> Price: <b>$5249.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Driver STEALTH</b> Price: <b>$319.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Driver GT2</b> Price: <b>$649.00 - $849.00</b>  
-
+Result from ../../../web-src-scraping/clubs/drivers/globalgolf.com-golf-clubs-driver.txt:
+Brand: <b>Cobra</b> Title: <b>DARKSPEED Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 MAX Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Ping</b> Title: <b>G410 Plus Driver</b> Price: <b>$246.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 Driver</b> Price: <b>$178.49 - $288.99</b>  
+Brand: <b>Ping</b> Title: <b>G425LST Driver</b> Price: <b>$349.00</b>  
+Brand: <b>Honma</b> Title: <b>TW XP-1 Driver</b> Price: <b>$142.49</b>  
+Brand: <b>Ping</b> Title: <b>G SF Tec Driver</b> Price: <b>$144.49 - $191.24</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver</b> Price: <b>$649.00 - $849.00</b>  
+Brand: <b>Titleist</b> Title: <b>GT3 Driver</b> Price: <b>$649.00 - $849.00</b>  
+Brand: <b>Ping</b> Title: <b>G440 MAX Driver</b> Price: <b>$349.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 PLUS Driver</b> Price: <b>$599.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 MAX Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Ping</b> Title: <b>G430 MAX Driver</b> Price: <b>$399.00</b>  
+Brand: <b>Ping</b> Title: <b>GLS Tec Driver</b> Price: <b>$161.49 - $199.49</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Driver</b> Price: <b>$499.99</b>  
 Website: <b>GlobalGolf</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_4.txt:
-Brand: <b>TAYLORMADE</b> Title: <b>G440 Max Driver</b> Price: <b>$599.99</b>  
+Result from ../../../web-src-scraping/clubs/drivers/pgatoursuperstore.com-golf-clubs-drivers.txt:
 Brand: <b>TAYLORMADE</b> Title: <b>Qi35 Driver</b> Price: <b>$599.99</b>  
-Brand: <b>TAYLORMADE</b> Title: <b>Qi35 LS Driver</b> Price: <b>$649.99</b>  
 Brand: <b>TAYLORMADE</b> Title: <b>Qi35 Max Driver</b> Price: <b>$599.99</b>  
 Brand: <b>PING</b> Title: <b>G440 LST Driver</b> Price: <b>$599.99</b>  
-Brand: <b>PING</b> Title: <b>G440 SFT Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Qi35 LS Driver</b> Price: <b>$649.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT2 Driver</b> Price: <b>$649.99</b>  
 Brand: <b>CALLAWAY</b> Title: <b>ELYTE Driver</b> Price: <b>$599.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>ELYTE Triple Diamond Driver</b> Price: <b>$649.99 - $749.99</b>  
-Brand: <b>TITLEIST</b> Title: <b>GT2 Driver</b> Price: <b>$649.99 - $849.99</b>  
-Brand: <b>TITLEIST</b> Title: <b>GT3 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TOUREDGE</b> Title: <b>Exotics C725 Driver</b> Price: <b>$399.99</b>  
 Brand: <b>COBRA</b> Title: <b>DS-ADAPT Max K Driver</b> Price: <b>$549.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>ELYTE Max Fast Driver</b> Price: <b>$599.99</b>  
-Brand: <b>COBRA</b> Title: <b>DS-ADAPT LS Driver</b> Price: <b>$549.99</b>  
-Brand: <b>CLEVELAND</b> Title: <b>HiBore XL Driver</b> Price: <b>$399.99</b>  
-Brand: <b>TAYLORMADE</b> Title: <b>Qi35 LS Designer Series Driver</b> Price: <b>$649.99</b>  
-Brand: <b>TAYLORMADE</b> Title: <b>Qi35 Designer Series Driver</b> Price: <b>$649.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>ELYTE Max Fast Women's Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TOUREDGE</b> Title: <b>Exotics E725 Driver</b> Price: <b>$399.99</b>  
 Brand: <b>PING</b> Title: <b>G440 Max HL Driver</b> Price: <b>$599.99</b>  
-
 Website: <b>PGA TOUR Superstore</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_5.txt:
+Result from ../../../web-src-scraping/clubs/drivers/golfdiscount.com-golf-clubs-drivers-resultsPerPage-24.txt:
 Brand: <b>Srixon</b> Title: <b>Xi LS Driver</b> Price: <b>$549.99</b>  
 Brand: <b>TaylorMade</b> Title: <b>QI35 Max Driver</b> Price: <b>$599.99</b>  
 Brand: <b>Ping</b> Title: <b>G440 SFT Driver</b> Price: <b>$597</b>  
 Brand: <b>Srixon</b> Title: <b>Xi Driver</b> Price: <b>$549.99</b>  
 Brand: <b>Ping</b> Title: <b>G430 MAX Driver</b> Price: <b>$649.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi35 LS Driver</b> Price: <b>$599.99</b>  
 Brand: <b>Callaway</b> Title: <b>Elyte Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver</b> Price: <b>$599.99</b>  
 Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Max Driver</b> Price: <b>$499.99</b>  
 Brand: <b>TaylorMade</b> Title: <b>Qi10 Max Driver</b> Price: <b>$499.99</b>  
 Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$319.95</b>  
-Brand: <b>TaylorMade</b> Title: <b>SIM2 Max Driver</b> Price: <b>$520.99</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple</b> Price: <b>$499.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM2 Max Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$499.99</b>  
 Brand: <b>Cobra</b> Title: <b>LTDX Driver</b> Price: <b>$184.99</b>  
-Brand: <b>Callaway</b> Title: <b>MAVRIK Driver</b> Price: <b>$249.99</b>  
-Brand: <b>Cobra</b> Title: <b>LTDx Driver Black</b> Price: <b>$184.99</b>  
-Brand: <b>Titleist</b> Title: <b>TSR2 Driver</b> Price: <b>$649.99</b>  
+Brand: <b>Titleist</b> Title: <b>TSR2 Driver</b> Price: <b>$184.99</b>  
 
 Website: <b>GolfDiscount.com</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_6.txt:
-Brand: <b>PING</b> Title: <b>G430 MAX Driver</b> Price: <b>$549.99</b>  
-Brand: <b>PING</b> Title: <b>G430 MAX 10K Driver</b> Price: <b>$699.99</b>  
-Brand: <b>Callaway</b> Title: <b>Elyte Driver 2025</b> Price: <b>$599.99</b>  
-Brand: <b>Srixon</b> Title: <b>ZXi MAX Driver 2025</b> Price: <b>$547.60</b>  
+Result from ../../../web-src-scraping/clubs/drivers/carlsgolfland.com-golf-clubs-drivers.txt:
+Brand: <b>PING</b> Title: <b>G440 MAX Driver 2025</b> Price: <b>$599.99</b>  
+Brand: <b>PING</b> Title: <b>G440 LST Driver 2025</b> Price: <b>$597.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi35 Max Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi35 Driver 2025</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte Driver 2025</b> Price: <b>$549.99</b>  
+Brand: <b>Srixon</b> Title: <b>Zxi MAX Driver 2025</b> Price: <b>$547.60</b>  
 Brand: <b>Titleist</b> Title: <b>GT2 Driver 2025</b> Price: <b>$397.00</b>  
 Brand: <b>TaylorMade</b> Title: <b>QI10 Max Driver</b> Price: <b>$599.99</b>  
 Brand: <b>TaylorMade</b> Title: <b>Qi10 Driver</b> Price: <b>$499.99</b>  
 Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Driver</b> Price: <b>$299.00</b>  
-Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Driver</b> Price: <b>$379.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Driver</b> Price: <b>$499.99</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym MAX Fast Driver</b> Price: <b>$299.00</b>  
-Brand: <b>Callaway</b> Title: <b>Paradym X Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Rogue ST MAX LS Driver</b> Price: <b>$349.99</b>  
-Brand: <b>Callaway</b> Title: <b>Rogue ST Triple Diamond LS Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX Fast Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX LS Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Big Bertha REVA 23 Driver</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte MAX Fast Driver 2025</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte X Driver 2025</b> Price: <b>$599.99</b>  
 
 Website: <b>Carl's Golfland</b>
 
-Result from ../../../web-src-scraping/clubs/drivers/club_driver_7.txt:
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade Qi35 Max Driver</b> Price: <b>$599.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>TaylorMade Qi35 Driver 2025</b> Price: <b>$597.00</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Elyte Driver 2025</b> Price: <b>$599.99</b>  
-Brand: <b>Srixon</b> Title: <b>Srixon ZXi MAX Driver 2025</b> Price: <b>$549.99</b>  
-Brand: <b>PING</b> Title: <b>PING G430 MAX Driver</b> Price: <b>$547.60</b>  
-Brand: <b>Titleist</b> Title: <b>Titleist GT2 Driver 2025</b> Price: <b>$397.00</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Paradym Ai Smoke MAX Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Rogue ST MAX Driver</b> Price: <b>$499.99</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Mavrik 22 Driver</b> Price: <b>$599.99</b>  
-Brand: <b>CALLAWAY</b> Title: <b>Callaway Paradym X Driver</b> Price: <b>$599.99</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Rogue ST Triple Diamond LS Driver</b> Price: <b>$499.99</b>  
-Brand: <b>Callaway</b> Title: <b>Callaway Womens Big Bertha REVA 23 Driver</b> Price: <b>$379.99</b>  
-
-Website: <b>Carl's Golfland</b>
+Result from ../../../web-src-scraping/clubs/drivers/dickssportinggoods.com-f-golf-drivers.txt:
+Please provide the text file with the golf product information so that I can analyze it and extract the required details.
 
