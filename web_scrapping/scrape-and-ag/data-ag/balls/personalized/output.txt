@@ -1,7 +1,0 @@
-Result from ../../../web-src-scraping/balls/personalized/https-tgw.com-golf-balls-personalized-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-rockbottomgolf.com-balls-custom-logo-balls.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-globalgolf.com-golf-balls-personalized.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-pgatoursuperstore.com-golf-balls-personalized.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-golfdiscount.com-golf-balls-balls-personalizedresultsPerPage=24.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-carlsgolfland.com-golf-balls-personalized-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/personalized/https-dickssportinggoods.com-f-golf-ballsfilterFacets=4973%253APersonalized.txt:

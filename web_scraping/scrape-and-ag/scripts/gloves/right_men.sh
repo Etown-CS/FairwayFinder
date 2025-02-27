@@ -1,0 +1,7 @@
+cd "../../../playwright_files/playwright-node-files/gloves/right/men"
+node "scrape_men-right.js"
+cd "../../../../../scrape-and-ag/ocr/gloves/right/men"
+node "ocr_men-right.js"
+cd "../../../../data-ag/gloves/right/men"
+node "analyze_men-right.js"
+cd "../../../../../scrape-and-ag/scripts/gloves"

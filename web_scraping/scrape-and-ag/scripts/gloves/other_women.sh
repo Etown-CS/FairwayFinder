@@ -1,0 +1,7 @@
+cd "../../../playwright_files/playwright-node-files/gloves/other/women"
+node "scrape_women-other.js"
+cd "../../../../../scrape-and-ag/ocr/gloves/other/women"
+node "ocr_women-other.js"
+cd "../../../../data-ag/gloves/other/women"
+node "analyze_women-other.js"
+cd "../../../../../scrape-and-ag/scripts/gloves"

@@ -1,7 +1,0 @@
-cd "../../../playwright_files/playwright-node-files/gloves/right/women"
-node "scrap_women-right.js"
-cd "../../../../../scrape-and-ag/web-src-scraping/gloves/right/women"
-node "ocr_women-right.js"
-cd "../../../../data-ag/gloves/right/women"
-node "analyze_women-right.js"
-cd "../../../../../scrape-and-ag/scripts/gloves"
