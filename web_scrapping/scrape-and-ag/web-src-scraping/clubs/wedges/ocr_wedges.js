@@ -1,7 +1,7 @@
 const Tesseract = require('tesseract.js');
 const fs = require('fs');
 
-const jsonString = fs.readFileSync('../../../scrape-and-ag/filenames.json', 'utf8');
+const jsonString = fs.readFileSync('../../../../scrape-and-ag/filenames.json', 'utf8');
 const names = JSON.parse(jsonString);
 
 // files paths of website screenshots and output path for extracted data

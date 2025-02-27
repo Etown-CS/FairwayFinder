@@ -1,7 +1,109 @@
-Result from ../../../web-src-scraping/clubs/wedges/tgw.com-golf-clubs-golf-wedges.txt:
-Result from ../../../web-src-scraping/clubs/wedges/rockbottomgolf.com-golf-clubs-wedges.txt:
-Result from ../../../web-src-scraping/clubs/wedges/globalgolf.com-golf-clubs-wedge.txt:
-Result from ../../../web-src-scraping/clubs/wedges/pgatoursuperstore.com-golf-clubs-wedges.txt:
-Result from ../../../web-src-scraping/clubs/wedges/golfdiscount.com-golf-clubs-wedges-resultsPerPage-24.txt:
-Result from ../../../web-src-scraping/clubs/wedges/carlsgolfland.com-golf-clubs-wedges.txt:
-Result from ../../../web-src-scraping/clubs/wedges/dickssportinggoods.com-f-golf-wedges.txt:
+Result from ../../../web-src-scraping/clubs/wedges/https-tgw.com-golf-clubs-golf-wedges.txt:
+Brand: <b>Titleist</b> Title: <b>SM10 Tour Chrome Wedge</b> Price: <b>$189 - $199</b>  
+Brand: <b>Titleist</b> Title: <b>SM9 Tour Chrome Wedge</b> Price: <b>$149</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind Hi-Toe 3 Chrome Wedge</b> Price: <b>$179</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Chrome Wedge</b> Price: <b>$129</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX 6 Zipcore Tour Satin Wedge</b> Price: <b>$129</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 3 Satin RAW Chrome Wedge</b> Price: <b>$179</b>  
+Brand: <b>Mizuno</b> Title: <b>Pro T1 Black lon Wedge</b> Price: <b>$149</b>  
+Brand: <b>Mizuno</b> Title: <b>S-23 Satin Wedge</b> Price: <b>$119</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX4 Zipcore Wedge</b> Price: <b>$149</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX FullFace 2 Tour Satin Wedge</b> Price: <b>$129</b>  
+
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-rockbottomgolf.com-golf-clubs-wedges.txt:
+Brand: <b>Cleveland Golf</b> Title: <b>RTZ Tour Satin Wedge</b> Price: <b>$169.99</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>RTZ Black Wedge</b> Price: <b>$169.99</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>RTZ Tour Rack Wedge</b> Price: <b>$189.99</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>RTX-6 Zipcore Wedge</b> Price: <b>$89.97</b>  
+Brand: <b>Cleveland Golf</b> Title: <b>Smart Sole Wedge</b> Price: <b>$57.97</b>  
+Brand: <b>Bettinardi Golf</b> Title: <b>Bettinardi Golf Wedges</b> Price: <b>$149.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>S23 Copper Wedge</b> Price: <b>$99.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>S23 Satin Chrome Wedge</b> Price: <b>$99.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>T24 Blue Lon Wedge</b> Price: <b>$129.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>T24 Raw Wedge</b> Price: <b>$129.95</b>  
+Brand: <b>Callaway Golf</b> Title: <b>JAWS MD5 Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Brushed Steel Wedge</b> Price: <b>$149.00</b>  
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 T Grind Wedge</b> Price: <b>$149.00</b>  
+Brand: <b>Tour Edge Golf</b> Title: <b>E525 Wedge</b> Price: <b>$79.99</b>  
+
+Website: <b>Rock Bottom Golf</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-globalgolf.com-golf-clubs-wedge.txt:
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Brushed Steel F Grind</b> Price: <b>$189.00</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Chrome W Grind</b> Price: <b>$149.99</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore Satin</b> Price: <b>$129.99</b>  
+Brand: <b>Cobra</b> Title: <b>King Cobra SnakeBite One</b> Price: <b>$159.00</b>  
+Brand: <b>Ping</b> Title: <b>Ping G440</b> Price: <b>$157.00 - $170.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno Wedge</b> Price: <b>$75.99 - $104.49</b>  
+Brand: <b>TaylorMade</b> Title: <b>MG4 Chrome HB</b> Price: <b>$179.99</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX 6 ZipCore Black Satin Full</b> Price: <b>$66.49 - $104.49</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Jet Black D Grind</b> Price: <b>$189.00 - $199.00</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Tour Chrome</b> Price: <b>$189.00 - $199.00</b>  
+
+Website: <b>GlobalGolf.com</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-pgatoursuperstore.com-golf-clubs-wedges.txt:
+Brand: <b>TAYLORMADE</b> Title: <b>Hi-Toe 4 Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>Pro T-1 Blue Wedge w/ Steel Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>Black Satin Wedge w/ Steel Shaft</b> Price: <b>$169.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>RTZ Tour Satin Wedge w/ Steel Shaft</b> Price: <b>$169.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>Pro T-1 White Satin Wedge w/ Steel Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>RTZ Full-Face ADAPT Black Wedge w/ Steel Shaft</b> Price: <b>$169.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>RTZ Full-Face ADAPT Tour Rack Wedge w/ Steel Shaft</b> Price: <b>$189.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>Pro T-3 White Satin Wedge w/ Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>TOUREDGE</b> Title: <b>Hot Launch X525 Individual Ironwood w/ Steel Shaft</b> Price: <b>$89.99</b>  
+Brand: <b>TOUREDGE</b> Title: <b>Hot Launch X525 Wedge w/ Graphite Shaft</b> Price: <b>$89.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>RTZ Tour Rack Wedge w/ Graphite Shaft</b> Price: <b>$189.99</b>  
+Brand: <b>CLEVELAND</b> Title: <b>RTZ Tour Satin Wedge w/ Graphite Shaft</b> Price: <b>$169.99</b>  
+Website: <b>PGA TOUR Superstore</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-golfdiscount.com-golf-clubs-wedgesresultsPerPage=24.txt:
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Tour Satin Wedge</b> Price: <b>$99.99</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Black Satin Wedge</b> Price: <b>$99.99</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX 6 ZipCore Black Satin Wedge</b> Price: <b>$129.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Tour Chrome Wedge</b> Price: <b>$128.50</b>  
+Brand: <b>Ping</b> Title: <b>G430 Wedge</b> Price: <b>$149.00</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Brushed Steel Wedge</b> Price: <b>$149.00</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX 6 ZipCore Tour Satin Wedge</b> Price: <b>$129.99</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore Wedge</b> Price: <b>$119.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SMO Jet Black Wedge</b> Price: <b>$149.00</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Satin Chrome Wedge</b> Price: <b>$99.95</b>  
+Brand: <b>Callaway</b> Title: <b>CB Wedge</b> Price: <b>$129.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Hi-Toe 3 Brushed Copper Wedge</b> Price: <b>$139.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Tour Chrome Wedge</b> Price: <b>$189.00</b>  
+Brand: <b>Callaway</b> Title: <b>Jaws MDS Platinum Chrome Wedge</b> Price: <b>$177.00</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Copper Cobalt Wedge</b> Price: <b>$99.95</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Tour Chrome Wedge - TaylorMade Milled Grind 4 Black Wedge</b> Price: <b>$119.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Hi-Toe 3 Chrome Wedge</b> Price: <b>$139.99</b>  
+Brand: <b>Cobra</b> Title: <b>Snakebite Black Wedge</b> Price: <b>$129.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Jet Black Wedge</b> Price: <b>$189.00</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Nickel Wedge</b> Price: <b>$189.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 4 Wedge</b> Price: <b>$179.99</b>  
+
+Website: <b>GolfDiscount.com</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-carlsgolfland.com-golf-clubs-wedges.txt:
+Brand: <b>Cleveland</b> Title: <b>RTX 6 ZipCore</b> Price: <b>$169.99</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX Tour Satin</b> Price: <b>$169.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM10</b> Price: <b>$189.00</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM9</b> Price: <b>$159.99</b>  
+Brand: <b>Cleveland</b> Title: <b>RTX Full-Face Wedges</b> Price: <b>$179.66</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore</b> Price: <b>$159.99</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Wedges - Satin</b> Price: <b>$99.95</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>CB Wedges</b> Price: <b>$150.00 - $166.66</b>  
+Brand: <b>Callaway</b> Title: <b>Elyte HL Wedges</b> Price: <b>$150.00 - $166.66</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS MD5 Mack Daddy</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Full Face Wedges - Graphite</b> Price: <b>$179.99</b>  
+Brand: <b>PING</b> Title: <b>5159 Hydropearl</b> Price: <b>$177.00</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Black - Graphite</b> Price: <b>$139.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Face Chrome - Steel Shaft</b> Price: <b>$179.99</b>  
+
+Website: <b>Carl's Golfland</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/https-dickssportinggoods.com-f-golf-wedges.txt:
+Please provide the text file or the details of the products so that I can analyze it and provide you with the requested format.
+

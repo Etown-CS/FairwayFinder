@@ -1,7 +1,7 @@
-Result from ../../../web-src-scraping/balls/all/tgw.com-golf-balls-top-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/all/rockbottomgolf.com-balls-new-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/all/globalgolf.com-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/all/pgatoursuperstore.com-golf-balls.txt:
-Result from ../../../web-src-scraping/balls/all/golfdiscount.com-golf-balls-resultsPerPage-24.txt:
-Result from ../../../web-src-scraping/balls/all/carlsgolfland.com-golf-balls:
-Result from ../../../web-src-scraping/balls/all/dickssportinggoods.com-f-golf-balls.txt:
+Result from ../../../web-src-scraping/balls/all/https-tgw.com-golf-balls-top-golf-balls.txt:
+Result from ../../../web-src-scraping/balls/all/https-rockbottomgolf.com-balls-new-golf-balls.txt:
+Result from ../../../web-src-scraping/balls/all/https-globalgolf.com-golf-balls.txt:
+Result from ../../../web-src-scraping/balls/all/https-pgatoursuperstore.com-golf-balls.txt:
+Result from ../../../web-src-scraping/balls/all/https-golfdiscount.com-golf-ballsresultsPerPage=24.txt:
+Result from ../../../web-src-scraping/balls/all/https-carlsgolfland.com-golf-balls:
+Result from ../../../web-src-scraping/balls/all/https-dickssportinggoods.com-f-golf-balls.txt:

@@ -131,3 +131,4 @@ dist
 
 *.vite
 deps_temp_dc*
+web_scrapping/playwright_files/playwright-node-files/clubs/fairway-woods/scrap_fairway-woods.js

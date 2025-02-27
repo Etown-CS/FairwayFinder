@@ -1,6 +1,115 @@
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
-Result from ../../../../web-src-scraping/gloves/left/men/undefined.txt:
+Result from ../../../../web-src-scraping/gloves/left/men/https-tgw.com-accessories-golf-gloves-men-left.txt:
+Brand: <b>FootJoy</b> Title: <b>Mens WeatherSof Golf Glove - Prior Generation</b> Price: <b>$18.97</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2023 StaSof Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Perma Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>TGW</b> Title: <b>Women's Players Half Finger Golf Glove</b> Price: <b>$2.49</b>  
+Brand: <b>TGW</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$6.74</b>  
+Brand: <b>Nike</b> Title: <b>Men's Tech Extreme VII Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2024 WeatherSof Golf Gloves</b> Price: <b>$17.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>TGW</b> Title: <b>Women's Tour Cabretta Golf Glove</b> Price: <b>$2.49</b>  
+Brand: <b>Nike</b> Title: <b>DuraFeel X 2-Pack Golf Glove</b> Price: <b>$8.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Mens Tour Golf Glove</b> Price: <b>$16.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Tour Authentic Golf Glove</b> Price: <b>$22.80</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stratus Tech Golf Gloves 2-Pk</b> Price: <b>$21.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Tour Preferred Golf Glove</b> Price: <b>$26.90</b>  
+Brand: <b>FootJoy</b> Title: <b>Women's 2024 WeatherSof 2pk Golf Gloves</b> Price: <b>$22.90</b>  
+
+Website: <b>TGW.com</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/https-rockbottomgolf.com-accessories-gloves-men-left.txt:
+Brand: <b>Nicklaus Golf</b> Title: <b>Golf Gloves</b> Price: <b>$8 - $17.99</b>  
+Brand: <b>Etonic Golf</b> Title: <b>Cabretta Leather Glove</b> Price: <b>$25.00</b>  
+Brand: <b>Footjoy Golf</b> Title: <b>MRH WeatherSof Glove</b> Price: <b>$9.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MRH Fusion Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Titleist Golf</b> Title: <b>MRH Perma-Soft Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>MRH Pur Tech Glove</b> Price: <b>$12</b>  
+Brand: <b>Nike Golf</b> Title: <b>MRH Tour Classic IV Glove</b> Price: <b>$23.99</b>  
+Brand: <b>Adams Golf</b> Title: <b>MRH AG23 Glove</b> Price: <b>$31.95</b>  
+Brand: <b>Rock Bottom Golf</b> Title: <b>MRH SofJoy Glove</b> Price: <b>$17.95</b>  
+Brand: <b>Footjoy Golf</b> Title: <b>MRH SciFlex Glove</b> Price: <b>$22.95</b>  
+
+Website: <b>Rock Bottom Golf</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/https-pgatoursuperstore.com-search-men-left.txt:
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Callaway</b> Title: <b>Tour Authentic Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>FootJoy</b> Title: <b>StableGrip 2.0 Men's Glove</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>HyperFLX Men's Glove</b> Price: <b>$37.99</b>  
+Brand: <b>Nike</b> Title: <b>Tech Extreme VII Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>Ping</b> Title: <b>Sport Tech Golf Glove</b> Price: <b>$19.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$12.99</b>  
+
+Website: <b>PGA TOUR Superstore</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/https-golfdiscount.com-catalogsearch-result-men-left.txt:
+Brand: <b>Footjoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Spectrum Golf Glove</b> Price: <b>$9.99</b>  
+Brand: <b>Ping</b> Title: <b>Tour Golf Glove</b> Price: <b>$23.95</b>  
+Brand: <b>Mizuno</b> Title: <b>Comp Golf Glove 2019</b> Price: <b>$10.99</b>  
+Brand: <b>Nike</b> Title: <b>Dura Feel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Cabretta Leather Golf Glove</b> Price: <b>$79.99</b>  
+Brand: <b>Footjoy</b> Title: <b>StaSof Golf Glove Pack</b> Price: <b>$26.95</b>  
+Brand: <b>Callaway</b> Title: <b>Weather Spann Golf Gloves (2-Pack)</b> Price: <b>$49.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Preferred Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Tour Rescue</b> Price: <b>$249.99</b>  
+Website: <b>golfdiscount.com</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/https-carlsgolfland.com-search-gots=custom-men0left.txt:
+Brand: <b>Tour Edge</b> Title: <b>TE-400 Complete Golf Package Set</b> Price: <b>$799.99</b>  
+Website: <b>Carl's Golfland</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/https-dickssportinggoods.com-search-Search-men-left.txt:
+Brand: <b>Callaway</b> Title: <b>2023 X-Tech Golf Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Callaway</b> Title: <b>Tour Authentic Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>PING</b> Title: <b>Tour Golf Glove</b> Price: <b>$30.00</b>  
+Brand: <b>FootJoy</b> Title: <b>2024 WeatherSof Golf Glove</b> Price: <b>$13.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Tour USA Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Top Flite</b> Title: <b>Gamer Golf Glove - 2 Pack</b> Price: <b>$14.99</b>  
+Brand: <b>Nike</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$24.00</b>  
+Brand: <b>Maxfli</b> Title: <b>Tour Golf Glove</b> Price: <b>$8.97</b>  
+Brand: <b>Titleist</b> Title: <b>Perma Soft Golf Gloves</b> Price: <b>$21.99</b>  
+Brand: <b>Uther Supply</b> Title: <b>Men's Chella Dura Golf Glove</b> Price: <b>$18.00</b>  
+Brand: <b>TravisMathew</b> Title: <b>Headliner Golf Glove</b> Price: <b>$29.95</b>  
+Brand: <b>TravisMathew</b> Title: <b>Double Me 2.0 Golf Glove</b> Price: <b>$39.95</b>  
+Brand: <b>FootJoy</b> Title: <b>2023 StaSof Golf Glove</b> Price: <b>$27.00</b>  
+Brand: <b>Callaway</b> Title: <b>2024 Weather Spann USA Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>Jordan</b> Title: <b>2025 Tour Golf Glove</b> Price: <b>$35.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>2025 Tour Preferred Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Maxfli</b> Title: <b>Men's 2024 Tour Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Bionic</b> Title: <b>StableGrip Golf Glove</b> Price: <b>$15.97</b>  
+Brand: <b>Top Flite</b> Title: <b>Gamer Golf Glove</b> Price: <b>$7.99</b>  
+Brand: <b>Nike</b> Title: <b>Tour Classic III Golf Glove</b> Price: <b>See Price In Cart</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$11.99 - $13.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Tour Golf Glove</b> Price: <b>$25.00</b>  
+Brand: <b>Bionic</b> Title: <b>StableGrip 2.0 Golf Glove</b> Price: <b>$29.99</b>  
+Brand: <b>Jordan</b> Title: <b>2023 Tour Golf Glove</b> Price: <b>$35.00</b>  
+Brand: <b>Callaway</b> Title: <b>2024 Tour Authentic Ai Golf Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Callaway</b> Title: <b>2023 Weather Spann Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>Maxfli</b> Title: <b>Men's 2024 Honors Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>Callaway</b> Title: <b>2025 Tour Authentic Golf Glove</b> Price: <b>$25.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2025 Tour Preferred Golf Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Maxfli</b> Title: <b>Elite Golf Glove (Prior Generation)</b> Price: <b>$8.97</b>  
+Brand: <b>Uther Supply</b> Title: <b>Men's USA Dura Golf Glove</b> Price: <b>$18.00</b>  
+Brand: <b>FootJoy</b> Title: <b>HyperFLX Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>TravisMathew</b> Title: <b>Out In The Sun Golf Glove - 2-Pack</b> Price: <b>$29.95</b>  
+Brand: <b>FootJoy</b> Title: <b>2024 WeatherSof Golf Gloves</b> Price: <b>$23.00</b>  
+Brand: <b>Top Flite</b> Title: <b>Gamer Golf Glove</b> Price: <b>$8.97</b>  
+Brand: <b>FootJoy</b> Title: <b>Contour FLX Golf Glove</b> Price: <b>$17.99</b>  
+Brand: <b>TravisMathew</b> Title: <b>Between The Lines 2.0 Golf Glove</b> Price: <b>$39.95</b>  
+Brand: <b>TravisMathew</b> Title: <b>Premier 2.0 Golf Glove</b> Price: <b>$34.95</b>  
+Brand: <b>FootJoy</b> Title: <b>StaSof Winter Golf Glove</b> Price: <b>$49.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Pure Touch Limited Golf Glove</b> Price: <b>$37.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Preferred Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Under Armour</b> Title: <b>Iso Chill Golf Glove</b> Price: <b>$20.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>2025 Tour Preferred Flex Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Maxfli</b> Title: <b>Winter Tech Golf Glove</b> Price: <b>$19.99</b>  
+Website: <b>[Not provided]</b>
+

@@ -21,4 +21,6 @@ cd "../gloves"
 ./right_men.sh
 ./right_women.sh
 
+# add MongoDB Data Ag Scripts
+
  cd "../../../"

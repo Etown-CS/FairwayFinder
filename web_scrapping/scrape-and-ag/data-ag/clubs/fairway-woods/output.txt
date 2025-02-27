@@ -1,110 +1,130 @@
-Result from ../../../web-src-scraping/clubs/fairway-woods/tgw.com-golf-clubs-fairway-woods.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke Max Fairway</b> Price: <b>$399.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$269.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT1 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 MAX Fairway</b> Price: <b>$34.99</b>  
-Brand: <b>Callaway</b> Title: <b>Ladies Rogue ST 24 Max Fairway</b> Price: <b>$22.99</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$199.97</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$32.90</b>  
-
-Website: <b>TGW.com</b>
-
-Result from ../../../web-src-scraping/clubs/fairway-woods/rockbottomgolf.com-golf-clubs-fairway-woods.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$399.99</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Fairway Wood</b> Price: <b>$169.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G440 MAX Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$269.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$399.00</b>  
-Brand: <b>Callaway</b> Title: <b>Ladies Rogue ST 24 Fairway</b> Price: <b>$229.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway Wood</b> Price: <b>$179.99</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$329.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G425 MAX Fairway</b> Price: <b>$199.97</b>
-
-Website: <b>TGW.com</b>
-
-Result from ../../../web-src-scraping/clubs/fairway-woods/globalgolf.com-golf-clubs-fairway-wood.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 1 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$32.90</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte Fairway</b> Price: <b>$34.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Fairway</b> Price: <b>$179.99</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Fairway</b> Price: <b>$169.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G425 MAX Fairway</b> Price: <b>$199.97</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 LST Fairway</b> Price: <b>$399.00</b>  
-Website: <b>TGW.com</b>
-
-Result from ../../../web-src-scraping/clubs/fairway-woods/pgatoursuperstore.com-golf-clubs-fairway-metals.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway Smoke Max</b> Price: <b>$39.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$269.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Cleveland</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte Fairway Wood</b> Price: <b>$34.99</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Fairway Wood</b> Price: <b>$179.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G425 MAX Fairway</b> Price: <b>$199.97</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 LST Fairway</b> Price: <b>$399.00</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway Wood</b> Price: <b>$32.90</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>Callaway</b> Title: <b>Ladies Rogue ST 24 Fairway</b> Price: <b>$22.99</b>  
-
-Website: <b>TGW.com</b>
-
-Result from ../../../web-src-scraping/clubs/fairway-woods/golfdiscount.com-golf-clubs-fairway-woods-resultsPerPage-24.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Ping</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Ping</b> Title: <b>Men's G440 MAX Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$199.99</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT1 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Fairway Wood</b> Price: <b>$179.99</b>  
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-tgw.com-golf-clubs-fairway-woods.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke Max Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Smoke Max Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Fairway</b> Price: <b>$179.00</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway XL</b> Price: <b>$399.00</b>  
 Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$329.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's 2024 Apex Utility</b> Price: <b>$299.99</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte Fairway</b> Price: <b>$349.99</b>  
-Brand: <b>Ping</b> Title: <b>Women's G440 HL MAX Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 MAX Fairway</b> Price: <b>$349.99</b>  
-Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Fairway Wood</b> Price: <b>$169.99</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>Ping</b> Title: <b>Men's G425 MAX Fairway</b> Price: <b>$199.97</b>  
-Brand: <b>Ping</b> Title: <b>Men's G430 LST Fairway</b> Price: <b>$399.00</b>  
-
-Website: <b>TGW.com</b>
-
-Result from ../../../web-src-scraping/clubs/fairway-woods/carlsgolfland.com-golf-clubs-fairway-woods.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$329.00</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$179.00</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX F Fairway</b> Price: <b>$349.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$199.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Fairway</b> Price: <b>$269.00</b>  
 Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179.99</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT1 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>Callaway</b> Title: <b>Ladies Rogue ST 24 Fairway</b> Price: <b>$22.99</b>  
-Brand: <b>Ping</b> Title: <b>Men's G430 LST Fairway</b> Price: <b>$399.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway</b> Price: <b>$169.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Fairway</b> Price: <b>$249.00</b>  
+
+Website: <b>Tgw.com</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-rockbottomgolf.com-golf-clubs-fairway-woods.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Qi10 Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$199.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$399.00</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$229.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX HL Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Smoke Max Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST Max 230 Fairway Wood</b> Price: <b>$179.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte TD Fairway Wood</b> Price: <b>$399.00</b>  
+Brand: <b>PING</b> Title: <b>G LE 3 Fairway</b> Price: <b>$299.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT HL</b> Price: <b>$269.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway</b> Price: <b>$169.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Ladies SIM2 Max Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199.00</b>  
 
 Website: <b>TGW.com</b>
 
-Result from ../../../web-src-scraping/clubs/fairway-woods/dickssportinggoods.com-f-fairway-woods.txt:
-Brand: <b>Callaway</b> Title: <b>Men's Paradym Al</b> Price: <b>$299.99</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$39.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$269.00</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Fairway Wood</b> Price: <b>$169.99</b>  
-Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179.99</b>  
-Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway</b> Price: <b>$269.00</b>  
-Brand: <b>PING</b> Title: <b>Women's G440 HL MAX Fairway</b> Price: <b>$349.00</b>  
-Brand: <b>Titleist</b> Title: <b>Men's GT1 Fairway</b> Price: <b>$39.90</b>  
-Brand: <b>Callaway</b> Title: <b>Ladies Rogue ST 24 Fairway</b> Price: <b>$229.99</b>  
-Brand: <b>Cobra</b> Title: <b>Men's DS Adapt X Fairway</b> Price: <b>$329.00</b>  
-Brand: <b>Callaway</b> Title: <b>Men's 2024 Apex Utility</b> Price: <b>$299.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 Fairway</b> Price: <b>$299.99</b>  
-Brand: <b>Callaway</b> Title: <b>Men's Elyte Fairway</b> Price: <b>$349.99</b>  
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-globalgolf.com-golf-clubs-fairway-wood.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte TD Fairway Wood</b> Price: <b>$399</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway Wood</b> Price: <b>$169</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX F Fairway</b> Price: <b>$299</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Fairway</b> Price: <b>$269</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway</b> Price: <b>$199</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$229</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$179</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX HL Fairway</b> Price: <b>$269</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway Wood</b> Price: <b>$249</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 Fairway Wood</b> Price: <b>$249</b>  
+Brand: <b>PING</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199</b>  
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-pgatoursuperstore.com-golf-clubs-fairway-metals.txt:
+Brand: <b>Callaway</b> Title: <b>Callaway Men's Paradym Al Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Callaway</b> Title: <b>Callaway Ladies Paradym Al Smoke Max Fairway</b> Price: <b>$249.00</b>  
+Brand: <b>Callaway</b> Title: <b>Callaway Men's Elyte TD Fairway Wood</b> Price: <b>$399.99</b>  
+Brand: <b>Callaway</b> Title: <b>Callaway Men's Mavrik Fairway Wood</b> Price: <b>$169.97</b>  
+Brand: <b>Cleveland</b> Title: <b>Cleveland Men's Launcher Halo Fairway</b> Price: <b>$179.00</b>  
+Brand: <b>Mizuno</b> Title: <b>Mizuno Men's ST-Z 230 Fairway</b> Price: <b>$229.00</b>  
+Brand: <b>PING</b> Title: <b>PING Men's G430 MAX F Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>PING</b> Title: <b>PING Men's G430 SFT Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>PING</b> Title: <b>PING Men's G425 SFT Fairway</b> Price: <b>$199.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Men's Qi10 Fairway</b> Price: <b>$269.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Men's SIM2 Max Fairway Wood</b> Price: <b>$199.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Men's Qi10 MAX Fairway</b> Price: <b>$299.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Ladies SIM2 Max Fairway</b> Price: <b>$249.00</b>  
+
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-golfdiscount.com-golf-clubs-fairway-woodsresultsPerPage=24.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte TD Fairway Wood</b> Price: <b>$399</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway Wood</b> Price: <b>$169</b>  
+Brand: <b>Ping</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269</b>  
+Brand: <b>Ping</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$229</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$179</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$199</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX HL Fairway</b> Price: <b>$269</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway Wood</b> Price: <b>$249</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 Fairway</b> Price: <b>$249</b>  
+
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-carlsgolfland.com-golf-clubs-fairway-woods.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Elyte TD Fairway Wood</b> Price: <b>$399</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway Wood</b> Price: <b>$169</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$179</b>  
+Brand: <b>Ping</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway XL</b> Price: <b>$229</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179</b>  
+Brand: <b>Ping</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$199</b>  
+Brand: <b>Ping</b> Title: <b>Men's G430 SFT HL</b> Price: <b>$269</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Fairway</b> Price: <b>$299</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Fairway</b> Price: <b>$299</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi35 Fairway</b> Price: <b>$249</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway</b> Price: <b>$249</b>  
+
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/https-dickssportinggoods.com-f-fairway-woods.txt:
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies Paradym Al Fairway</b> Price: <b>$249</b>  
+Brand: <b>Ping</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269</b>  
+Brand: <b>Ping</b> Title: <b>Men's G430 MAX F Fairway</b> Price: <b>$299</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM2 Max Fairway Wood</b> Price: <b>$199</b>  
+Brand: <b>TaylorMade</b> Title: <b>MEN'S Qi10 Fairway</b> Price: <b>$269</b>  
+Brand: <b>TaylorMade</b> Title: <b>MEN'S Qi10 MAX Fairway</b> Price: <b>$299</b>  
+Brand: <b>TaylorMade</b> Title: <b>Mens's Qi35 Fairway</b> Price: <b>$249</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$399</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo Fairway</b> Price: <b>$229</b>  
+Brand: <b>Mizuno</b> Title: <b>Men's ST-Z 230 Fairway</b> Price: <b>$179</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed X Fairway</b> Price: <b>$249</b>  
+Brand: <b>Ping</b> Title: <b>Men's G425 SFT Fairway</b> Price: <b>$199</b>  
 
 Website: <b>TGW.com</b>
 
