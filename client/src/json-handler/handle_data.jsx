@@ -1,5 +1,3 @@
-//TODO: embed the correct urls for each golf website
-
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 
@@ -12,6 +10,56 @@ const hideScrollbarStyles = `
   .hide-scrollbar::-webkit-scrollbar {
     display: none;
   }
+
+  /* Styling for the list items on hover */
+  .deal-item {
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+  }
+
+  .deal-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Improved typography and spacing for the filter section */
+  .filter-section {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .filter-section label {
+    font-size: 1.1em;
+    font-weight: 500;
+    margin-bottom: 5px;
+  }
+
+  .filter-section select, .filter-section input, .filter-section button {
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .filter-section select, .filter-section input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .filter-section button {
+    background-color: #82a417;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    padding: 12px;
+    font-size: 1.1em;
+  }
+
+  .filter-section button:hover {
+    background-color: #6f8f14;
+  }
 `;
 
 const styleSheet = document.createElement("style");
@@ -20,36 +68,24 @@ document.head.appendChild(styleSheet);
 
 // List of golf brands
 const brands = [
-  "Ping",
-  "TaylorMade",
-  "Titleist",
-  "Callaway",
-  "Cleveland",
-  "Cobra",
-  "XXIO",
-  "Odyssey",
-  "Mizuno",
-  "Bettinardi",
-  "Top Flite",
-  "L.A.B.",
-  "Wilson",
-  "Tour Edge",
-  "Snake Eyes",
-  "Warrior",
-  "Harry Taylor",
-  "Alien"
+  "Ping", "TaylorMade", "Titleist", "Callaway", "Cleveland", "Cobra", "XXIO", "Odyssey",
+  "Mizuno", "Bettinardi", "Top Flite", "L.A.B.", "Wilson", "Tour Edge", "Snake Eyes", "Warrior", "Harry Taylor", "Alien"
 ];
 
 // Format the golf deals based on the new data structure
 function formatGolfDeals(data) {
   console.log("Raw data:", data); // Debugging
-  return data.map(product => ({
-    title: product.productTitle,  // Extract the product title
-    price: parseFloat(product.price.replace(/[^0-9.-]+/g, "")).toFixed(2), // Convert price to a number and format to 2 decimal places
-    brand: product.brandName,     // Include the formatted brand name
-    website: product.website,     // Optionally, include the website
-  }));
+  return data.map(product => {
+    const price = product.price ? product.price.replace(/[^0-9.-]+/g, "") : "0";  // Ensure price is a valid string
+    return {
+      title: product.productTitle,  // Extract the product title
+      price: parseFloat(price).toFixed(2), // Convert price to a number and format to 2 decimal places
+      brand: product.brandName,     // Include the formatted brand name
+      website: product.website,     // Optionally, include the website
+    };
+  });
 }
+
 
 function GolfDeals() {
   const { category } = useParams();  // Get the category from the URL
@@ -61,6 +97,7 @@ function GolfDeals() {
   const [selectedBrand, setSelectedBrand] = useState('');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
+  const [sortOption, setSortOption] = useState('');  // New state for sort option
 
   useEffect(() => {
     async function fetchData() {
@@ -115,22 +152,31 @@ function GolfDeals() {
 
     console.log("Filtered deals:", filteredDeals); // Debugging
 
+    // Sort the filtered deals based on the selected sort option
+    if (sortOption === 'lowest') {
+      filteredDeals.sort((a, b) => parseFloat(a.price) - parseFloat(b.price));
+    } else if (sortOption === 'highest') {
+      filteredDeals.sort((a, b) => parseFloat(b.price) - parseFloat(a.price));
+    }
+
+    console.log("Sorted deals:", filteredDeals); // Debugging
+
     setFormattedDeals(filteredDeals);
   };
 
   return (
-    <div 
+    <div
       style={{
         padding: 0,
         margin: 0,
         fontFamily: 'Arial, sans-serif',
-        height: '100vh', 
-        overflow: 'hidden', 
+        height: '100vh',
+        overflow: 'hidden',
         display: 'flex',
         flexDirection: 'column',
       }}
     >
-      <div 
+      <div
         style={{
           display: 'flex',
           height: '100%',
@@ -139,7 +185,7 @@ function GolfDeals() {
         }}
       >
         {/* Center dividing line */}
-        <div 
+        <div
           style={{
             position: 'absolute',
             left: '25%',
@@ -152,7 +198,7 @@ function GolfDeals() {
         />
 
         {/* Left section for filter form */}
-        <div 
+        <div
           style={{
             width: '35%',
             padding: '20px',
@@ -167,15 +213,15 @@ function GolfDeals() {
             width: '90%',
             maxWidth: '300px',
             marginLeft: '0px',
-          }}>
+          }} className="filter-section">
             <h2 style={{ textAlign: 'center' }}>Filter Deals</h2>
 
             <div style={{ marginTop: '50px', marginBottom: '60px', width: '100%' }}>
               <label htmlFor="brand">Brand:</label>
-              <select 
-                id="brand" 
-                value={selectedBrand} 
-                onChange={(e) => setSelectedBrand(e.target.value)} 
+              <select
+                id="brand"
+                value={selectedBrand}
+                onChange={(e) => setSelectedBrand(e.target.value)}
                 style={{
                   width: '100%',
                   padding: '8px',
@@ -194,9 +240,9 @@ function GolfDeals() {
             <div style={{ marginBottom: '70px', width: '100%' }}>
               <label htmlFor="priceRange">Price Range:</label>
               <div style={{ display: 'flex', gap: '20px' }}>
-                <input 
-                  id="minPrice" 
-                  type="number" 
+                <input
+                  id="minPrice"
+                  type="number"
                   placeholder="Min"
                   value={minPrice}
                   onChange={(e) => setMinPrice(e.target.value)}
@@ -208,9 +254,9 @@ function GolfDeals() {
                     boxSizing: 'border-box'
                   }}
                 />
-                <input 
-                  id="maxPrice" 
-                  type="number" 
+                <input
+                  id="maxPrice"
+                  type="number"
                   placeholder="Max"
                   value={maxPrice}
                   onChange={(e) => setMaxPrice(e.target.value)}
@@ -225,8 +271,29 @@ function GolfDeals() {
               </div>
             </div>
 
-            <button 
-              onClick={handleFilterChange} 
+            {/* Sort by price dropdown */}
+            <div style={{ marginBottom: '20px', width: '100%' }}>
+              <label htmlFor="sortOption">Sort by Price:</label>
+              <select
+                id="sortOption"
+                value={sortOption}
+                onChange={(e) => setSortOption(e.target.value)}
+                style={{
+                  width: '100%',
+                  padding: '8px',
+                  borderRadius: '4px',
+                  border: '1px solid black',
+                  boxSizing: 'border-box'
+                }}
+              >
+                <option value="">Select sorting</option>
+                <option value="lowest">Lowest to Highest</option>
+                <option value="highest">Highest to Lowest</option>
+              </select>
+            </div>
+
+            <button
+              onClick={handleFilterChange}
               style={{
                 padding: '10px 20px',
                 backgroundColor: '#82a417',
@@ -244,7 +311,7 @@ function GolfDeals() {
         </div>
 
         {/* Right section for golf deals */}
-        <div 
+        <div
           className="hide-scrollbar"
           style={{
             width: '130%',
@@ -267,49 +334,65 @@ function GolfDeals() {
             {loading && <p style={{ textAlign: 'center' }}>Loading...</p>}
             {error && <p style={{ color: 'red', textAlign: 'center' }}>{error}</p>}
 
-            <ul style={{ 
-              listStyleType: 'none', 
-              padding: 0,
-              margin: 0,
-              width: '100%',
-            }}>
-              {formattedDeals.length > 0 ? (
-                formattedDeals.map((deal, index) => (
-                  <li 
-                    key={index}
-                    style={{
-                      border: '1px solid black',
-                      borderRadius: '8px',
-                      marginBottom: '40px',
-                      padding: '15px',
-                      boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
-                      width: '100%',
-                      backgroundColor: '#f5f5f5',
-                      boxSizing: 'border-box',
-                    }}
-                  >
-                    <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
-                    <p><strong>Price: </strong>${deal.price}</p> {/* Add $ sign before price */}
-                    {deal.brand && <p><strong>Brand: </strong>{deal.brand}</p>}
-                    {deal.website && (
-                      <p style={{ wordBreak: 'break-word' }}>
-                        <strong>Website: </strong>
-                        <a 
-                          href={deal.website.startsWith('http') ? deal.website : 'http://' + deal.website} 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          style={{ color: '#007bff' }}
-                        >
-                          {deal.website}
-                        </a>
-                      </p>
-                    )}
-                  </li>
-                ))
-              ) : (
-                !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
-              )}
-            </ul>
+            <ul style={{
+  listStyleType: 'none',
+  padding: 0,
+  margin: 0,
+  width: '100%',
+}}>
+  {formattedDeals.length > 0 ? (
+    formattedDeals.map((deal, index) => {
+      let domain = ''; // Default to empty string
+      try {
+        if (deal.website) {
+          const url = new URL(deal.website);
+          domain = url.hostname.replace('www.', ''); // Extract domain safely
+        }
+      } catch (error) {
+        console.error("Invalid website URL:", deal.website, error);
+      }
+
+      return (
+        <li
+          key={index}
+          className="deal-item"
+          style={{
+            border: '1px solid black',
+            borderRadius: '8px',
+            marginBottom: '40px',
+            padding: '15px',
+            boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
+            width: '100%',
+            backgroundColor: '#f5f5f5',
+            boxSizing: 'border-box',
+          }}
+        >
+          <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
+          <p><strong>Price: </strong>${deal.price}</p>
+          {deal.brand && <p><strong>Brand: </strong>{deal.brand}</p>}
+          {deal.website && domain ? (
+            <p>
+              <strong>Visit Website: </strong>
+              <a 
+                href={deal.website} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                style={{ color: '#007bff', textDecoration: 'none', fontWeight: 'bold' }}
+              >
+                See {domain} {category} deals
+              </a>
+            </p>
+          ) : (
+            <p style={{ color: 'gray' }}>No website available</p>
+          )}
+        </li>
+      );
+    })
+  ) : (
+    !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
+  )}
+</ul>
+
 
             <div style={{ textAlign: 'center', marginTop: '20px' }}>
               <a href="/" style={{ textDecoration: 'none', color: '#007bff' }}>Back to Home</a>

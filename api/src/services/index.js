@@ -35,7 +35,8 @@ export const services = async (app) => {
     'fairway-woods', 
     'hybrids', 
     'irons', 
-    'wedges'
+    'wedges',
+    'gloves'
   ];
 
   // Iterate over the collection names and create routes for them

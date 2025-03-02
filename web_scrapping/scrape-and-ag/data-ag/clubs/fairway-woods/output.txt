@@ -141,4 +141,3 @@ Brand: <b>Adams</b> Title: <b>Tight Lies Fairway Woods</b> Price: <b>$199.99</b>
 Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$299.99</b>  
 Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Fairway Woods</b> Price: <b>$229.99</b>  
 Website: <b>Carl's Golfland</b>
-

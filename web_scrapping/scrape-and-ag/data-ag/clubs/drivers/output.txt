@@ -160,4 +160,3 @@ Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Driver</b> Price: <b>$299.99</
 Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Driver</b> Price: <b>$599.99</b>  
 Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Driver</b> Price: <b>$599.99</b>  
 Website: <b>Carl's Golfland</b>  
-

@@ -1,16 +1,13 @@
-// TODO: Add a script that takes the scraped data and runs right before this one that formats the scraped web data before passing it into gpt.
-// Change GPT prompts accordingly
-
 require('dotenv').config();
 const fs = require('fs');
 const { OpenAI } = require('openai');
 const mongoose = require('mongoose'); // Mongoose to interact with MongoDB
 
 // Define the question here
-const question = "Convert the following raw text data into JSON format suitable for MongoDB, where each entry represents an individual item with relevant fields. Use the correct key for each field that corresponds with each value within the break statements. The fields are brandName, productTitle, price, and website based on the context of the text data. The website field for each individual entry in a group of deals will be at the bottom of the corresponding chunk of gold deals in Website: <b>website</b> format. Ensure that the JSON is well-structured and ready for insertion into a MongoDB collection. Make sure that there are no missing quotation marks, commas, braces, and brackets at all. Also make sure that all strings are terminated and that the JSON string is fully complete. Make sure there are no syntax errors in the JSON string. Make sure you don't miss any product field!!!";
+const question = "Convert the following raw text data into JSON format suitable for MongoDB, where each entry represents an individual item with relevant fields. Use the correct key for each field that corresponds with each value within the break statements. The fields are brandName, productTitle, price, and website based on the context of the text data. For the website field, that data is found at the bottom of each chunk of golf deals right after each group of deals. Please make sure that every product gets assigned its corresponding website with its full path url, which again is either directly underneath or seperated by a spece underneath a shunk of gold products for a specific equipment type. For each group of deals with no spaces, the corresponding website for each deal will be the next hit Website field underneath. Ensure that the JSON is well-structured and ready for insertion into a MongoDB collection. Make sure that there are no missing quotation marks, commas, braces, and brackets at all. Also, make sure that all strings are terminated and that the JSON string is fully complete. Make sure there are no syntax errors in the JSON string. Make sure you don't miss any product field!!!";
 
 // File path
-const inputFilePath = "example_data.txt";
+const inputFilePath = "deals_with_websites.txt";
 
 // Initialize OpenAI API client
 const openai = new OpenAI({
@@ -43,8 +40,8 @@ const golfDataSchema = new mongoose.Schema({
 // Function to insert JSON data into MongoDB
 async function insertJsonData(jsonData, collectionType) {
   try {
-    console.log(`Inserting into collection: ${collectionType}`); // Log the collection being used
-    console.log(`${jsonData.length} items to be inserted into ${collectionType}`);  // Log the data being inserted
+    console.log(`Inserting into collection: ${collectionType}`);
+    console.log(`${jsonData.length} items to be inserted into ${collectionType}`);
 
     // Dynamically define the collection based on the collectionType passed
     const model = mongoose.model(collectionType, golfDataSchema);
@@ -74,7 +71,7 @@ async function processSection(section) {
 
     try {
       const jsonData = JSON.parse(jsonString);
-      console.log(`Parsed JSON data for section: ${section.slice(0, 100)}...`); // Log the first 100 characters of the section
+      console.log(`Parsed JSON data for section: ${section.slice(0, 100)}...`);
       return jsonData;
     } catch (parseError) {
       console.error(`Failed to parse JSON response: ${jsonString}`);
@@ -103,6 +100,7 @@ fs.readFile(inputFilePath, 'utf8', async (err, fileContent) => {
 
     // Flatten arrays of JSON objects from each section
     const combinedJsonData = jsonDataArrays.flat();
+    console.log('Combined JSON Data:', JSON.stringify(combinedJsonData, null, 2));
     console.log(`Total products to insert: ${combinedJsonData.length}`);
 
     // Group products by collection type
@@ -113,35 +111,44 @@ fs.readFile(inputFilePath, 'utf8', async (err, fileContent) => {
       "irons": [],
       "fairway-woods": [],
       "hybrids": [],
-      "wedges": []
+      "wedges": [],
+      "gloves": []
     };
 
+    // Main function to process products and clean brand and website names
     combinedJsonData.forEach(product => {
-      // Ensure required fields are present
-      if (product.brandName && product.productTitle && product.price) {
-        // Handle missing website field
-        product.website = product.website || 'Unknown';
+      if (!product.productTitle) {
+        console.error('Warning: Missing productTitle for product', product);
+        return; // Skip this product if productTitle is missing
+      }
 
-        // Determine the collection type
-        if (product.productTitle.toLowerCase().includes('putter')) {
-          collections.putters.push(product);
-        } else if (product.productTitle.toLowerCase().includes('driver')) {
-          collections.drivers.push(product);
-        } else if (product.productTitle.toLowerCase().includes('ball')) {
-          collections.balls.push(product);
-        } else if (product.productTitle.toLowerCase().includes('iron')) {
-          collections.irons.push(product);
-        } else if (product.productTitle.toLowerCase().includes('fairway')) {
-          collections['fairway-woods'].push(product);
-        } else if (product.productTitle.toLowerCase().includes('hybrid')) {
-          collections.hybrids.push(product);
-        } else if (product.productTitle.toLowerCase().includes('wedge')) {
-          collections.wedges.push(product);
-        } else {
-          console.error('Error: Unknown product type', product);
-        }
+      let category;
+
+      // Identify the category by matching productTitle
+      if (product.productTitle.toLowerCase().includes('driver')) {
+        category = 'drivers';
+      } else if (product.productTitle.toLowerCase().includes('fairway')) {
+        category = 'fairway-woods';
+      } else if (product.productTitle.toLowerCase().includes('hybrid')) {
+        category = 'hybrids';
+      } else if (product.productTitle.toLowerCase().includes('iron')) {
+        category = 'irons';
+      } else if (product.productTitle.toLowerCase().includes('putter')) {
+        category = 'putters';
+      } else if (product.productTitle.toLowerCase().includes('wedge')) {
+        category = 'wedges';
+      } else if (product.productTitle.toLowerCase().includes('ball')) {
+        category = 'balls';
+      } else if (product.productTitle.toLowerCase().includes('glove')) {
+        category = 'gloves';
       } else {
-        console.error('Error: Missing required fields', product);
+        console.error(`Warning: Could not determine category for product: ${product.productTitle}`);
+        return; // Skip this product if no category is matched
+      }
+
+      // Assign category directly to collections
+      if (category) {
+        collections[category]?.push(product);
       }
     });
 

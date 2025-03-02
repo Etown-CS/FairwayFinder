@@ -1,0 +1,978 @@
+[
+  {
+    "_id": "67c39607806059cb9d452dc6",
+    "brandName": "Titleist",
+    "productTitle": "SM10 Tour Chrome Wedge",
+    "price": "$189.00 - $199.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dc7",
+    "brandName": "PING",
+    "productTitle": "Chrome Wedge",
+    "price": "$179.99 - $195.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dc8",
+    "brandName": "PING",
+    "productTitle": "Midnight Wedge",
+    "price": "$179.99 - $195.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dc9",
+    "brandName": "Titleist",
+    "productTitle": "SM10 Brushed Nickel Wedge",
+    "price": "$189.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dca",
+    "brandName": "Titleist",
+    "productTitle": "SM9 Tour Chrome Wedge",
+    "price": "$149.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dcb",
+    "brandName": "PING",
+    "productTitle": "Men's Glide 4.0 Eye2 Wedge",
+    "price": "$129.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dcc",
+    "brandName": "Cleveland",
+    "productTitle": "CBX4 Zipcore Wedge",
+    "price": "$149.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dcd",
+    "brandName": "Titleist",
+    "productTitle": "SM9 Jet Black Wedge",
+    "price": "$129.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dce",
+    "brandName": "Titleist",
+    "productTitle": "SM10 Jet Black Wedge",
+    "price": "$189.90",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dcf",
+    "brandName": "TaylorMade",
+    "productTitle": "Milled Grind 3 Satin RAW Chrome Wedge",
+    "price": "$149.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd0",
+    "brandName": "Cleveland",
+    "productTitle": "Men's RTX Zipcore Tour Satin Wedge",
+    "price": "$99.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd1",
+    "brandName": "TaylorMade",
+    "productTitle": "Milled Grind 4 Wedge",
+    "price": "$179.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd2",
+    "brandName": "Cleveland",
+    "productTitle": "Men's CBX Full-Face Tour Satin Wedge",
+    "price": "$169.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd3",
+    "brandName": "Titleist",
+    "productTitle": "SMO Brushed Steel Wedge",
+    "price": "$149.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd4",
+    "brandName": "TaylorMade",
+    "productTitle": "Milled Grind 4 Tiger Grind Wedge",
+    "price": "$129.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd5",
+    "brandName": "PING",
+    "productTitle": "Men's Glide 4.0 Wedge",
+    "price": "$129.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd6",
+    "brandName": "Cleveland",
+    "productTitle": "Men's RTX 6 Zipcore Tour Rack Wedge",
+    "price": "$189.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd7",
+    "brandName": "Cleveland",
+    "productTitle": "Men's CBX Zipcore Tour Satin Wedge",
+    "price": "$119.99 - $129.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd8",
+    "brandName": "TaylorMade",
+    "productTitle": "Milled Grind 4 Black Wedge",
+    "price": "$179.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dd9",
+    "brandName": "Callaway",
+    "productTitle": "Opus Black Wedge",
+    "price": "$179.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dda",
+    "brandName": "Alien Golf",
+    "productTitle": "Roswell Wedge",
+    "price": "$69.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452ddb",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM9 Brushed Steel Wedge",
+    "price": "$149.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452ddc",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM9 Brushed Steel T Grind Wedge",
+    "price": "$149.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452ddd",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM9 Jet Black Wedge",
+    "price": "$149.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dde",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM9 Jet Black T Grind Wedge",
+    "price": "$149.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452ddf",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM9 Tour Chrome Wedge",
+    "price": "$149.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de0",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM10 Tour Chrome Wedge",
+    "price": "$189.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de1",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM10 Jet Black Wedge",
+    "price": "$189.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de2",
+    "brandName": "Titleist Golf",
+    "productTitle": "Vokey SM10 Nickel Wedge",
+    "price": "$189.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de3",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Milled Grind 3 Black Wedge",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de4",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Milled Grind 3 Graphite Wedge",
+    "price": "$139.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de5",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Milled Grind 3 Satin Chrome Wedge",
+    "price": "$139.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de6",
+    "brandName": "Ray Cook Golf",
+    "productTitle": "Blue Goose Satin Nickel Chrome Black Wedge",
+    "price": "$49.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de7",
+    "brandName": "Callaway Golf",
+    "productTitle": "JAWS RAW Black Wedge",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de8",
+    "brandName": "Callaway Golf",
+    "productTitle": "JAWS RAW Full Face Chrome Wedge",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452de9",
+    "brandName": "Callaway Golf",
+    "productTitle": "Opus Black Wedge",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dea",
+    "brandName": "Callaway Golf",
+    "productTitle": "Opus Brushed Chrome Wedge",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452deb",
+    "brandName": "Callaway Golf",
+    "productTitle": "Opus Platinum Blue Wedge",
+    "price": "$229.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dec",
+    "brandName": "Callaway Golf",
+    "productTitle": "Opus Platinum Chrome Wedge",
+    "price": "$229.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452ded",
+    "brandName": "Cleveland Golf",
+    "productTitle": "CBX4 Zipcore Tour Satin Wedge",
+    "price": "$169.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dee",
+    "brandName": "Cleveland Golf",
+    "productTitle": "RTX-6 Zipcore Tour Rack Raw Wedge",
+    "price": "$169.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452def",
+    "brandName": "Cleveland Golf",
+    "productTitle": "RTX Full-Face 2 Tour Rack Raw Wedge",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df0",
+    "brandName": "Cleveland Golf",
+    "productTitle": "RTX Full-Face 2 Tour Satin Wedge",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df1",
+    "brandName": "Ray Cook Golf",
+    "productTitle": "M1 Graphite Wedge",
+    "price": "$49.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df2",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Hi-Toe 4 Wedge",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df3",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Chrome Wedge w/ Steel Shaft",
+    "price": "$229.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df4",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Platinum Blue Wedge w/ Steel Shaft",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df5",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Black Wedge w/ Steel Shaft",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df6",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Black Wedge w/ Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df7",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Platinum Blue Wedge w/ Graphite Shaft",
+    "price": "$229.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df8",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Chrome Wedge w/ Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452df9",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Chrome Women's Wedge w/ Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dfa",
+    "brandName": "CALLAWAY",
+    "productTitle": "Opus Platinum Chrome Wedge w/ Steel Shaft",
+    "price": "$229.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dfb",
+    "brandName": "PING",
+    "productTitle": "Prodi G Wedge",
+    "price": "$109.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dfc",
+    "brandName": "CALLAWAY",
+    "productTitle": "JAWS Raw Black Wedge w/ Steel Shaft",
+    "price": "$189.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dfd",
+    "brandName": "TITLEIST",
+    "productTitle": "Vokey SM10 Jet Black Wedge",
+    "price": "$189.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dfe",
+    "brandName": "MIZUNO",
+    "productTitle": "T24 Soft White Satin Wedge",
+    "price": "$120.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452dff",
+    "brandName": "TITLEIST",
+    "productTitle": "Vokey SM0 Nickel Wedge",
+    "price": "$379.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e00",
+    "brandName": "MIZUNO",
+    "productTitle": "T24 Denim Copper Wedge",
+    "price": "$129.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e01",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Hi-Toe 3 Chrome Wedge",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e02",
+    "brandName": "PING",
+    "productTitle": "S159 Chrome Wedge w/ Steel Shafts",
+    "price": "$139.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e03",
+    "brandName": "WILSON",
+    "productTitle": "Staff Model Wedge",
+    "price": "$99.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e04",
+    "brandName": "BETTINARDI",
+    "productTitle": "HLX 5.0 Forged Graphite PVD Wedge",
+    "price": "$149.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e05",
+    "brandName": "CALLAWAY",
+    "productTitle": "JAWS MD5 2022 Chrome Wedge",
+    "price": "$219.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e06",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Milled Grind 4 Chrome Wedge",
+    "price": "$179.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e07",
+    "brandName": "BETTINARDI",
+    "productTitle": "HLX 5.0 Forged Chrome Wedge",
+    "price": "$149.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e08",
+    "brandName": "Cleveland",
+    "productTitle": "RTX ZipCore Tour Satin Wedge",
+    "price": "$99.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e09",
+    "brandName": "Cleveland",
+    "productTitle": "RTX ZipCore Black Satin Wedge",
+    "price": "$99.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0a",
+    "brandName": "Cleveland",
+    "productTitle": "CBX ZipCore Wedge",
+    "price": "From $119.99 To $129.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0b",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM10 Nickel Wedge",
+    "price": "From $189 To $199",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0c",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM10 Tour Chrome Wedge",
+    "price": "$189",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0d",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM10 Jet Black Wedge",
+    "price": "$189",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0e",
+    "brandName": "Ping",
+    "productTitle": "G430 Wedge",
+    "price": "$127",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e0f",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM9 Tour Chrome Wedge",
+    "price": "From $149 To $159",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e10",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM9 Brushed Steel Wedge",
+    "price": "$139.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e11",
+    "brandName": "Cleveland",
+    "productTitle": "Smart Sole 4 G Wedge",
+    "price": "$69.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e12",
+    "brandName": "Mizuno",
+    "productTitle": "523 Copper Cobalt Wedge",
+    "price": "$99.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e13",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SMO Jet Black Wedge",
+    "price": "$149",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e14",
+    "brandName": "Mizuno",
+    "productTitle": "$23 Satin Chrome Wedge",
+    "price": "$99.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e15",
+    "brandName": "Cleveland",
+    "productTitle": "Smart Sole 4 Black Satin G Wedge",
+    "price": "$79.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e16",
+    "brandName": "Titleist",
+    "productTitle": "Vokey SM8 Tour Chrome Wedge",
+    "price": "$119.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e17",
+    "brandName": "Mizuno",
+    "productTitle": "T24 Blue Ion Wedge",
+    "price": "$129.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e18",
+    "brandName": "Mizuno",
+    "productTitle": "T24 Denim Copper Wedge",
+    "price": "$129.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/wedges?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e19",
+    "brandName": "Tour Edge",
+    "productTitle": "Wedges",
+    "price": "$179.00, $149.00, $479.00, $149.00, $159.99, $99.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1a",
+    "brandName": "Mizuno",
+    "productTitle": "523 Wedges",
+    "price": "$159.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1b",
+    "brandName": "Mizuno",
+    "productTitle": "523 Wedges - Satin",
+    "price": "$159.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1c",
+    "brandName": "Titleist",
+    "productTitle": "Vokey Design SM10 Wedges 2024 - Jet Black",
+    "price": "$189.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1d",
+    "brandName": "Titleist",
+    "productTitle": "Vokey Design SM10 Wedges 2024 - Nickel Chrome",
+    "price": "$189.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1e",
+    "brandName": "PING",
+    "productTitle": "5159 Hydropearl Wedges 2024",
+    "price": "$177.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e1f",
+    "brandName": "PING",
+    "productTitle": "5159 Midnight Wedges 2024",
+    "price": "$177.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e20",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai200 Wedges 2024",
+    "price": "$200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e21",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai300 Wedges 2024",
+    "price": "$200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e22",
+    "brandName": "Callaway",
+    "productTitle": "CB Wedges 2024",
+    "price": "$127.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e23",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Face Chrome Wedges - Steel Shaft",
+    "price": "$479.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e24",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Full Toe Wedges - Graphite Shaft",
+    "price": "$139.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e25",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Full Toe Wedges - Steel Shaft",
+    "price": "$139.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e26",
+    "brandName": "Callaway",
+    "productTitle": "Opus Black Shadow Wedges 2024 - Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e27",
+    "brandName": "Callaway",
+    "productTitle": "Opus Brushed Chrome Wedges 2024",
+    "price": "$229.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e28",
+    "brandName": "Callaway",
+    "productTitle": "Opus Brushed Chrome Wedges 2024 - Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e29",
+    "brandName": "Callaway",
+    "productTitle": "Opus Platinum Blue Wedges 2024",
+    "price": "$229.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2a",
+    "brandName": "Callaway",
+    "productTitle": "Opus Raw Wedges 2024",
+    "price": "$204.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2b",
+    "brandName": "Titleist",
+    "productTitle": "Vokey Design SM9 Spin Milled Wedges - Tour Chrome",
+    "price": "$159.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2c",
+    "brandName": "Titleist",
+    "productTitle": "Vokey Design SM9 Spin Milled Wedges - Jet Black",
+    "price": "$99.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2d",
+    "brandName": "Tour Edge",
+    "productTitle": "ZipCore Wedges - Black Satin",
+    "price": "$179.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2e",
+    "brandName": "Tour Edge",
+    "productTitle": "ZipCore Wedges - Tour Satin",
+    "price": "$149.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e2f",
+    "brandName": "Tour Edge",
+    "productTitle": "ZipCore Wedges - Tour Chrome",
+    "price": "$479.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e30",
+    "brandName": "Mizuno",
+    "productTitle": "523 Wedges - Copper Cobalt",
+    "price": "$159.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e31",
+    "brandName": "Cleveland",
+    "productTitle": "CBX ZipCore Wedges - Satin",
+    "price": "$99.95",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e32",
+    "brandName": "Mizuno",
+    "productTitle": "523 Wedges - ON SALE",
+    "price": "$159.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e33",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai200 Wedges 2024",
+    "price": "$200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e34",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai300 Wedges 2024",
+    "price": "$200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e35",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Wedges",
+    "price": "$167.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e36",
+    "brandName": "Callaway",
+    "productTitle": "CB Wedges 2024",
+    "price": "$127.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e37",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Face Chrome Wedges - Steel Shaft",
+    "price": "$479.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e38",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Full Toe Wedges - Graphite Shaft",
+    "price": "$139.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e39",
+    "brandName": "Callaway",
+    "productTitle": "JAWS Raw Full Toe Wedges - Steel Shaft",
+    "price": "$479.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3a",
+    "brandName": "Callaway",
+    "productTitle": "Opus Black Shadow Wedges 2024 - Graphite Shaft",
+    "price": "$179.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3b",
+    "brandName": "Callaway",
+    "productTitle": "Opus Brushed Chrome Wedges 2024",
+    "price": "$229.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3c",
+    "brandName": "Callaway",
+    "productTitle": "Opus Platinum Blue Wedges 2024",
+    "price": "$179.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3d",
+    "brandName": "Callaway",
+    "productTitle": "Opus Raw Wedges 2024",
+    "price": "$204.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/wedges",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3e",
+    "brandName": "Wilson Staff",
+    "productTitle": "Model ZM Wedge",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
+    "__v": 0
+  },
+  {
+    "_id": "67c39607806059cb9d452e3f",
+    "brandName": "Cleveland",
+    "productTitle": "CBX 2 Wedge",
+    "price": "129.99",
+    "website": "https://www.example.com/cleveland-cbx2-wedge",
+    "__v": 0
+  }
+]
