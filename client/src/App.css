@@ -40,3 +40,9 @@
 .button-deals:hover {
   background-color: #0056b3; /* Darken the button on hover */
 }
+
+.error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}

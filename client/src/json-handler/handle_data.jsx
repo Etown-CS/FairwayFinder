@@ -1,16 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
+import driverImage from '../assets/drivers.jpg';
+import wedgeImage from '../assets/wedges.jpg';
+import ironImage from '../assets/irons.avif';
+import hybridImage from '../assets/hybrids.png';
+import fairwaywoodImage from '../assets/fairwaywoods.webp';
+import putterImage from '../assets/putters.jpg';
+import ballImage from '../assets/balls.jpg';
+import gloveImage from '../assets/gloves.jpg';
+
+const categoryImages = {
+  drivers: driverImage,
+  wedges: wedgeImage,
+  irons: ironImage,
+  hybrids: hybridImage,
+  "fairway-woods": fairwaywoodImage, // Wrapped in quotes
+  putters: putterImage,
+  balls: ballImage,
+  gloves: gloveImage,
+};
 
 // Add CSS to hide scrollbar only for the right section
 const hideScrollbarStyles = `
-  .hide-scrollbar {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-  .hide-scrollbar::-webkit-scrollbar {
-    display: none;
-  }
-
   /* Styling for the list items on hover */
   .deal-item {
     transition: box-shadow 0.3s ease, transform 0.3s ease;
@@ -340,32 +351,55 @@ function GolfDeals() {
   margin: 0,
   width: '100%',
 }}>
-  {formattedDeals.length > 0 ? (
-    formattedDeals.map((deal, index) => {
-      let domain = ''; // Default to empty string
-      try {
-        if (deal.website) {
-          const url = new URL(deal.website);
-          domain = url.hostname.replace('www.', ''); // Extract domain safely
-        }
-      } catch (error) {
-        console.error("Invalid website URL:", deal.website, error);
+{formattedDeals.length > 0 ? (
+  formattedDeals.map((deal, index) => {
+    let domain = ''; // Default to empty string
+    try {
+      if (deal.website) {
+        const url = new URL(deal.website);
+        domain = url.hostname.replace('www.', ''); // Extract domain safely
       }
+    } catch (error) {
+      console.error("Invalid website URL:", deal.website, error);
+    }
 
-      return (
-        <li
-          key={index}
-          className="deal-item"
-          style={{
-            border: '1px solid black',
-            borderRadius: '8px',
-            marginBottom: '40px',
-            padding: '15px',
-            boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
-            width: '100%',
-            backgroundColor: '#f5f5f5',
-            boxSizing: 'border-box',
-          }}
+    return (
+      <li
+        key={index}
+        className="deal-item"
+        style={{
+          display: 'flex',
+          alignItems: 'center',
+          paddingLeft: '20px',
+          paddingRight: '30px',
+          border: '1px solid black',
+          borderRadius: '8px',
+          marginBottom: '40px',
+          padding: '15px',
+          boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
+          width: '100%',
+          backgroundColor: '#f5f5f5',
+          boxSizing: 'border-box',
+          gap: '20px', // Space between image and text
+        }}
+      >
+        {/* Dynamically display category image */}
+        {categoryImages[category] && (
+          <img 
+            src={categoryImages[category]} 
+            alt={category} 
+            style={{ width: '175px', height: '175px', borderRadius: '8px', objectFit: 'cover' }}
+          />
+        )}
+
+        <div
+            style={{
+              flexGrow: 1, // Make the text container take up available space
+              display: 'flex',
+              flexDirection: 'column',
+              justifyContent: 'center', // Center vertically
+              textAlign: 'center', // Center text horizontally
+            }}
         >
           <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
           <p><strong>Price: </strong>${deal.price}</p>
@@ -385,12 +419,15 @@ function GolfDeals() {
           ) : (
             <p style={{ color: 'gray' }}>No website available</p>
           )}
-        </li>
-      );
-    })
-  ) : (
-    !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
-  )}
+        </div>
+      </li>
+    );
+  })
+) : (
+  !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
+)}
+
+
 </ul>
 
 
