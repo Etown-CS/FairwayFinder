@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import driverImage from '../assets/drivers.jpg';
-import wedgeImage from '../assets/wedges.jpg';
-import ironImage from '../assets/irons.avif';
-import hybridImage from '../assets/hybrids.png';
+import wedgeImage from '../assets/wedges.webp';
+import ironImage from '../assets/irons.jpg';
+import hybridImage from '../assets/hybrids.jpg';
 import fairwaywoodImage from '../assets/fairwaywoods.webp';
 import putterImage from '../assets/putters.jpg';
 import ballImage from '../assets/balls.jpg';
@@ -371,7 +371,7 @@ function GolfDeals() {
           display: 'flex',
           alignItems: 'center',
           paddingLeft: '20px',
-          paddingRight: '30px',
+          paddingRight: '60px',
           border: '1px solid black',
           borderRadius: '8px',
           marginBottom: '40px',
@@ -388,7 +388,7 @@ function GolfDeals() {
           <img 
             src={categoryImages[category]} 
             alt={category} 
-            style={{ width: '175px', height: '175px', borderRadius: '8px', objectFit: 'cover' }}
+            style={{ width: '175px', height: '200x', borderRadius: '8px', objectFit: 'cover', paddingLeft: '20px' }}
           />
         )}
 
