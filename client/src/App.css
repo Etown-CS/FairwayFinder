@@ -5,14 +5,44 @@
   text-align: center;
 }
 /* Container for centering the button */
+/* Apply background only to the home screen */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply background only to the home screen */
+.home-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('./assets/golfcourse.png'); /* Use WebP for best quality */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  image-rendering: crisp-edges; /* Prevents blurring */
+  image-rendering: -webkit-optimize-contrast; /* Improves quality on WebKit browsers */
+}
+
+
+/* Center the content inside the home screen */
 .centered-container {
   display: flex;
-  flex-direction: column;  
-  justify-content: center; 
-  align-items: center;    
-  height: 100vh;           
-  background-color: white; 
-  text-align: center;      
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+/* Prevent unwanted scrolling */
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Stops horizontal and vertical scrolling */
 }
 
 /* Styling for the input textbox */
@@ -45,4 +75,12 @@
   color: red;
   font-size: 14px;
   margin-top: 5px;
+}
+
+/* Ensure non-home pages behave normally */
+.deals-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 2rem; /* Adjust as needed */
 }

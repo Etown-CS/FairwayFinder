@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import driverImage from '../assets/drivers.jpg';
-import wedgeImage from '../assets/wedges.webp';
-import ironImage from '../assets/irons.jpg';
-import hybridImage from '../assets/hybrids.jpg';
-import fairwaywoodImage from '../assets/fairwaywoods.webp';
-import putterImage from '../assets/putters.jpg';
-import ballImage from '../assets/balls.jpg';
-import gloveImage from '../assets/gloves.jpg';
+import driverImage from '../assets/drivers.png';
+import wedgeImage from '../assets/wedges.png';
+import ironImage from '../assets/irons.png';
+import hybridImage from '../assets/hybrids.png';
+import fairwaywoodImage from '../assets/fairwaywoods.png';
+import putterImage from '../assets/putters.png';
+import ballImage from '../assets/balls.png';
+import gloveImage from '../assets/gloves.png';
+import statsImage from '../assets/statistics.png';
 
 const categoryImages = {
   drivers: driverImage,
@@ -83,6 +84,10 @@ const brands = [
   "Mizuno", "Bettinardi", "Top Flite", "L.A.B.", "Wilson", "Tour Edge", "Snake Eyes", "Warrior", "Harry Taylor", "Alien"
 ];
 
+const websites = [
+  "tgw.com", "rockbottomgolf.com", "globalgolf.com", "pgatoursuperstore.com", "golfdiscount.com", "carlsgolfland.com", "dickssportinggoods.com"
+]
+
 // Format the golf deals based on the new data structure
 function formatGolfDeals(data) {
   console.log("Raw data:", data); // Debugging
@@ -108,6 +113,7 @@ function GolfDeals() {
   const [selectedBrand, setSelectedBrand] = useState('');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
+  const [selectedWebsite, setSelectedWebsite] = useState('');
   const [sortOption, setSortOption] = useState('');  // New state for sort option
 
   useEffect(() => {
@@ -159,6 +165,10 @@ function GolfDeals() {
     }
     if (maxPrice) {
       filteredDeals = filteredDeals.filter(deal => deal.price <= parseFloat(maxPrice));
+    }
+
+    if (selectedWebsite) {
+      filteredDeals = filteredDeals.filter(deal => deal.website.includes(selectedWebsite));
     }
 
     console.log("Filtered deals:", filteredDeals); // Debugging
@@ -227,7 +237,7 @@ function GolfDeals() {
           }} className="filter-section">
             <h2 style={{ textAlign: 'center' }}>Filter Deals</h2>
 
-            <div style={{ marginTop: '50px', marginBottom: '60px', width: '100%' }}>
+            <div style={{ marginTop: '50px', marginBottom: '30px', width: '100%' }}>
               <label htmlFor="brand">Brand:</label>
               <select
                 id="brand"
@@ -248,7 +258,15 @@ function GolfDeals() {
               </select>
             </div>
 
-            <div style={{ marginBottom: '70px', width: '100%' }}>
+            <div style={{ marginBottom: '30px' }}>
+              <label htmlFor="website">Website:</label>
+                <select id="website" value={selectedWebsite} onChange={(e) => setSelectedWebsite(e.target.value)} style={{ width: '100%', padding: '8px' }}>
+                  <option value="">Select a website</option>
+                  {websites.map(site => <option key={site} value={site}>{site}</option>)}
+                </select>
+            </div>
+
+            <div style={{ marginBottom: '30px', width: '100%' }}>
               <label htmlFor="priceRange">Price Range:</label>
               <div style={{ display: 'flex', gap: '20px' }}>
                 <input
@@ -283,7 +301,7 @@ function GolfDeals() {
             </div>
 
             {/* Sort by price dropdown */}
-            <div style={{ marginBottom: '20px', width: '100%' }}>
+            <div style={{ marginBottom: '50px', width: '100%' }}>
               <label htmlFor="sortOption">Sort by Price:</label>
               <select
                 id="sortOption"
@@ -364,63 +382,89 @@ function GolfDeals() {
     }
 
     return (
-      <li
-        key={index}
-        className="deal-item"
-        style={{
-          display: 'flex',
-          alignItems: 'center',
-          paddingLeft: '20px',
-          paddingRight: '60px',
-          border: '1px solid black',
-          borderRadius: '8px',
-          marginBottom: '40px',
-          padding: '15px',
-          boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
-          width: '100%',
-          backgroundColor: '#f5f5f5',
-          boxSizing: 'border-box',
-          gap: '20px', // Space between image and text
-        }}
-      >
-        {/* Dynamically display category image */}
-        {categoryImages[category] && (
-          <img 
-            src={categoryImages[category]} 
-            alt={category} 
-            style={{ width: '175px', height: '200x', borderRadius: '8px', objectFit: 'cover', paddingLeft: '20px' }}
-          />
-        )}
+<li
+  key={index}
+  className="deal-item"
+  style={{
+    position: 'relative', // Ensures absolute positioning works inside
+    display: 'flex',
+    alignItems: 'center',
+    border: '1px solid black',
+    borderRadius: '8px',
+    marginBottom: '40px',
+    padding: '15px',
+    boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
+    width: '100%',
+    backgroundColor: '#f5f5f5',
+    boxSizing: 'border-box',
+    gap: '20px',
+  }}
+>
+  {/* Stats Image Positioned at the Top Left */}
+  <div 
+    style={{ 
+      position: 'absolute', 
+      top: '15px', 
+      right: '15px' 
+    }}
+  >
+    <img 
+      src={statsImage} 
+      alt="Statistics" 
+      style={{
+        width: '60px',
+        height: '60px',
+        cursor: 'pointer',
+      }}
+    />
+  </div>
 
-        <div
-            style={{
-              flexGrow: 1, // Make the text container take up available space
-              display: 'flex',
-              flexDirection: 'column',
-              justifyContent: 'center', // Center vertically
-              textAlign: 'center', // Center text horizontally
-            }}
+  {/* Left Section: Category Image */}
+  {categoryImages[category] && (
+    <img 
+      src={categoryImages[category]} 
+      alt={category} 
+      style={{ 
+        width: '185px', 
+        height: '200x', 
+        borderRadius: '8px', 
+        objectFit: 'cover', 
+      }}
+    />
+  )}
+
+  {/* Middle Section: Text Content */}
+  <div
+    style={{
+      flexGrow: 1,
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'center',
+      textAlign: 'center',
+      paddingRight: '160px' // Adjust padding if needed
+    }}
+  >
+    <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
+    <p><strong>Price: </strong>${deal.price}</p>
+    {deal.brand && <p><strong>Brand: </strong>{deal.brand}</p>}
+    {deal.website && domain ? (
+      <p>
+        <strong>Visit Website: </strong>
+        <a 
+          href={deal.website} 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style={{ color: '#007bff', textDecoration: 'none', fontWeight: 'bold' }}
         >
-          <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
-          <p><strong>Price: </strong>${deal.price}</p>
-          {deal.brand && <p><strong>Brand: </strong>{deal.brand}</p>}
-          {deal.website && domain ? (
-            <p>
-              <strong>Visit Website: </strong>
-              <a 
-                href={deal.website} 
-                target="_blank" 
-                rel="noopener noreferrer" 
-                style={{ color: '#007bff', textDecoration: 'none', fontWeight: 'bold' }}
-              >
-                See {domain} {category} deals
-              </a>
-            </p>
-          ) : (
-            <p style={{ color: 'gray' }}>No website available</p>
-          )}
-        </div>
-      </li>
+          See {domain} {category} deals
+        </a>
+      </p>
+    ) : (
+      <p style={{ color: 'gray' }}>No website available</p>
+    )}
+  </div>
+</li>
+
     );
   })
 ) : (

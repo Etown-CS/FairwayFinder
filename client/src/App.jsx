@@ -1,42 +1,50 @@
 import './App.css';
 import Navbar from './Navbar';  
 import { BrowserRouter as Router, Route, Routes, useNavigate } from 'react-router-dom';  
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import GolfDeals from './json-handler/handle_data';  
+import golfCourse from './assets/golfcourse.png';
 
 function Home() {
   const [category, setCategory] = useState('');
   const [error, setError] = useState('');
-  const navigate = useNavigate(); // Hook for navigation
+  const navigate = useNavigate();
 
-  // Handle input change
+  useEffect(() => {
+    document.body.style.overflow = 'hidden'; // Disable scrolling
+    return () => {
+      document.body.style.overflow = 'auto'; // Re-enable scrolling when leaving home
+    };
+  }, []);
+
   const handleCategoryChange = (event) => {
     setCategory(event.target.value);
-    setError(''); // Clear error when user starts typing
+    setError('');
   };
 
-  // Handle button click
   const handleGoToDeals = () => {
-    if (!category.trim()) { // Check if input is empty
+    if (!category.trim()) {
       setError('Please enter a golf equipment category.');
       return;
     }
-    navigate(`/deals/${category.toLowerCase()}`); // Navigate to the deals page
+    navigate(`/deals/${category.toLowerCase()}`);
   };
 
   return (
-    <div className="centered-container">
-      <input
-        type="text"
-        className="search-box"
-        placeholder="Enter golf equipment category..."
-        value={category}
-        onChange={handleCategoryChange}
-      />
-      {error && <p className="error-message">{error}</p>} {/* Display error message */}
-      <button className="button-deals" onClick={handleGoToDeals}>
-        Go to Golf Deals
-      </button>
+    <div className="home-container">
+      <div className="centered-container">
+        <input
+          type="text"
+          className="search-box"
+          placeholder="Enter golf equipment category..."
+          value={category}
+          onChange={handleCategoryChange}
+        />
+        {error && <p className="error-message">{error}</p>}
+        <button className="button-deals" onClick={handleGoToDeals}>
+          Go to Golf Deals
+        </button>
+      </div>
     </div>
   );
 }
@@ -47,7 +55,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/deals/:category" element={<GolfDeals />} />
+        <Route path="/deals/:category" element={<div className="deals-container"><GolfDeals /></div>} />
+
       </Routes>
     </Router>
   );

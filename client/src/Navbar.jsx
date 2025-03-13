@@ -1,5 +1,6 @@
 import './Navbar.css';
 import logo from '/public/react.svg';
+import myLogo from './assets/fflogo.png'
 
 function Navbar() {
   return (
