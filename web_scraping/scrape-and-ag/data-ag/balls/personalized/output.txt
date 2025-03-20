@@ -1,0 +1,134 @@
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_1.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Custom Number Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Left Dash Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2024 Chrome Tour Personalized Golf Ball</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Supersoft White Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Tour Soft Personalized White Golf Ball</b> Price: <b>$44.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 AVX Personalized White Golf Ball</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized Yellow Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 ERC Soft Triple Track White Personalized Golf Balls</b> Price: <b>$23.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Warbird White Personalized Golf Balls</b> Price: <b>$43.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Supersoft Matte Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-Star 6 Personalized White Golf Ball</b> Price: <b>$29.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 TruFeel Personalized White Golf Ball</b> Price: <b>$29.99</b>
+Brand: <b>TaylorMade</b> Title: <b>2024 TP5x Personalized White Golf Ball</b> Price: <b>$59.99</b>
+Brand: <b>Srixon</b> Title: <b>Soft Feel 13 Personalized White Golf Balls</b> Price: <b>$25.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized Yellow Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Velocity Personalized White Golf Ball</b> Price: <b>$34.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Reva Pink Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Callaway</b> Title: <b>2024 Chrome Soft Triple Track Personalized Golf Ball</b> Price: <b>$44.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Tour Soft Personalized Yellow Golf Ball</b> Price: <b>$23.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Warbird Yellow Personalized Golf Balls</b> Price: <b>$59.99</b>
+Website: <b>TGW.com</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_2.txt:
+Brand: <b>Callaway Golf</b> Title: <b>Chrome Soft Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Chrome Tour Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Extreme Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Soft Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TM Distance+ Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Ladies Kalea Golf Balls</b> Price: <b>As Low As $25.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Response Golf Balls</b> Price: <b>As Low As $42.99</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies ERC Soft Triple Track Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Callaway</b> Title: <b>ERC Soft Triple Track Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Golf Balls</b> Price: <b>As Low As $24.99</b>  
+Brand: <b>Callaway</b> Title: <b>Warbird Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Superfast Golf Balls</b> Price: <b>As Low As $29.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RX Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RXS Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B X Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B XS Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-Star Golf Balls</b> Price: <b>As Low As $27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-Star Tour Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Srixon</b> Title: <b>Soft Feel Brite Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Soft Feel Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Lady Soft Feel Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Z-Star Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>PXG</b> Title: <b>Xtreme Golf Balls</b> Price: <b>As Low As $11.99</b>  
+Brand: <b>Bullet</b> Title: <b>.444 Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>Wilson</b> Title: <b>Staff Triad Golf Balls</b> Price: <b>As Low As $34.99</b>  
+Brand: <b>XXIO</b> Title: <b>Rebound Drive II Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Srixon</b> Title: <b>Prior Generation Q-Star Tour Golf Balls</b> Price: <b>As Low As $34.99</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies REVA Golf Balls</b> Price: <b>As Low As $24.99</b>  
+Brand: <b>Srixon</b> Title: <b>Marathon 3 Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>Nitro</b> Title: <b>Crossfire Matte Golf Balls</b> Price: <b>As Low As $14.99</b>  
+Website: <b>Rock Bottom Golf</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_3.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1x</b> Price: <b>Unavailable</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 2024</b> Price: <b>Unavailable</b>
+Brand: <b>Bridgestone</b> Title: <b>Tour B X 22</b> Price: <b>Unavailable</b>
+Website: <b>GlobalGolf</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_4.txt:
+Brand: <b>TITLEIST</b> Title: <b>Pro V1 Double Digit 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro V1 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro Vix Double Digit 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Velocity 2024 Personalized Golf Balls</b> Price: <b>$37.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>TruFeel 2024 Personalized Golf Balls</b> Price: <b>$32.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5 MySymbol 2024 Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5 2024 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5x MySymbol 2024 Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Soft 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>AVX 2024 Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5x 2024 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Tour Soft 2024 Personalized Golf Balls</b> Price: <b>$47.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro Vix 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour X Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Soft Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour X 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Supersoft 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>REVA 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Warbird 2023 Personalized Golf Balls</b> Price: <b>$21.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Supersoft MAX 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>ERC Soft Triple Track 2023 Personalized Golf Balls</b> Price: <b>$41.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>ERC Soft REVA Triple Track 2023 Personalized Golf Balls</b> Price: <b>$41.99</b>  
+Website: <b>PGA TOUR SUPERSTORE</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_5.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1 Yellow Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Titleist</b> Title: <b>AVX White Personalized Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Warbird Personalized Golf Balls</b> Price: <b>$22.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Personalized Golf Balls</b> Price: <b>$27.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Matte Green Personalized Golf Balls</b> Price: <b>$27.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Distances Personalized Golf Balls</b> Price: <b>$22.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft Triple Track Personalized Golf Balls</b> Price: <b>$52.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Triple Track Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Website: <b>GolfDiscount.com</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_6.txt:
+Brand: <b>Bridgestone</b> Title: <b>Personalized Golf Balls - ON SALE</b> Price: <b>$37.99 - $46.99</b>
+Brand: <b>Callaway</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Srixon</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Wilson</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Website: <b>Carl's Golfland</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_7.txt:
+Brand: <b>Bridgestone</b> Title: <b>Personalized Golf Balls - ON SALE</b> Price: <b>$37.99 - $46.99</b>  
+Brand: <b>Callaway</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Srixon</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Wilson</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Website: <b>Carl's Golfland</b>  
