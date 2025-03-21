@@ -1,0 +1,1663 @@
+Result from ../../../web-src-scraping/balls/all/ball_all_1.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Custom Number Personalized White Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1 Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>2022 Tour B X Golf Ball</b> Price: <b>$34.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro Vix Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>2022 Tour B RXS Golf Ball</b> Price: <b>$34.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2021 Distance + Golf Ball</b> Price: <b>$19.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>2022 Tour B XS Golf Ball</b> Price: <b>$29.73</b>  
+Brand: <b>Titleist</b> Title: <b>Pro Vix Left Dash Personalized White Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x Custom Number Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>2024 Velocity Golf Ball</b> Price: <b>$29.99</b>  
+Brand: <b>Callaway</b> Title: <b>SuperSoft 23 Splatter Golf Ball</b> Price: <b>$24.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2024 SpeedSoft Ink Golf Balls</b> Price: <b>$24.99</b>  
+Brand: <b>Titleist</b> Title: <b>2024 AVX Golf Ball</b> Price: <b>$49.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1 Custom Number Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro Vx Enhanced Alignment Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Wilson</b> Title: <b>Staff 2023 Duo Soft Golf Balls</b> Price: <b>$19.99</b>  
+Brand: <b>Titleist</b> Title: <b>2024 Tour Soft Golf Ball</b> Price: <b>$39.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2024 TP5x pix 3.0 Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>SuperSoft 23 Golf Ball</b> Price: <b>$24.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1 Enhanced Alignment Golf Ball</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>2024 Chrome Tour Personalized Golf Ball</b> Price: <b>$59.99</b>  
+Brand: <b>Callaway</b> Title: <b>2023 Supersoft White Personalized Golf Balls</b> Price: <b>$28.99</b>  
+Website: <b>TGW.com Balls</b>
+
+Result from ../../../web-src-scraping/balls/all/ball_all_2.txt:
+Brand: <b>Mizuno Golf</b> Title: <b>Rock Bottom Price</b> Price: <b>$54.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>Rock Bottom Price</b> Price: <b>$60.00</b>  
+Brand: <b>Nitro Golf</b> Title: <b>Rock Bottom Price</b> Price: <b>$55.00</b>  
+Brand: <b>Titleist</b> Title: <b>Pro Vix Left Dash Golf Balls</b> Price: <b>$49.95</b>  
+Brand: <b>Titleist</b> Title: <b>AVX Golf Balls</b> Price: <b>$54.95</b>  
+Brand: <b>Titleist</b> Title: <b>TruFeel Golf Balls</b> Price: <b>$24.95</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft TruTrack USA Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 Stripe Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Stripe Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Pix Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Warbird Golf Balls</b> Price: <b>As Low As $17.50</b>  
+Brand: <b>TaylorMade</b> Title: <b>TM Distance+ Golf Balls</b> Price: <b>As Low As $17.50</b>  
+Brand: <b>Srixon</b> Title: <b>Marathon 3 Golf Balls [15-Ball Pack]</b> Price: <b>As Low As $15.00</b>  
+Brand: <b>Strata</b> Title: <b>Boom Golf Balls [24-Ball]</b> Price: <b>$19.99</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Extreme Distance Golf Balls</b> Price: <b>As Low As $15.00</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Soft Distance Golf Balls</b> Price: <b>As Low As $15.00</b>  
+Brand: <b>Cut</b> Title: <b>Matte 3-Piece Surlyn Golf Balls</b> Price: <b>As Low As $12.50</b>  
+Brand: <b>Honma</b> Title: <b>D1 Dynamic Distance Golf Balls</b> Price: <b>As Low As $14.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 pix Golf Balls [12-Ball]</b> Price: <b>As Low As $30.00</b>  
+Brand: <b>Bridgestone</b> Title: <b>Prior Generation Tour B RX Golf Balls [12-Ball]</b> Price: <b>As Low As $25.00</b>  
+Brand: <b>Bridgestone</b> Title: <b>e6 Logo Overrun Golf Balls [12-Ball]</b> Price: <b>As Low As $15.00</b>  
+Brand: <b>Nitro</b> Title: <b>Ultimate Distance Golf Balls</b> Price: <b>As Low As $9.00</b>  
+Brand: <b>Spalding</b> Title: <b>SD Tour Golf Balls</b> Price: <b>As Low As $12.50</b>  
+Brand: <b>Spalding</b> Title: <b>SD Tour X Golf Balls</b> Price: <b>As Low As $12.50</b>  
+Brand: <b>Nitro</b> Title: <b>Liquid Golf Balls</b> Price: <b>As Low As $9.00</b>  
+Brand: <b>PXG</b> Title: <b>Xtreme Golf Balls</b> Price: <b>As Low As $33.33</b>  
+Brand: <b>PXG</b> Title: <b>Xtreme Tour Golf Balls</b> Price: <b>As Low As $33.33</b>  
+Brand: <b>PXG</b> Title: <b>Xtreme Tour X Golf Balls</b> Price: <b>As Low As $37.50</b>  
+Brand: <b>Shock'd</b> Title: <b>Golf Balls</b> Price: <b>$19.99</b>  
+Brand: <b>Bullet</b> Title: <b>.444 Distance Golf Balls [12-Ball]</b> Price: <b>As Low As $12.00</b>  
+Brand: <b>Bullet</b> Title: <b>.444 Distance Golf Balls [30-Ball]</b> Price: <b>As Low As $20.00</b>  
+Brand: <b>Titleist</b> Title: <b>Prior Generation Velocity Golf Balls</b> Price: <b>$20.95</b>  
+Brand: <b>Titleist</b> Title: <b>Tour Soft Golf Balls</b> Price: <b>$39.95</b>  
+Brand: <b>Pinnacle</b> Title: <b>Rush Golf Balls [15-Ball]</b> Price: <b>$24.99</b>  
+
+Website: <b>Rock Bottom Golf Balls</b>  
+
+Result from ../../../web-src-scraping/balls/all/ball_all_3.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x</b> Price: <b>$54.99 - $60.00</b>  
+Brand: <b>Bridgestone</b> Title: <b>Soft Feel 13</b> Price: <b>$42.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Response 22</b> Price: <b>$22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Z-Star XV 8</b> Price: <b>$49.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x High Numbers</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Response Yellow 22</b> Price: <b>$42.99</b>  
+Brand: <b>Srixon</b> Title: <b>Z-Star 8</b> Price: <b>$27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-Star 6</b> Price: <b>$27.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Distance+</b> Price: <b>$19.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft 23</b> Price: <b>$39.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B X 22</b> Price: <b>$39.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Noodle Long and Soft 21</b> Price: <b>$27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Double Q-Star 6 Yellow</b> Price: <b>$27.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RXS 22</b> Price: <b>$39.99</b>  
+Brand: <b>Callaway</b> Title: <b>ERC Soft Triple Track 23</b> Price: <b>$39.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 2021</b> Price: <b>$54.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e6 23</b> Price: <b>$22.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B XS 22</b> Price: <b>$39.99</b>  
+Brand: <b>Divot</b> Title: <b>42 Foam Balls w/Bucket</b> Price: <b>$24.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Distance+ Yellow</b> Price: <b>$19.99</b>  
+Brand: <b>Divot</b> Title: <b>24 Dimple Foam Balls in Bag</b> Price: <b>$19.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B XS TW 22</b> Price: <b>$39.99</b>  
+
+Website: <b>globalgolf.com Balls</b>
+
+Result from ../../../web-src-scraping/balls/all/ball_all_4.txt:
+Brand: <b>Titleist</b> Title: <b>2023 Pro V1 Chicago Cubs Golf Balls</b> Price: <b>$68.99</b>
+Brand: <b>Titleist</b> Title: <b>2023 Pro Vi Detroit Tigers Golf Balls</b> Price: <b>$68.99</b>
+Brand: <b>Titleist</b> Title: <b>2023 Pro V1 Padres Golf Balls</b> Price: <b>$33.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Stripe 2024 Golf Balls</b> Price: <b>$57.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix 3.0 - UNC Golf Balls</b> Price: <b>$64.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix 3.0 - Georgia Golf Balls</b> Price: <b>$64.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix 3.0 - Michigan Golf Balls</b> Price: <b>$64.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix 3.0 - Alabama Golf Balls</b> Price: <b>$64.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Pix 30 - Notre Dame Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Vice Golf</b> Title: <b>Pro Plus 2024 Golf Balls</b> Price: <b>$39.99</b>
+Brand: <b>Vice Golf</b> Title: <b>Pro Vix Performance Alignment 2024 Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Vice Golf</b> Title: <b>Pro Air 2024 Golf Balls</b> Price: <b>$39.99</b>
+Brand: <b>Vice Golf</b> Title: <b>Drive 2024 Golf Balls</b> Price: <b>$19.99</b>
+Brand: <b>Vice Golf</b> Title: <b>Tour 2024 Golf Balls</b> Price: <b>$27.99</b>
+Brand: <b>Callaway</b> Title: <b>SuperSoft Casino 2024 Golf Balls</b> Price: <b>$24.99</b>
+Website: <b>PGA TOUR Superstore Balls</b>
+
+Result from ../../../web-src-scraping/balls/all/ball_all_5.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro Vix Left Dash Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Supersoft Golf Balls</b> Price: <b>$24.99</b>
+Brand: <b>Callaway</b> Title: <b>Warbird White Golf Balls</b> Price: <b>$17.50</b>
+Brand: <b>Callaway</b> Title: <b>Supersoft Casino Golf Balls</b> Price: <b>$24.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Distance+ Golf Balls</b> Price: <b>$19.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Tour Response Stripe Blue/Pink Golf Balls</b> Price: <b>$42.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Pix USA Golf Balls</b> Price: <b>$57.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 White Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Srixon</b> Title: <b>Soft Feel 13 Golf Balls</b> Price: <b>$22.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e12 Soft Practice Bagged Golf Balls</b> Price: <b>$11.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Patriot 15-Pack Golf Balls</b> Price: <b>$29.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1 USA Limited Edition 6-Pack Golf Balls</b> Price: <b>$31.99</b>
+Brand: <b>Titleist</b> Title: <b>2022 Pro V1 Logo Overrun Golf Balls 15-Pack</b> Price: <b>$39.99</b>
+Brand: <b>Callaway</b> Title: <b>Supersoft Lucky Golf Balls</b> Price: <b>$24.99</b>
+Brand: <b>Srixon</b> Title: <b>Soft Feel 13 White Logo Overrun Golf Balls</b> Price: <b>$15.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TPSx White Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-Star Tour 5 White Golf Balls</b> Price: <b>$39.99</b>
+Brand: <b>Wilson Staff</b> Title: <b>Zip Double Dozen Golf Balls</b> Price: <b>$29.99</b>
+Brand: <b>Srixon</b> Title: <b>Soft Feel 11 White Logo Overrun Golf Balls</b> Price: <b>$12.99</b>
+Brand: <b>Titleist</b> Title: <b>Prior Gen AVX White Golf Balls</b> Price: <b>$44.99</b>
+Website: <b>golfdiscount.com Balls</b>
+
+Result from ../../../web-src-scraping/balls/all/ball_all_6.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Left Dash</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Tour Soft Golf Balls</b> Price: <b>$39.99</b>
+Brand: <b>Titleist</b> Title: <b>Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Hallowen Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Dia De Los Muertos Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$31.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Golf Balls 2024</b> Price: <b>$27.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-STAR 6 Golf Balls</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track Golf Balls 2024</b> Price: <b>$54.99</b>
+Brand: <b>TaylorMade</b> Title: <b>SpeedSoft INK Golf Balls 2024</b> Price: <b>$24.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024</b> Price: <b>$39.99</b>
+Brand: <b>Srixon</b> Title: <b>Z-STAR 8 Golf Balls</b> Price: <b>$49.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024</b> Price: <b>$39.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e6 Golf Balls 2024 - Yellow</b> Price: <b>$24.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e9 Long Drive Golf Balls</b> Price: <b>$29.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Golf Balls 2024</b> Price: <b>$34.99</b>
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Matte Color Golf Balls - Green</b> Price: <b>$29.99</b>
+Brand: <b>Bridgestone</b> Title: <b>Personalized Golf Balls - ON SALE</b> Price: <b>$37.99 - $46.99</b>
+Brand: <b>Bridgestone</b> Title: <b>Tour B RX Golf Balls 2024</b> Price: <b>$49.99</b>
+Website: <b>Carl's Golfland Balls</b>
+
+Result from ../../../web-src-scraping/balls/all/ball_all_7.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x Left Dash</b> Price: <b>$54.99</b>  
+Brand: <b>Titleist</b> Title: <b>Tour Soft Golf Balls</b> Price: <b>$39.99</b>  
+Brand: <b>Titleist</b> Title: <b>Limited Edition Pro V1 USA Performance Alignment 6 Pack Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Dia De Los Muertos Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls 2024</b> Price: <b>$31.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 Golf Balls 2024</b> Price: <b>$27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-STAR 6 Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track Golf Balls 2024</b> Price: <b>$54.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SpeedSoft Golf Balls 2024</b> Price: <b>$24.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-STAR Tour Divide 2 Golf Balls - Yellow/Orange 2024</b> Price: <b>$39.99</b>  
+Brand: <b>Srixon</b> Title: <b>Z-STAR 8 Golf Balls</b> Price: <b>$49.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-STAR Tour Divide 2 Golf Balls - Yellow/Blue 2024</b> Price: <b>$39.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e6 Golf Balls 2024 - Yellow</b> Price: <b>$24.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e9 Long Drive Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Golf Balls 2024</b> Price: <b>$26.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Limited Edition Bonus Pack Golf Balls 2024</b> Price: <b>$34.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Matte Color Golf Balls - Green 2024</b> Price: <b>$29.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>e12 Contact Matte Color Golf Balls - Yellow 2024</b> Price: <b>$29.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RX Golf Balls 2024</b> Price: <b>$49.99</b>  
+Website: <b>Carl's Golfland Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_1.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Custom Number Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Left Dash Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2024 Chrome Tour Personalized Golf Ball</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Supersoft White Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Tour Soft Personalized White Golf Ball</b> Price: <b>$44.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized White Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 AVX Personalized White Golf Ball</b> Price: <b>$54.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized Yellow Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 ERC Soft Triple Track White Personalized Golf Balls</b> Price: <b>$23.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Warbird White Personalized Golf Balls</b> Price: <b>$43.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Supersoft Matte Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Srixon</b> Title: <b>Q-Star 6 Personalized White Golf Ball</b> Price: <b>$29.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 TruFeel Personalized White Golf Ball</b> Price: <b>$29.99</b>
+Brand: <b>TaylorMade</b> Title: <b>2024 TP5x Personalized White Golf Ball</b> Price: <b>$59.99</b>
+Brand: <b>Srixon</b> Title: <b>Soft Feel 13 Personalized White Golf Balls</b> Price: <b>$25.99</b>
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized Yellow Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Velocity Personalized White Golf Ball</b> Price: <b>$34.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Reva Pink Personalized Golf Balls</b> Price: <b>$28.99</b>
+Brand: <b>Callaway</b> Title: <b>2024 Chrome Soft Triple Track Personalized Golf Ball</b> Price: <b>$44.99</b>
+Brand: <b>Titleist</b> Title: <b>2024 Tour Soft Personalized Yellow Golf Ball</b> Price: <b>$23.99</b>
+Brand: <b>Callaway</b> Title: <b>2023 Warbird Yellow Personalized Golf Balls</b> Price: <b>$59.99</b>
+Website: <b>TGW.com Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_2.txt:
+Brand: <b>Callaway Golf</b> Title: <b>Chrome Soft Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>Chrome Tour Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Extreme Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>Snake Eyes</b> Title: <b>Soft Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TM Distance+ Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Ladies Kalea Golf Balls</b> Price: <b>As Low As $25.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Tour Response Golf Balls</b> Price: <b>As Low As $42.99</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies ERC Soft Triple Track Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Callaway</b> Title: <b>ERC Soft Triple Track Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Golf Balls</b> Price: <b>As Low As $24.99</b>  
+Brand: <b>Callaway</b> Title: <b>Warbird Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track Golf Balls</b> Price: <b>As Low As $54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Superfast Golf Balls</b> Price: <b>As Low As $29.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RX Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B RXS Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B X Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Tour B XS Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-Star Golf Balls</b> Price: <b>As Low As $27.99</b>  
+Brand: <b>Srixon</b> Title: <b>Q-Star Tour Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Srixon</b> Title: <b>Soft Feel Brite Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Soft Feel Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Lady Soft Feel Golf Balls</b> Price: <b>As Low As $22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Z-Star Golf Balls</b> Price: <b>As Low As $49.99</b>  
+Brand: <b>PXG</b> Title: <b>Xtreme Golf Balls</b> Price: <b>As Low As $11.99</b>  
+Brand: <b>Bullet</b> Title: <b>.444 Distance Golf Balls</b> Price: <b>As Low As $10.99</b>  
+Brand: <b>Wilson</b> Title: <b>Staff Triad Golf Balls</b> Price: <b>As Low As $34.99</b>  
+Brand: <b>XXIO</b> Title: <b>Rebound Drive II Golf Balls</b> Price: <b>As Low As $39.99</b>  
+Brand: <b>Srixon</b> Title: <b>Prior Generation Q-Star Tour Golf Balls</b> Price: <b>As Low As $34.99</b>  
+Brand: <b>Callaway</b> Title: <b>Ladies REVA Golf Balls</b> Price: <b>As Low As $24.99</b>  
+Brand: <b>Srixon</b> Title: <b>Marathon 3 Golf Balls</b> Price: <b>As Low As $19.99</b>  
+Brand: <b>Nitro</b> Title: <b>Crossfire Matte Golf Balls</b> Price: <b>As Low As $14.99</b>  
+Website: <b>Rock Bottom Golf Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_3.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1x</b> Price: <b>Unavailable</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 2024</b> Price: <b>Unavailable</b>
+Brand: <b>Bridgestone</b> Title: <b>Tour B X 22</b> Price: <b>Unavailable</b>
+Website: <b>GlobalGolf Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_4.txt:
+Brand: <b>TITLEIST</b> Title: <b>Pro V1 Double Digit 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro V1 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro Vix Double Digit 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Velocity 2024 Personalized Golf Balls</b> Price: <b>$37.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>TruFeel 2024 Personalized Golf Balls</b> Price: <b>$32.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5 MySymbol 2024 Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5 2024 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5x MySymbol 2024 Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Soft 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>AVX 2024 Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>TP5x 2024 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Tour Soft 2024 Personalized Golf Balls</b> Price: <b>$47.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Pro Vix 2023 Personalized Golf Balls</b> Price: <b>$62.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour X Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Soft Triple Track 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour X 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Chrome Tour 2024 Personalized Golf Balls</b> Price: <b>$58.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Supersoft 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>REVA 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Warbird 2023 Personalized Golf Balls</b> Price: <b>$21.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Supersoft MAX 2023 Personalized Golf Balls</b> Price: <b>$26.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>ERC Soft Triple Track 2023 Personalized Golf Balls</b> Price: <b>$41.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>ERC Soft REVA Triple Track 2023 Personalized Golf Balls</b> Price: <b>$41.99</b>  
+Website: <b>PGA TOUR SUPERSTORE Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_5.txt:
+Brand: <b>Titleist</b> Title: <b>Pro V1 Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1x Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Pro V1 Yellow Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5 White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour X Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Titleist</b> Title: <b>AVX White Personalized Golf Balls</b> Price: <b>$54.99</b>  
+Brand: <b>Callaway</b> Title: <b>Warbird Personalized Golf Balls</b> Price: <b>$22.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Personalized Golf Balls</b> Price: <b>$27.99</b>  
+Brand: <b>Callaway</b> Title: <b>Supersoft Matte Green Personalized Golf Balls</b> Price: <b>$27.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Distances Personalized Golf Balls</b> Price: <b>$22.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft Triple Track Personalized Golf Balls</b> Price: <b>$52.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Soft 360 Triple Track Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Triple Track White Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Brand: <b>Callaway</b> Title: <b>Chrome Tour Triple Track Yellow Personalized Golf Balls</b> Price: <b>$57.99</b>  
+Website: <b>GolfDiscount.com Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_6.txt:
+Brand: <b>Bridgestone</b> Title: <b>Personalized Golf Balls - ON SALE</b> Price: <b>$37.99 - $46.99</b>
+Brand: <b>Callaway</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Srixon</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TP5 Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Titleist</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Brand: <b>Wilson</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>
+Website: <b>Carl's Golfland Personalized Balls</b>
+
+Result from ../../../web-src-scraping/balls/personalized/ball_personalized_7.txt:
+Brand: <b>Bridgestone</b> Title: <b>Personalized Golf Balls - ON SALE</b> Price: <b>$37.99 - $46.99</b>  
+Brand: <b>Callaway</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Srixon</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP5x Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Titleist</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Brand: <b>Wilson</b> Title: <b>Personalized Golf Balls</b> Price: <b>$59.99</b>  
+Website: <b>Carl's Golfland Personalized Balls</b>  
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_1.txt:
+Brand: <b>Titleist</b> Title: <b>Men's GT 3 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX Driver</b> Price: <b>$599.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 Max 10K Driver</b> Price: <b>$399.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 LST Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke Max Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 Driver</b> Price: <b>$329.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 4 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Driver</b> Price: <b>$249.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Driver</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's BRNR Copper Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Ai Smoke Ti 340 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Paradym Ai Smoke TI 340 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Driver</b> Price: <b>$212.49</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's QO LS Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR 3 Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR 2 Driver</b> Price: <b>$449.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Driver</b> Price: <b>$399.99</b>  
+Brand: <b>PING</b> Title: <b>Women's G425 MAX Driver</b> Price: <b>$399.99</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed LS Driver</b> Price: <b>$549.00</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL 2 Draw Driver</b> Price: <b>$349.99</b>  
+Website: <b>TGW.com Driver</b>  
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_2.txt:
+Brand: <b>Adams Golf</b> Title: <b>Idea Driver</b> Price: <b>$239.99</b>
+Brand: <b>Honma Golf</b> Title: <b>TW 757 S Driver</b> Price: <b>$329.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$399.99</b>
+Brand: <b>Honma Golf</b> Title: <b>TW 757 D Driver</b> Price: <b>$329.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Driver</b> Price: <b>$249.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>SIM2 Max Driver</b> Price: <b>$299.99</b>
+Brand: <b>Mizuno Golf</b> Title: <b>ST-X 230 Driver</b> Price: <b>$219.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Max Driver</b> Price: <b>$179.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Driver</b> Price: <b>$199.95</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Burner Mini 2.0 Copper Driver</b> Price: <b>$449.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Qi10 Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Max Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$349.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Max D Driver</b> Price: <b>$399.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Big Bertha Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym X Driver</b> Price: <b>$349.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Driver</b> Price: <b>$449.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Driver</b> Price: <b>$449.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR1 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR2 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR2 Driver With Premium Shafts</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR3 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR3 Driver With Premium Shafts</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR4 Driver</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT2 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT3 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT4 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT2 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT3 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT4 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>DarkSpeed LS Driver</b> Price: <b>$249.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>Aerojet Max Driver</b> Price: <b>$219.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDX LS Driver</b> Price: <b>$219.00</b>
+Website: <b>Rock Bottom Golf Driver</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_3.txt:
+Brand: <b>Callaway</b> Title: <b>XR 16 Paradym X</b> Price: <b>$399.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Epic</b> Price: <b>$199.99</b>
+Brand: <b>Cobra</b> Title: <b>AIR-X Straight Neck Grey/Red</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 HD</b> Price: <b>$349.99</b>
+Brand: <b>PXG</b> Title: <b>0311 XF Gen 5</b> Price: <b>$349.99</b>
+Brand: <b>Srixon</b> Title: <b>ZX5</b> Price: <b>$299.99</b>
+Brand: <b>XXIO</b> Title: <b>Prime 11</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Triple Diamond XR</b> Price: <b>$449.99</b>
+Website: <b>GlobalGolf Driver</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_4.txt:
+Brand: <b>TITLEIST</b> Title: <b>GT2 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT3 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT4 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics C725 Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT2 Women's Driver</b> Price: <b>$649.99</b>  
+Brand: <b>PING</b> Title: <b>Prodi G Driver</b> Price: <b>$274.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Driver</b> Price: <b>$399.99</b>  
+Brand: <b>PING</b> Title: <b>G430 Max Driver</b> Price: <b>$399.98 - $639.98</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Ai Smoke Ti340 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>BRNR Mini Driver Copper</b> Price: <b>$449.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Driver</b> Price: <b>$349.98 - $599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 LST Driver</b> Price: <b>$399.98</b>  
+Brand: <b>COBRA</b> Title: <b>Aerojet 50th Anniversary Driver</b> Price: <b>$579.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Ai Smoke Triple Diamond MAX Driver</b> Price: <b>$599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 SFT Driver</b> Price: <b>$399.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Plus+ Driver</b> Price: <b>$549.99 - $629.99</b>  
+Brand: <b>ADAMS GOLF</b> Title: <b>NEW Idea Driver</b> Price: <b>$199.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Qi10 Max Designer Series Driver</b> Price: <b>$599.98 - $629.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 High Draw Driver</b> Price: <b>$349.98 - $599.99</b>  
+Brand: <b>COBRA</b> Title: <b>Aerojet Max Driver</b> Price: <b>$599.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>MAVRIK 2022 Driver</b> Price: <b>$249.98 - $399.99</b>  
+Website: <b>PGA TOUR Superstore Driver</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_5.txt:
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$599.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Driver</b> Price: <b>$599.99</b>
+Brand: <b>TaylorMade</b> Title: <b>BRNR Mini Driver</b> Price: <b>$449.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$328.99</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Driver Peacoat</b> Price: <b>$184.99</b>
+Brand: <b>Callaway</b> Title: <b>MAVRIK Driver</b> Price: <b>$249.99</b>
+Brand: <b>Cobra</b> Title: <b>LTD Driver Black</b> Price: <b>$184.99</b>
+Brand: <b>Titleist</b> Title: <b>TSR2 Driver</b> Price: <b>$397</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Max Driver Black</b> Price: <b>$184.99</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Max Driver Peacoat</b> Price: <b>$184.99</b>
+Brand: <b>Cleveland</b> Title: <b>Launcher XL2 Driver</b> Price: <b>$349.99</b>
+Brand: <b>XXIO</b> Title: <b>13 Driver</b> Price: <b>$699.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 LS Driver</b> Price: <b>$629.99</b>
+Brand: <b>Ping</b> Title: <b>Women's G Le3 Driver</b> Price: <b>$497</b>
+Website: <b>GolfDiscount.com Driver</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_6.txt:
+Brand: <b>Srixon</b> Title: <b>MAX Driver 2024</b> Price: <b>$547.60</b>  
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Lite</b> Price: <b>$397.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Driver</b> Price: <b>$328.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$520.99</b>  
+Brand: <b>PING</b> Title: <b>G430 MAX 10K Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver 2024</b> Price: <b>$597.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX Fast Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Driver 2023</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Driver 2024</b> Price: <b>$599.99</b>  
+Website: <b>Carl's Golfland Driver</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_7.txt:
+Brand: <b>Srixon</b> Title: <b>Driver</b> Price: <b>$547.60</b>  
+Brand: <b>Srixon</b> Title: <b>Driver</b> Price: <b>$397.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Cobra</b> Title: <b>Aerojet Driver</b> Price: <b>$328.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$520.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$299.99</b>  
+Brand: <b>PING</b> Title: <b>G430 MAX 10K Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver 2024</b> Price: <b>$597.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$699.99</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX D Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX Fast Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Driver</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Driver</b> Price: <b>$599.99</b>  
+Website: <b>Carl's Golfland Driver</b>  
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_1.txt:
+Brand: <b>PING</b> Title: <b>Men's G430 MAX Fairway</b> Price: <b>$269</b>
+Brand: <b>PING</b> Title: <b>Men's G410 Fairway</b> Price: <b>$399</b>
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Fairway</b> Price: <b>$1529</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Fairway</b> Price: <b>$269</b>
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Fairway</b> Price: <b>$269</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 Steel Fairway</b> Price: <b>$219</b>
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo XL Fairway</b> Price: <b>$229</b>
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Fairway</b> Price: <b>$199</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 Max Fairway Wood</b> Price: <b>$299</b>
+Brand: <b>Callaway</b> Title: <b>Men's Paradym X Fairway</b> Price: <b>$259</b>
+Brand: <b>PING</b> Title: <b>Men's G430 SFT HL Fairway</b> Price: <b>$269</b>
+Brand: <b>PING</b> Title: <b>Men's G425 LST Fairway</b> Price: <b>$249</b>
+Brand: <b>PING</b> Title: <b>Men's G425 MAX Fairway</b> Price: <b>$249</b>
+Brand: <b>Callaway</b> Title: <b>Men's Rogue ST 24 Max Fairway</b> Price: <b>$249</b>
+Brand: <b>XXIO</b> Title: <b>Men's 13 Fairway</b> Price: <b>$399</b>
+Brand: <b>Titleist</b> Title: <b>Men's GT 3 Fairway Wood</b> Price: <b>$399</b>
+Brand: <b>XXIO</b> Title: <b>Men's Prime 11 Fairway</b> Price: <b>$399</b>
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Fairway</b> Price: <b>$179</b>
+Brand: <b>Cleveland</b> Title: <b>Ladies Launcher Halo XL Fairway</b> Price: <b>$179</b>
+Website: <b>TGW.com Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_2.txt:
+Brand: <b>Mizuno Golf</b> Title: <b>ST-MAX 230 Fairway Wood</b> Price: <b>$179.95</b>
+Brand: <b>Mizuno Golf</b> Title: <b>ST-Z 230 Fairway Wood</b> Price: <b>$249.95</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Fairway Wood</b> Price: <b>$149.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Max Fairway Wood</b> Price: <b>$149.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Fairway Wood</b> Price: <b>$179.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Max Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Big Bertha B21 Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Triple Diamond Fairway Wood</b> Price: <b>$279.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Fairway Wood</b> Price: <b>$229.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym X Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Stealth 2 Fairway Wood</b> Price: <b>$449.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR1 Fairway Wood</b> Price: <b>$299.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR2 Fairway Wood</b> Price: <b>$299.00</b/>
+Brand: <b>Titleist Golf</b> Title: <b>TSR3 Fairway Wood</b> Price: <b>$299.00</b>
+Brand: <b>Srixon Golf</b> Title: <b>ZX MKII Fairway Wood</b> Price: <b>$149.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch C523 Fairway Wood</b> Price: <b>$169.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch C524 Fairway Wood</b> Price: <b>$229.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E524 Fairway Wood</b> Price: <b>$169.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics E723 Fairway Wood</b> Price: <b>$199.99</b>
+Brand: <b>Wilson Golf</b> Title: <b>Staff Dynapower Fairway Wood</b> Price: <b>$199.99</b>
+Website: <b>Rock Bottom Golf Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_3.txt:
+Brand: <b>TaylorMade</b> Title: <b>M5 STEALTH 2 Fairway Wood</b> Price: <b>$229.99</b>
+Brand: <b>XXIO</b> Title: <b>Prime 11 Fairway Wood</b> Price: <b>$579.99 - $103.99</b>
+Brand: <b>Mizuno</b> Title: <b>Fairway Wood</b> Price: <b>$161.99 - $242.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 HD Fairway Wood</b> Price: <b>$229.99</b>
+Brand: <b>Callaway</b> Title: <b>XR 16 Fairway Wood</b> Price: <b>$71.99 - $119.99</b>
+Brand: <b>Callaway</b> Title: <b>Epic MAX Fairway Wood</b> Price: <b>$99.99</b>
+Brand: <b>TaylorMade</b> Title: <b>M2 Fairway Wood</b> Price: <b>$79.99</b>
+Brand: <b>Srixon</b> Title: <b>ZX Paradym X Fairway Wood</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>XXIO</b> Title: <b>X Black Fairway Wood</b> Price: <b>$71.99 - $60.99</b>
+Brand: <b>Titleist</b> Title: <b>TSR2 Fairway Wood</b> Price: <b>$159.99 - $269.99</b>
+Brand: <b>Titleist</b> Title: <b>917F2 Fairway Wood</b> Price: <b>$119.99</b>
+Brand: <b>Cobra</b> Title: <b>King F9 SpeedBack Black Yellow Fairway Wood</b> Price: <b>$129.99</b>
+Brand: <b>Ping</b> Title: <b>G Fairway Wood</b> Price: <b>$109.99</b>
+Brand: <b>Callaway</b> Title: <b>XR Fairway Wood</b> Price: <b>$71.99 - $103.99</b>
+Website: <b>GlobalGolf Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_4.txt:
+Brand: <b>TITLEIST</b> Title: <b>GT2 Fairway Wood</b> Price: <b>$399.99</b>
+Brand: <b>TITLEIST</b> Title: <b>GT3 Fairway Wood</b> Price: <b>$399.99</b>
+Brand: <b>PING</b> Title: <b>Prodi G Fairway Wood</b> Price: <b>$154.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics C725 Fairway Wood</b> Price: <b>$299.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Fairway Wood</b> Price: <b>$249.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Ai Smoke TI Mini Driver</b> Price: <b>$449.99</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Fairway Wood</b> Price: <b>$220.98</b>
+Brand: <b>PING</b> Title: <b>G430 SFT Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Mavrik 2022 Fairway Wood</b> Price: <b>$179.98</b>
+Brand: <b>TAYLORMADE</b> Title: <b>BRNR Mini Driver Copper</b> Price: <b>$269.98</b>
+Brand: <b>MIZUNO</b> Title: <b>ST-Max 230 Fairway Wood</b> Price: <b>$179.98</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Fairway Wood</b> Price: <b>$249.98</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym X Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>COBRA</b> Title: <b>Aerojet Max Fairway Wood</b> Price: <b>$159.98</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Plus+ Fairway Wood</b> Price: <b>$220.98</b>
+Brand: <b>COBRA</b> Title: <b>Aerojet Fairway Wood</b> Price: <b>$159.98</b>
+Brand: <b>WILSON</b> Title: <b>Dynapower Fairway Wood</b> Price: <b>$199.98</b>
+Brand: <b>COBRA</b> Title: <b>Aerojet LS Fairway Wood</b> Price: <b>$159.98</b>
+Brand: <b>CLEVELAND</b> Title: <b>Launcher Halo XL 2024 Fairway Wood</b> Price: <b>$229.98</b>
+Website: <b>PGA TOUR Superstore Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_5.txt:
+Brand: <b>Ping</b> Title: <b>G430 MAX Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>Cleveland</b> Title: <b>Halo XL Fairway Wood</b> Price: <b>$229.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Wood</b> Price: <b>$267</b>
+Brand: <b>Titleist</b> Title: <b>GT2 Fairway</b> Price: <b>$399</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Max Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>XXIO</b> Title: <b>13 Fairway Wood</b> Price: <b>$399.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Fairway Wood</b> Price: <b>$349.99</b>
+Brand: <b>Titleist</b> Title: <b>GT3 Fairway</b> Price: <b>$399</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Fairway Wood</b> Price: <b>$218.99</b>
+Brand: <b>Callaway</b> Title: <b>MAVRIK Fairway Wood</b> Price: <b>$179.99</b>
+Brand: <b>Titleist</b> Title: <b>TSR2 Fairway Wood</b> Price: <b>$299</b>
+Brand: <b>Ping</b> Title: <b>G430 SFT Fairway Wood</b> Price: <b>$267</b>
+Brand: <b>Ping</b> Title: <b>G425 Max Fairway Wood</b> Price: <b>$247</b>
+Brand: <b>Tour Edge</b> Title: <b>Women's Exotics E725 Fairway</b> Price: <b>$249.99</b>
+Brand: <b>Tour Edge</b> Title: <b>Exotics E725 Fairway</b> Price: <b>$249.99</b>
+Brand: <b>Tour Edge</b> Title: <b>Exotics C725 Fairway</b> Price: <b>$299.99</b>
+Brand: <b>Titleist</b> Title: <b>Women's GT2 Fairway</b> Price: <b>$399</b>
+
+Website: <b>GolfDiscount.com Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_6.txt:
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Fairway Woods 2024</b> Price: <b>$347.00</b>
+Brand: <b>PING</b> Title: <b>G430 MAX Fairway Woods</b> Price: <b>$267.00</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Fairway Woods 2024</b> Price: <b>$349.99</b>
+Brand: <b>Titleist</b> Title: <b>GT2 Fairway Woods</b> Price: <b>$399.00</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Fairway Woods</b> Price: <b>$299.99</b>
+Brand: <b>Srixon</b> Title: <b>ZX Mk Il Fairway Woods 2024</b> Price: <b>$119.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Max Fairway Woods 2024</b> Price: <b>$279.99</b>
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Fairway Woods</b> Price: <b>$299.99</b>
+Brand: <b>Adams</b> Title: <b>Tight Lies Fairway Woods</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$89.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Fairway Woods</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Fairway Woods 2024</b> Price: <b>$499.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Fairway Woods</b> Price: <b>$229.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Fairway Woods 2024</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Fairway Woods</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Fairway Woods</b> Price: <b>$229.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Fairway Woods</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Fairway Woods</b> Price: <b>$229.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Fairway Woods</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Fairway Woods 2024</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fairway Woods 2024</b> Price: <b>$349.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fast Fairway Woods 2024</b> Price: <b>$349.99</b>
+Website: <b>Carl's Golfland Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/fairway-woods/club_fairway-woods_7.txt:
+Brand: <b>Mizuno</b> Title: <b>PING G430 MAX Fairway Woods</b> Price: <b>$347.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Fairway Woods 2024</b> Price: <b>$267.00</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX Fairway Woods 2024</b> Price: <b>$349.99</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Fairway Woods</b> Price: <b>$349.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Fairway Woods</b> Price: <b>$299.99</b>  
+Brand: <b>Adams</b> Title: <b>Tight Lies Fairway Woods</b> Price: <b>$199.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Fairway Woods</b> Price: <b>$229.99</b>  
+Website: <b>Carl's Golfland Fairway Wood</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_1.txt:
+Brand: <b>PING</b> Title: <b>Men's G430 Hybrid</b> Price: <b>$239.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G410 Hybrid</b> Price: <b>$135.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 Rescue</b> Price: <b>$199.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Rescue Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Rescue</b> Price: <b>$179.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher Halo XL Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 HL Hybrid</b> Price: <b>$239.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Rescue Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 HD Rescue</b> Price: <b>$199.99</b>  
+Brand: <b>PING</b> Title: <b>Men's iCrossover Hybrid</b> Price: <b>$249.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym AI Smoke HL Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Hybrid</b> Price: <b>$149.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR2 Hybrid</b> Price: <b>$249.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G425 Hybrid</b> Price: <b>$219.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym AI Smoke Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's 2023 T200 Utility Iron</b> Price: <b>$269.00</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Star Hybrid</b> Price: <b>$212.40</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSi3 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Cobra</b> Title: <b>Men's AirX2 Hybrid</b> Price: <b>$199.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Tour Rescue Hybrid</b> Price: <b>$299.99</b>  
+Website: <b>TGW.com Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_2.txt:
+Brand: <b>Honma Golf</b> Title: <b>TW 757 Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Pro 21 Hybrid</b> Price: <b>$139.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Pro Hybrid</b> Price: <b>$139.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Hybrid</b> Price: <b>$114.00</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>SIM2 Max Rescue Hybrid</b> Price: <b>$179.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Stealth Rescue Hybrid</b> Price: <b>$169.99</b>
+Brand: <b>XXIO Golf</b> Title: <b>Prime 11 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch C522 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Offset Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron-Wood</b> Price: <b>$79.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Hybrid</b> Price: <b>$279.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Utility Hybrid</b> Price: <b>$289.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Hybrid</b> Price: <b>$249.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max OS Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Qi10 Hybrid</b> Price: <b>$299.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Stealth 2 HD Rescue Hybrid</b> Price: <b>$219.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR1 Hybrid</b> Price: <b>$249.00</b>
+Brand: <b>Cleveland Golf</b> Title: <b>Halo XL Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>King Tec Hybrid</b> Price: <b>$299.00</b>
+Brand: <b>Mizuno Golf</b> Title: <b>ST-MAX 230 Hybrid</b> Price: <b>$159.95</b>
+Brand: <b>Srixon Golf</b> Title: <b>ZX MKII Hybrid</b> Price: <b>$179.99</b>
+Brand: <b>Lynx Golf</b> Title: <b>Predator Hybrid</b> Price: <b>$99.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E524 Hybrid</b> Price: <b>$149.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics C723 Hybrid</b> Price: <b>$169.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Exotics E723 Hybrid</b> Price: <b>$169.99</b>
+Website: <b>Rock Bottom Golf Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_3.txt:
+Brand: <b>Callaway</b> Title: <b>Rogue X STEALTH 2 Rescue</b> Price: <b>$209.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX OS</b> Price: <b>$199.99</b>
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Halo</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 PLUS Rescue</b> Price: <b>$149.99</b>
+Brand: <b>Cobra</b> Title: <b>King TEC 2021</b> Price: <b>$149.98</b>
+
+Website: <b>GlobalGolf Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_4.txt:
+Brand: <b>PING</b> Title: <b>G430 Hybrid</b> Price: <b>$239.98 - $279.99</b> 
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Rescue</b> Price: <b>$299.99</b>
+Brand: <b>PING</b> Title: <b>Crossover w/ Graphite Shafts</b> Price: <b>$209.98</b>
+Brand: <b>PING</b> Title: <b>G425 Hybrid Mens</b> Price: <b>$249.99 - $299.99</b>
+Brand: <b>MIZUNO</b> Title: <b>ST-Max 230 Hybrid</b> Price: <b>$159.98</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 High Draw Rescue</b> Price: <b>$249.99</b>
+Brand: <b>PING</b> Title: <b>G430 HL Hybrid</b> Price: <b>$209.98 - $279.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Mavrik 2022 Hybrid</b> Price: <b>$149.98 - $199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Prodi G Hybrid</b> Price: <b>$144.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Hybrid</b> Price: <b>$199.99</b>
+Brand: <b>TITLEIST</b> Title: <b>TSR2 Hybrid</b> Price: <b>$249.98 - $299.99</b>
+Brand: <b>COBRA</b> Title: <b>Aerojet One Length Hybrid</b> Price: <b>$129.98 - $279.99</b>
+Brand: <b>CLEVELAND</b> Title: <b>Launcher Halo XL 2024 Hybrid</b> Price: <b>$199.98 - $229.99</b>
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Plus+ Rescue</b> Price: <b>$299.99</b>
+Brand: <b>MIZUNO</b> Title: <b>ST-Z 230 Hybrid</b> Price: <b>$159.98 - $249.99</b>
+Brand: <b>TITLEIST</b> Title: <b>U505 2023 Utility Iron w/ Graphite Shaft</b> Price: <b>$269.99 - $399.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Hybrid</b> Price: <b>$219.98 - $299.99</b>
+Brand: <b>SRIXON</b> Title: <b>ZX MK I Utility</b> Price: <b>$239.99</b>
+Brand: <b>CALLAWAY</b> Title: <b>Paradym X Hybrid</b> Price: <b>$219.98 - $299.99</b>
+Brand: <b>TITLEIST</b> Title: <b>TSR1 Hybrid</b> Price: <b>$249.98 - $299.99</b>
+
+Website: <b>PGA TOUR Superstore Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_5.txt:
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Rescue</b> Price: <b>$299.99</b>  
+Brand: <b>Ping</b> Title: <b>G425 Hybrid</b> Price: <b>$217</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke HL Hybrid</b> Price: <b>$159.95</b>  
+Brand: <b>Mizuno</b> Title: <b>ST-Max 230 Hybrid</b> Price: <b>$187</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM2 Max Rescue</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>MAVRIK Hybrid</b> Price: <b>$149.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Max Fast Hybrid</b> Price: <b>$279.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Women's Qi10 Max Rescue</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Paradym Ai Smoke Hybrid Max Fast</b> Price: <b>$279.99</b>  
+Brand: <b>XXIO</b> Title: <b>Women's 13 Hybrid</b> Price: <b>$299.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Women's Exotics E725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Exotics E725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Exotics C725 Hybrid</b> Price: <b>$199.99</b>  
+Brand: <b>Ping</b> Title: <b>G430 HL Hybrid</b> Price: <b>$237</b>  
+Website: <b>golfdiscount.com Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_6.txt:
+Brand: <b>TaylorMade</b> Title: <b>G430 Hybrids</b> Price: <b>$297.60</b>
+Brand: <b>Callaway</b> Title: <b>Apex 21 Hybrids</b> Price: <b>$237.00</b>
+Brand: <b>Titleist</b> Title: <b>Hybrids 2024</b> Price: <b>$269.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Super Hybrid 2024</b> Price: <b>$399.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Rescue Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Hybrids</b> Price: <b>$198.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex Pro 21 Hybrids</b> Price: <b>$249.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Hybrids</b> Price: <b>$149.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Hybrids</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Hybrids</b> Price: <b>$259.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik Max Hybrids</b> Price: <b>$219.99 - $449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Hybrids</b> Price: <b>$99.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA Hybrids</b> Price: <b>$259.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Hybrids 2023</b> Price: <b>$449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fast Hybrids 2024</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Rogue ST 24 Max OS Lite Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST Pro Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Cleveland</b> Title: <b>HALO XL 2 Hy-Woods 2024</b> Price: <b>$239.99</b>
+Website: <b>Carl's Golfland Hybrid</b>
+
+Result from ../../../web-src-scraping/clubs/hybrids/club_hybrids_7.txt:
+Brand: <b>TaylorMade</b> Title: <b>Hybrids 2024</b> Price: <b>$297.60 - $237.00</b>
+Brand: <b>Titleist</b> Title: <b>Hybrids 2024</b> Price: <b>$269.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Super Hybrid 2024</b> Price: <b>$399.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Rescue Hybrids</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Hybrids</b> Price: <b>$198.99 - $249.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex Pro 21 Hybrids</b> Price: <b>$99.99 - $269.99</b>
+Brand: <b>Callaway</b> Title: <b>Apex UW 24 Utility Woods</b> Price: <b>$179.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Hybrids</b> Price: <b>$149.99 - $299.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Hybrids</b> Price: <b>$259.99 - $449.99</b>
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Hybrids</b> Price: <b>$219.99 - $199.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Hybrids 2024</b> Price: <b>$279.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Hybrids</b> Price: <b>$99.99 - $259.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA Hybrids</b> Price: <b>$219.99 - $249.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Hybrids 2023</b> Price: <b>$449.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Fast Hybrids 2024</b> Price: <b>$199.99</b>
+Brand: <b>Callaway</b> Title: <b>Womens Rogue ST X Hybrids</b> Price: <b>$199.99</b>
+Brand: <b>Cleveland</b> Title: <b>HALO XL 2 Hy-Woods 2024</b> Price: <b>$239.99 - $209.99</b>
+Website: <b>Carl's Golfland Hybrid</b>
+
+
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_1.txt:
+Brand: <b>PING</b> Title: <b>Men's G430 Irons</b> Price: <b>$1,285 - $1,1420</b>
+Brand: <b>PING</b> Title: <b>Men's G425 Irons</b> Price: <b>$1,149 - $1,027</b>
+Brand: <b>Titleist</b> Title: <b>Men's 2023 T200 Irons</b> Price: <b>$1,399 - $1,499</b>
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL Halo Irons</b> Price: <b>$424.99</b>
+Brand: <b>Mizuno</b> Title: <b>Men's Pro 245 Irons</b> Price: <b>$1,399 - $1,599</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi Irons</b> Price: <b>$428.50 - $1,257.13</b>
+Brand: <b>PING</b> Title: <b>Men's Blueprint S Irons</b> Price: <b>$1,275 - $1,699</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's 2023 P790 Irons</b> Price: <b>$1,399 - $1,599</b>
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke HL Irons</b> Price: <b>$1,428 - $1,099</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Irons</b> Price: <b>$599.99 - $699.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth Irons</b> Price: <b>$1,287 - $913</b>
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL Irons</b> Price: <b>$424.99</b>
+Brand: <b>PING</b> Title: <b>Men's 1530 Irons</b> Price: <b>$1,862 - $1,400</b>
+Brand: <b>Titleist</b> Title: <b>Men's Gen 2 T300 Golf Irons</b> Price: <b>$799.99</b>
+Brand: <b>PING</b> Title: <b>Men's i230 Irons</b> Price: <b>$875 - $1,599</b>
+Brand: <b>Srixon</b> Title: <b>Men's ZX5 Mk II Irons</b> Price: <b>$1,857.10 - $1,299</b>
+Brand: <b>Mizuno</b> Title: <b>Men's JPX 923 Hot Metal Pro Irons</b> Price: <b>$787.50</b>
+Brand: <b>Srixon</b> Title: <b>Men's ZX7 Mk II Irons</b> Price: <b>$1,142 - $1,199</b>
+Brand: <b>Srixon</b> Title: <b>Men's SRX ZX7 MK II Black Chrome Irons</b> Price: <b>$1,499</b>
+Brand: <b>Srixon</b> Title: <b>Men's SRX ZX5 MK II Black Chrome Irons</b> Price: <b>$1,499</b>
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi Combo Irons</b> Price: <b>$1,209 - $1,399</b>
+Brand: <b>Mizuno</b> Title: <b>Men's JPX 921 Forged Irons</b> Price: <b>$1,399</b>
+Brand: <b>Titleist</b> Title: <b>Men's 2023 T350 Irons</b> Price: <b>$1,285 - $1,499</b>
+Website: <b>TGW.com Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_2.txt:
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Irons (7 Iron Set)</b> Price: <b>$629.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Irons (7 Iron Set)</b> Price: <b>$369.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>6850S Irons (7 Iron Set)</b> Price: <b>$449.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>6850S Combo Irons (7 Club Set)</b> Price: <b>$499.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>MAX Combo Irons (8 Club Set)</b> Price: <b>$399.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (6 Iron Set)</b> Price: <b>$689.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>E725 Irons (7 Iron Set)</b> Price: <b>$799.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (6 Iron Set) Graphite</b> Price: <b>$779.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (6 Iron Set)</b> Price: <b>$770.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (7 Iron Set)</b> Price: <b>$899.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (6 Iron Set) Graphite</b> Price: <b>$856.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>X725 Irons (7 Iron Set) Graphite</b> Price: <b>$899.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (8 Iron Set) Graphite</b> Price: <b>$1,142.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (8 Iron Set)</b> Price: <b>$1,028.99</b>
+Brand: <b>Tour Edge Exotics</b> Title: <b>C725 Irons (7 Iron Set) Graphite</b> Price: <b>$999.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron (7 Iron Set) Graphite</b> Price: <b>$389.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Combo Irons (7 Club Set) Graphite</b> Price: <b>$449.99</b>
+Brand: <b>Tour Edge Golf</b> Title: <b>Hot Launch E522 Iron-Woods (7 Iron Set) Graphite</b> Price: <b>$499.99</b>
+Brand: <b>Wilson Golf</b> Title: <b>Staff D9 Irons (7 Iron Set)</b> Price: <b>$479.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (5 Iron Set) Graphite</b> Price: <b>$1,000.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (5 Iron Set) Graphite</b> Price: <b>$1,000.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (6 Iron Set) Graphite</b> Price: <b>$1,200.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (7 Iron Set) Graphite</b> Price: <b>$1,400.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (7 Iron Set) Graphite</b> Price: <b>$1,400.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai200 Irons (6 Iron Set) Graphite</b> Price: <b>$1,200.00</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Iron [6 Iron Set]</b> Price: <b>$590.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Apex Ai300 Irons (8 Iron Set)</b> Price: <b>$1,600.00</b>
+Website: <b>Rock Bottom Golf Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_3.txt:
+Brand: <b>Cobra</b> Title: <b>RADSpeed One Length</b> Price: <b>$499.99</b>
+Brand: <b>Mizuno</b> Title: <b>JPX 919 Forged</b> Price: <b>$384.99 - $564.99</b>
+Brand: <b>Mizuno</b> Title: <b>JPX-850 Forged</b> Price: <b>$1,399.00</b>
+Brand: <b>Mizuno</b> Title: <b>Pro 223</b> Price: <b>$1,200.00</b>
+Brand: <b>Ping</b> Title: <b>G30</b> Price: <b>$404.99 - $494.99</b>
+Brand: <b>Ping</b> Title: <b>G700</b> Price: <b>$554.99 - $899.99</b>
+Brand: <b>Titleist</b> Title: <b>620 CB</b> Price: <b>$541.49 - $769.49</b>
+Brand: <b>Titleist</b> Title: <b>718 AP2</b> Price: <b>$480.00</b>
+Brand: <b>Titleist</b> Title: <b>718 AP3</b> Price: <b>$329.99 - $749.99</b>
+Brand: <b>TaylorMade</b> Title: <b>M4 2018</b> Price: <b>$301.74 - $420.74</b>
+Brand: <b>TaylorMade</b> Title: <b>M5</b> Price: <b>$726.74 - $1,082.99</b>
+Brand: <b>TaylorMade</b> Title: <b>P770</b> Price: <b>$859.99</b>
+Brand: <b>TaylorMade</b> Title: <b>RocketBladez</b> Price: <b>$220.99</b>
+Brand: <b>Callaway</b> Title: <b>Rogue X</b> Price: <b>$239.99 - $479.99</b>
+Brand: <b>Callaway</b> Title: <b>Big Bertha B21 Combo</b> Price: <b>$509.99</b>
+Website: <b>GlobalGolf Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_4.txt:
+Brand: <b>CALLAWAY</b> Title: <b>Apex TCB 2024 Irons w/ Steel Shafts</b> Price: <b>$1504.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal Pro Irons w/ Graphite Shafts</b> Price: <b>$1049.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ti Fusion Irons w/ Steel Shafts</b> Price: <b>$2099.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ai200 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ai300 Irons w/ Graphite Shafts</b> Price: <b>$1199.99 - $1399.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>P«7CB 2024 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Irons w/ Graphite Shafts</b> Price: <b>$1049.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ai300 Irons w/ Steel Shafts</b> Price: <b>$1399.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Apex Ai200 Irons w/ Graphite Shafts</b> Price: <b>$1399.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC X 2024 ONE Length Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING CB Black Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC X 2024 Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Irons w/ Graphite Shafts</b> Price: <b>$649.99 - $899.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>JPX925 Hot Metal HL Combo Set w/ Graphite Shafts</b> Price: <b>$1049.99 - $1199.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics X725 Women's Irons w/ Graphite Shafts</b> Price: <b>$779.99 - $899.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC 2024 Irons w/ Steel Shafts</b> Price: <b>$1299.99</b>  
+
+Website: <b>PGA TOUR Superstore Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_5.txt:
+Brand: <b>Ping</b> Title: <b>Ping G430 Irons</b> Price: <b>From $771 To $1028</b>
+Brand: <b>Callaway</b> Title: <b>Callaway Paradym Ai Smoke Irons</b> Price: <b>From $714.3 To $1414.26</b>
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Customer Reviews</b> Price: <b>From $857.13 To $1224.99</b>
+Brand: <b>Cobra</b> Title: <b>Cobra King Forged TEC X Black Irons</b> Price: <b>From $599.99 To $699.99</b>
+Brand: <b>Titleist</b> Title: <b>Titleist 2021 T300 Irons</b> Price: <b>From $799.99 To $914.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade P790 Aged Copper Irons</b> Price: <b>$1499.99</b>
+Brand: <b>Ping</b> Title: <b>Ping G425 Irons</b> Price: <b>From $642.5 To $798</b>
+Brand: <b>Ping</b> Title: <b>Ping i525 Irons</b> Price: <b>From $771 To $899.5</b>
+Brand: <b>Callaway</b> Title: <b>Callaway MAVRIK Irons</b> Price: <b>$514.28</b>
+Brand: <b>Ping</b> Title: <b>Ping G730 Irons</b> Price: <b>From $912.5 To $1095</b>
+Brand: <b>Cleveland</b> Title: <b>Cleveland ZipCore XL Irons</b> Price: <b>From $714.25 To $1157.13</b>
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Pro Irons</b> Price: <b>From $1049.95 To $1199.95</b>
+Brand: <b>Mizuno</b> Title: <b>Mizuno JPX925 Hot Metal Irons</b> Price: <b>From $1049.95 To $1199.95</b>
+Brand: <b>Cleveland</b> Title: <b>Cleveland Halo XL Full-Face Irons</b> Price: <b>From $714.25 To $1285.65</b>
+Brand: <b>Cleveland</b> Title: <b>Cleveland Launcher XL Halo Irons</b> Price: <b>From $449.99 To $499.99</b>
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade Stealth Irons</b> Price: <b>From $685.71 To $914.27</b>
+Brand: <b>Cobra</b> Title: <b>Cobra King MIM Tour Irons</b> Price: <b>$599</b>
+Brand: <b>TaylorMade</b> Title: <b>TaylorMade SIM2 Max Irons</b> Price: <b>From $599.99 To $699.99</b>
+Brand: <b>XXIO</b> Title: <b>XXIO 13 Irons</b> Price: <b>From $1099.99 To $1539.99</b>
+Brand: <b>Cleveland</b> Title: <b>Cleveland Launcher UHX Irons</b> Price: <b>$299.99</b>
+Website: <b>GolfDiscount.com Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_6.txt:
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Irons</b> Price: <b>$799.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Irons 2024</b> Price: <b>$1,299.00 - $599.99 - $699.99</b>  
+Brand: <b>Titleist</b> Title: <b>T300 Irons</b> Price: <b>$999.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Irons</b> Price: <b>$799.99</b>  
+Brand: <b>PING</b> Title: <b>G425 Irons</b> Price: <b>$599.25</b>  
+Brand: <b>Titleist</b> Title: <b>T350 Irons 2024</b> Price: <b>$1,199.16</b>  
+Brand: <b>Tour Edge</b> Title: <b>---</b> Price: <b>$399.99 - $499.99</b>  
+Brand: <b>COBRA</b> Title: <b>3D Printed LIMIT3D Irons 2024</b> Price: <b>$3,000.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>P790 Aged Copper Irons 2024</b> Price: <b>$1,499.99</b>  
+Brand: <b>Bettinardi</b> Title: <b>MB24 Irons</b> Price: <b>$1,599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200 Irons 2024</b> Price: <b>$1,200.00 - $1,200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300 Irons</b> Price: <b>$1,600.00 - $1,600.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons</b> Price: <b>$1,505.00 - $1,505.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex MB 24 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Pro 24 Irons</b> Price: <b>$1,720.00 - $1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2024</b> Price: <b>$1,800.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Irons</b> Price: <b>$768.00 - $1,200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha</b> Price: <b>$2,250.00 - $2,400.00</b>  
+Brand: <b>Mizuno</b> Title: <b>JPX 925 Hot Metal Pro Irons 2024</b> Price: <b>$771.00 - $1,142.00</b>  
+Brand: <b>Mizuno</b> Title: <b>JPX 925 Hot Metal Irons 2024</b> Price: <b>$750.00 - $1,199.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC X Irons</b> Price: <b>$900.00 - $1,199.99</b>  
+Brand: <b>COBRA</b> Title: <b>KING TEC Irons 2025</b> Price: <b>$857.13 - $1,257.13</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2024</b> Price: <b>$857.13 - $1,257.13</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Irons</b> Price: <b>$685.68 - $514.28 - $699.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Black Irons 2024</b> Price: <b>$1,099.99 - $1,257.14</b>  
+Website: <b>Carl's Golfland Iron</b>
+
+Result from ../../../web-src-scraping/clubs/irons/club_irons_7.txt:
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Irons</b> Price: <b>$799.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi Irons 2024</b> Price: <b>$857.13 - $1,257.13</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Irons 2024</b> Price: <b>$599.99 - $699.99</b>  
+Brand: <b>Titleist</b> Title: <b>T300 Irons - ON SALE</b> Price: <b>$999.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Irons</b> Price: <b>$799.99</b>  
+Brand: <b>PING</b> Title: <b>G425 Irons</b> Price: <b>$799.25</b>  
+Brand: <b>Titleist</b> Title: <b>T350 Irons 2024</b> Price: <b>$1,199.16</b>  
+Brand: <b>COBRA</b> Title: <b>3D Printed LIMIT3D Irons 2024</b> Price: <b>$3,000.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>P790 Aged Copper Irons 2024</b> Price: <b>$1,499.99</b>  
+Brand: <b>Bettinardi</b> Title: <b>MB24 Irons</b> Price: <b>$1,599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex 21 Irons - ON SALE</b> Price: <b>$1,200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200 Irons 2024</b> Price: <b>$1,600.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300 Irons 2024</b> Price: <b>$1,600.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex CB 24 Irons - ON SALE</b> Price: <b>$1,505.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex MB 24 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Pro 24 Irons</b> Price: <b>$1,720.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ti Fusion Irons 2024</b> Price: <b>$1,800.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Irons - ON SALE</b> Price: <b>$768.00 - $1,200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Irons</b> Price: <b>$2,250.00 - $2,400.00</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Irons - ON SALE</b> Price: <b>$685.68</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Black Irons 2024</b> Price: <b>$1,099.99</b>  
+
+Website: <b>Carl's Golfland Iron</b>
+
+
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_1.txt:
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron 2024 Phantom 7 Putter</b> Price: <b>$4490</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Phantom X 5.5 Putter</b> Price: <b>$4299</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Special Select Newport 2 Putter</b> Price: <b>$3999</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Special Select Flowback 5.5 Putter</b> Price: <b>$3999</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron 2024 Phantom 11.5 Putter</b> Price: <b>$449</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron 2024 Phantom 7.5 Putter</b> Price: <b>$44900</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider Tour X Slant Neck Putter</b> Price: <b>$34999</b>
+Brand: <b>PING</b> Title: <b>2024 Fetch Putter</b> Price: <b>$1990</b>
+Brand: <b>PING</b> Title: <b>2023 DS72 C Putter</b> Price: <b>$19900</b>
+Brand: <b>Odyssey</b> Title: <b>2023 White Hot Versa Seven DB Putter</b> Price: <b>$2299</b>
+Brand: <b>PING</b> Title: <b>2024 B60 Putter</b> Price: <b>$1990</b>
+Brand: <b>PING</b> Title: <b>2024 Anser D Putter</b> Price: <b>$1990</b>
+Brand: <b>Odyssey</b> Title: <b>Ai-One Milled #11 Double Bend Putter</b> Price: <b>$4499</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron 2024 Phantom 5 Putter</b> Price: <b>$4490</b>
+Brand: <b>PING</b> Title: <b>PLD Milled SE Anser 30 Putter</b> Price: <b>$449</b>
+Brand: <b>Titleist</b> Title: <b>2023 Super Select Newport 2.5 Plus Putter</b> Price: <b>$4490</b>
+Brand: <b>Bettinardi</b> Title: <b>2023 BB28 Armlock Putter</b> Price: <b>$4300</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Phantom X 5s Putter</b> Price: <b>$4299</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Phantom X 12.5 Putter</b> Price: <b>$42900</b>
+Brand: <b>Bettinardi</b> Title: <b>2024 Inovai 10.0 Series Plumbers Putter</b> Price: <b>$4000</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Special Select Del Mar Putter</b> Price: <b>$3999</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Special Select Squareback 2 Putter</b> Price: <b>$3999</b>
+Website: <b>TGW.com Putter</b>
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_2.txt:
+Brand: <b>Lynx</b> Title: <b>Predator Putter</b> Price: <b>$149.99</b>
+Brand: <b>Mizuno Golf</b> Title: <b>Mizuno Golf Putter</b> Price: <b>$99.99</b>
+Brand: <b>Ray Cook Golf</b> Title: <b>Silver Ray SR500 Center Shafted Putter</b> Price: <b>$59.99</b>
+Brand: <b>Ray Cook Golf</b> Title: <b>Silver Ray SR595 Putter</b> Price: <b>$59.99</b>
+Brand: <b>Ray Cook Golf</b> Title: <b>Silver Ray SR600 Putter</b> Price: <b>$49.99</b>
+Brand: <b>Orlimar Golf</b> Title: <b>F60 Putter</b> Price: <b>$49.99</b>
+Brand: <b>Orlimar Golf</b> Title: <b>F70 Putter</b> Price: <b>$49.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>Venom 3 Mallet Putter</b> Price: <b>$65.00</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>Venom 1 Blade Putter</b> Price: <b>$65.00</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One #1 Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One #2 Mini Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One #7 Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One #7 S Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One 2 Ball Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Double Wide Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Jailbird Mini Crank Hosel Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Rossie Double Bend Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Rossie S Putter</b> Price: <b>$299.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Cruiser Arm Lock #7 Putter</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Cruiser #7 Putter</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled Double Wide Putter</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #1T Crank Hosel Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #2T Crank Hosel Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #37 S Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #6T Double Bend Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #7T Double Bend Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #7T Crank Hosel Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #8T S Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Al One Milled #11T Double Bend Putter</b> Price: <b>$449.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Versa Twelve S Putter</b> Price: <b>$229.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Versa Twelve Double Bend Putter</b> Price: <b>$229.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>White Hot OG #2 Crank Hosel Putter</b> Price: <b>$199.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>White Hot OG 2-Ball Putter</b> Price: <b>$199.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>White Hot OG Double Wide DB Putter</b> Price: <b>$199.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Eleven Tour Lined S Putter</b> Price: <b>$249.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>2-Ball Ten Tour Lined S Stroke Lab Putter</b> Price: <b>$249.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>2-Ball Ten Black Stroke Lab Putter</b> Price: <b>$249.99</b>
+Brand: <b>Odyssey Golf</b> Title: <b>Ten S Black Stroke Lab Putter</b> Price: <b>$249.99</b>
+Website: <b>Rock Bottom Golf Putter</b>
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_3.txt:
+Brand: <b>TaylorMade</b> Title: <b>TRUSS TB1 Heel</b> Price: <b>$157.24</b>
+Brand: <b>Odyssey</b> Title: <b>Tri-Hot 5K Double Wide 22</b> Price: <b>$218.49</b>
+Brand: <b>TaylorMade</b> Title: <b>TP HYDROBLAST</b> Price: <b>$169.99</b>
+Brand: <b>Cobra</b> Title: <b>King 3D Grandsport 35</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Silver SB</b> Price: <b>$199.99</b>
+Brand: <b>Cobra</b> Title: <b>King Vintage Cuda</b> Price: <b>$149.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Silver #3</b> Price: <b>$199.99</b>
+Brand: <b>Cobra</b> Title: <b>King 3D Supernova Black</b> Price: <b>$349.00</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Rollback Silver #3</b> Price: <b>$199.99</b>
+Brand: <b>Odyssey</b> Title: <b>White Hot OG Double Wide DB</b> Price: <b>$179.99</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Super Select GOLO 6.5</b> Price: <b>$449.00</b>
+Brand: <b>Cobra</b> Title: <b>King 3D Grandsport 35 Black</b> Price: <b>$349.00</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GTX Black SB</b> Price: <b>$199.99</b>
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Super Select Fastback 1.5</b> Price: <b>$449.00</b>
+Brand: <b>Ping</b> Title: <b>2023 Tomcat 14 Mallet</b> Price: <b>$199.00 - $229.00</b>
+Brand: <b>Cobra</b> Title: <b>King 3D Supernova 30</b> Price: <b>$199.99</b>
+Brand: <b>Odyssey</b> Title: <b>White Hot OG 7DB</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Rollback Silver/Black</b> Price: <b>$179.99</b>
+Brand: <b>Ping</b> Title: <b>2021 Harwood Mallet</b> Price: <b>$249.99 - $269.99</b>
+Brand: <b>Odyssey</b> Title: <b>Ten 2-Ball Red Stroke Lab</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Spider GTX Red #3</b> Price: <b>$152.99</b>
+Website: <b>GlobalGolf Putter</b>
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_4.txt:
+Brand: <b>PING</b> Title: <b>Prodi G Tyne H Putter</b> Price: <b>$119.99</b>  
+Brand: <b>PING</b> Title: <b>Prodi G Anser Putter</b> Price: <b>$119.99</b>  
+Brand: <b>LAB GOLF</b> Title: <b>DF3 Custom Broomstick Putter</b> Price: <b>$629.99</b>  
+Brand: <b>LAB GOLF</b> Title: <b>DF3 Custom Counter Balance Putter</b> Price: <b>$619.99</b>  
+Brand: <b>LAB GOLF</b> Title: <b>MEZZ1MAX Custom Counter Balance Putter</b> Price: <b>$629.99</b>  
+Brand: <b>EVNROLL</b> Title: <b>Neo Classic ER8 38 Tour Spec Putter</b> Price: <b>$399.99</b>  
+Brand: <b>LAB GOLF</b> Title: <b>DF3 Custom Armlock Putter</b> Price: <b>$399.99</b>  
+Brand: <b>EVNROLL</b> Title: <b>22s Putter</b> Price: <b>$449.99</b>  
+Brand: <b>EVNROLL</b> Title: <b>Neo Classic ER538 Tour Spec Putter</b> Price: <b>$449.99</b>  
+Brand: <b>EVNROLL</b> Title: <b>Z1 Tour Spec Putter</b> Price: <b>$449.99</b>  
+Brand: <b>EVNROLL</b> Title: <b>71 Putter</b> Price: <b>$399.99</b>  
+Brand: <b>PING</b> Title: <b>2024 Tyne H Putter</b> Price: <b>$199.98</b>  
+Brand: <b>PING</b> Title: <b>2024 Anser D Putter</b> Price: <b>$199.98</b>  
+Brand: <b>BETTINARDI</b> Title: <b>Queen B 6 Putter</b> Price: <b>$349.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Spider Tour X #3 Putter</b> Price: <b>$429.99</b>  
+Brand: <b>PING</b> Title: <b>2024 Anser 2 Putter</b> Price: <b>$199.98</b>  
+Brand: <b>TITLEIST</b> Title: <b>Scotty Cameron 2024 Phantom 75 Putter</b> Price: <b>$449.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Scotty Cameron 2024 Phantom 5.5 Putter</b> Price: <b>$449.99</b>  
+Brand: <b>ODYSSEY</b> Title: <b>M CRAFT Type IV Blue Ion Putter</b> Price: <b>$299.99</b>  
+Website: <b>PGA TOUR Superstore Putter</b>
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_5.txt:
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Rollback Silver/Black Single Bend Putter</b> Price: <b>$299.99</b>  
+Brand: <b>Odyssey</b> Title: <b>Women's DFX #7 Putter</b> Price: <b>$159.99</b>  
+Brand: <b>Ping</b> Title: <b>PLD Milled SE DS72 Hovland Edition Putter</b> Price: <b>$449</b>  
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Rollback Silver/Black Putter</b> Price: <b>$299.99</b>  
+Brand: <b>Ping</b> Title: <b>2024 Anser 2 Putter</b> Price: <b>$227</b>  
+Brand: <b>Odyssey</b> Title: <b>DFX #1 Putter</b> Price: <b>$197</b>  
+Brand: <b>Tour Edge</b> Title: <b>HP Series Counter-Balanced CBAL-2 Putter</b> Price: <b>$99.99</b>  
+Brand: <b>Ping</b> Title: <b>DS72 C Putter</b> Price: <b>$197</b>  
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron 83 Triple Black Design LTD Newport 2 Putter</b> Price: <b>$750</b>  
+Brand: <b>Ping</b> Title: <b>Tomcat 14 Counter Balance Putter</b> Price: <b>$197</b>  
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite RHO Single Bend Putter</b> Price: <b>$149.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite 8.0 Putter</b> Price: <b>$149.99</b>  
+Brand: <b>Titleist</b> Title: <b>Scotty Cameron Special Select Newport 2.5 Putter</b> Price: <b>$399</b>  
+Brand: <b>Ping</b> Title: <b>2024 Anser D Putter</b> Price: <b>$197</b>  
+Brand: <b>Cleveland</b> Title: <b>HB Soft 2 #8C Putter</b> Price: <b>$149.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite Elevado Slant Neck Putter</b> Price: <b>$149.99</b>  
+Brand: <b>Ping</b> Title: <b>Anser Putter</b> Price: <b>$197</b>  
+Brand: <b>TaylorMade</b> Title: <b>Spider GT Rollback Silver Putter</b> Price: <b>$159.99</b>  
+Website: <b>golfdiscount.com Putter</b>  
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_6.txt:
+Brand: <b>Never Compromise</b> Title: <b>Phantom 5.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 7.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 7 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Newport 2 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Fastback 1.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select GOLO 6.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select GOLO 6 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Del Mar Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>A-ONE Cruiser Jailbird Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>Ai-ONE Cruiser Arm Lock Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>Ai-ONE Cruiser #7 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Odyssey</b> Title: <b>AONE #1 CH Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>DFX #1 Putter</b> Price: <b>$339.99</b>
+Brand: <b>Odyssey</b> Title: <b>DFX 2-Ball Putter</b> Price: <b>$277.00</b>
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite Elevado Slant Neck Putter</b> Price: <b>$197.00</b>
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite RHO Single Bend Putter</b> Price: <b>$149.99</b>
+Brand: <b>PING</b> Title: <b>2024 Ketsch G Putter</b> Price: <b>$249.99</b>
+Brand: <b>PING</b> Title: <b>2024 Fetch Putter</b> Price: <b>$227.00</b>
+Brand: <b>PING</b> Title: <b>2024 Tyne H Putter</b> Price: <b>$197.00</b>
+Brand: <b>PING</b> Title: <b>2024 Anser 2 Putter</b> Price: <b>$227.00</b>
+Brand: <b>PING</b> Title: <b>2024 Anser D Putter</b> Price: <b>$197.00</b>
+Brand: <b>Bettinardi</b> Title: <b>BB1 Putter 2024 - Jumbo Grip</b> Price: <b>$449.99</b>
+Brand: <b>Bettinardi</b> Title: <b>BB1 Putter 2024 - Standard Grip</b> Price: <b>$449.99</b>
+Website: <b>Carl's Golfland Putter</b>
+
+Result from ../../../web-src-scraping/clubs/putters/club_putters_7.txt:
+Brand: <b>Never Compromise</b> Title: <b>Phantom 5.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 7.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Never Compromise</b> Title: <b>Phantom 7 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Newport 2 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Fastback 1.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select GOLO 6.5 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select GOLO 6 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Scotty Cameron</b> Title: <b>Super Select Del Mar Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>A-ONE Cruiser Jailbird Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>Ai-ONE Cruiser #7 Arm Lock Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>Ai-ONE Cruiser #7 Putter 2024</b> Price: <b>$449.00</b>
+Brand: <b>Odyssey</b> Title: <b>AONE #1 CH Putter 2024</b> Price: <b>$349.99</b>
+Brand: <b>Odyssey</b> Title: <b>DFX #1 Putter - Oversize Grip 2024</b> Price: <b>$339.99</b>
+Brand: <b>Odyssey</b> Title: <b>DFX 2-Ball Putter - Pistol Grip</b> Price: <b>$277.00</b>
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite Elevado Slant Neck Putter</b> Price: <b>$197.00</b>
+Brand: <b>Cleveland</b> Title: <b>Frontline Elite RHO Single Bend Putter</b> Price: <b>$149.99</b>
+Brand: <b>PING</b> Title: <b>2024 Ketsch G Putter</b> Price: <b>$249.99</b>
+Brand: <b>PING</b> Title: <b>2024 Fetch Putter</b> Price: <b>$227.00</b>
+Brand: <b>PING</b> Title: <b>2024 Tyne H Putter</b> Price: <b>$197.00</b>
+Brand: <b>PING</b> Title: <b>2024 Anser 2 Putter</b> Price: <b>$227.00</b>
+Brand: <b>PING</b> Title: <b>2024 Anser D Putter</b> Price: <b>$197.00</b>
+Brand: <b>Bettinardi</b> Title: <b>BB1 Putter 2024 - Jumbo Grip</b> Price: <b>$449.99</b>
+Brand: <b>Bettinardi</b> Title: <b>BB1 Putter 2024 - Standard Grip</b> Price: <b>$449.99</b>
+Website: <b>Carl's Golfland Putter</b>
+
+
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_1.txt:
+Brand: <b>Titleist</b> Title: <b>SM10 Tour Chrome Wedge</b> Price: <b>$189.00 - $199.00</b>  
+Brand: <b>PING</b> Title: <b>Chrome Wedge</b> Price: <b>$179.99 - $195.00</b>  
+Brand: <b>PING</b> Title: <b>Midnight Wedge</b> Price: <b>$179.99 - $195.00</b>  
+Brand: <b>Titleist</b> Title: <b>SM10 Brushed Nickel Wedge</b> Price: <b>$189.00</b>  
+Brand: <b>Titleist</b> Title: <b>SM9 Tour Chrome Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>PING</b> Title: <b>Men's Glide 4.0 Eye2 Wedge</b> Price: <b>$129.00</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX4 Zipcore Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>Titleist</b> Title: <b>SM9 Jet Black Wedge</b> Price: <b>$129.00</b>  
+Brand: <b>Titleist</b> Title: <b>SM10 Jet Black Wedge</b> Price: <b>$189.90</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 3 Satin RAW Chrome Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's RTX Zipcore Tour Satin Wedge</b> Price: <b>$99.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 4 Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's CBX Full-Face Tour Satin Wedge</b> Price: <b>$169.99</b>  
+Brand: <b>Titleist</b> Title: <b>SMO Brushed Steel Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 4 Tiger Grind Wedge</b> Price: <b>$129.00</b>  
+Brand: <b>PING</b> Title: <b>Men's Glide 4.0 Wedge</b> Price: <b>$129.00</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's RTX 6 Zipcore Tour Rack Wedge</b> Price: <b>$189.99</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's CBX Zipcore Tour Satin Wedge</b> Price: <b>$119.99 - $129.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Milled Grind 4 Black Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Black Wedge</b> Price: <b>$179.99</b>  
+
+Website: <b>TGW.com Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_2.txt:
+Brand: <b>Alien Golf</b> Title: <b>Roswell Wedge</b> Price: <b>$69.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Brushed Steel Wedge</b> Price: <b>$149.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Brushed Steel T Grind Wedge</b> Price: <b>$149.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Jet Black Wedge</b> Price: <b>$149.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Jet Black T Grind Wedge</b> Price: <b>$149.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM9 Tour Chrome Wedge</b> Price: <b>$149.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM10 Tour Chrome Wedge</b> Price: <b>$189.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM10 Jet Black Wedge</b> Price: <b>$189.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>Vokey SM10 Nickel Wedge</b> Price: <b>$189.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Milled Grind 3 Black Wedge</b> Price: <b>$179.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Milled Grind 3 Graphite Wedge</b> Price: <b>$139.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Milled Grind 3 Satin Chrome Wedge</b> Price: <b>$139.99</b>
+Brand: <b>Ray Cook Golf</b> Title: <b>Blue Goose Satin Nickel Chrome Black Wedge</b> Price: <b>$49.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>JAWS RAW Black Wedge</b> Price: <b>$149.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>JAWS RAW Full Face Chrome Wedge</b> Price: <b>$149.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Opus Black Wedge</b> Price: <b>$179.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Opus Brushed Chrome Wedge</b> Price: <b>$179.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Opus Platinum Blue Wedge</b> Price: <b>$229.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Opus Platinum Chrome Wedge</b> Price: <b>$229.99</b>
+Brand: <b>Cleveland Golf</b> Title: <b>CBX4 Zipcore Tour Satin Wedge</b> Price: <b>$169.99</b>
+Brand: <b>Cleveland Golf</b> Title: <b>RTX-6 Zipcore Tour Rack Raw Wedge</b> Price: <b>$169.99</b>
+Brand: <b>Cleveland Golf</b> Title: <b>RTX Full-Face 2 Tour Rack Raw Wedge</b> Price: <b>$179.99</b>
+Brand: <b>Cleveland Golf</b> Title: <b>RTX Full-Face 2 Tour Satin Wedge</b> Price: <b>$179.99</b>
+Brand: <b>Ray Cook Golf</b> Title: <b>M1 Graphite Wedge</b> Price: <b>$49.99</b>
+Website: <b>Rock Bottom Golf Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_3.txt:
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Tour Satin Mid</b> Price: <b>$119.99</b>
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Satin</b> Price: <b>$129.99</b>
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore Satin</b> Price: <b>$69.99</b>
+Brand: <b>Ping</b> Title: <b>Glide 4.0 S</b> Price: <b>$149.99</b>
+Brand: <b>Ping</b> Title: <b>Glide 3.0 SS</b> Price: <b>$69.99 - $99.99</b>
+Brand: <b>Ping</b> Title: <b>Glide Forged Pro S Grind</b> Price: <b>$69.99 - $89.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM8 Tour Chrome F Grind</b> Price: <b>$109.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM7 Tour Chrome F Grind</b> Price: <b>$149.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM8 Tour Chrome $ Grind</b> Price: <b>$149.00 - $179.00</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM8 Tour Chrome D Grind</b> Price: <b>$109.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM7 Tour Chrome $ Grind</b> Price: <b>$109.00 - $109.99</b>
+Brand: <b>Callaway</b> Title: <b>JAWS Full Toe Chrome</b> Price: <b>$99.99</b>
+Brand: <b>Callaway</b> Title: <b>JAWS Full Toe Black</b> Price: <b>$99.99</b>
+Brand: <b>Callaway</b> Title: <b>MD5 JAWS Chrome W Grind</b> Price: <b>$99.99 - $109.99</b>
+Brand: <b>TaylorMade</b> Title: <b>MG3 Chrome LB</b> Price: <b>$149.99</b>
+Brand: <b>TaylorMade</b> Title: <b>MG3 Chrome HB</b> Price: <b>$149.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH</b> Price: <b>$169.99</b>
+Brand: <b>Cleveland</b> Title: <b>RTX 6 ZipCore Tour Satin</b> Price: <b>$85.49 - $104.49</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM7 Tour Chrome M Grind</b> Price: <b>$99.99 - $109.99</b>
+Brand: <b>Cleveland</b> Title: <b>CBX Full Face</b> Price: <b>$74.99</b>
+Brand: <b>Cleveland</b> Title: <b>RTX Full Face ZipCore Tour Satin</b> Price: <b>$69.99 - $89.99</b>
+Website: <b>GlobalGolf.com Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_4.txt:
+Brand: <b>TAYLORMADE</b> Title: <b>Hi-Toe 4 Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Chrome Wedge w/ Steel Shaft</b> Price: <b>$229.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Platinum Blue Wedge w/ Steel Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Black Wedge w/ Steel Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Black Wedge w/ Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Platinum Blue Wedge w/ Graphite Shaft</b> Price: <b>$229.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Chrome Wedge w/ Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Chrome Women's Wedge w/ Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Opus Platinum Chrome Wedge w/ Steel Shaft</b> Price: <b>$229.99</b>  
+Brand: <b>PING</b> Title: <b>Prodi G Wedge</b> Price: <b>$109.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>JAWS Raw Black Wedge w/ Steel Shaft</b> Price: <b>$189.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>Vokey SM10 Jet Black Wedge</b> Price: <b>$189.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>T24 Soft White Satin Wedge</b> Price: <b>$120.98</b>  
+Brand: <b>TITLEIST</b> Title: <b>Vokey SM0 Nickel Wedge</b> Price: <b>$379.99</b>  
+Brand: <b>MIZUNO</b> Title: <b>T24 Denim Copper Wedge</b> Price: <b>$129.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Hi-Toe 3 Chrome Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>PING</b> Title: <b>S159 Chrome Wedge w/ Steel Shafts</b> Price: <b>$139.98</b>  
+Brand: <b>WILSON</b> Title: <b>Staff Model Wedge</b> Price: <b>$99.98</b>  
+Brand: <b>BETTINARDI</b> Title: <b>HLX 5.0 Forged Graphite PVD Wedge</b> Price: <b>$149.98</b>  
+Brand: <b>CALLAWAY</b> Title: <b>JAWS MD5 2022 Chrome Wedge</b> Price: <b>$219.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Milled Grind 4 Chrome Wedge</b> Price: <b>$179.99</b>  
+Brand: <b>BETTINARDI</b> Title: <b>HLX 5.0 Forged Chrome Wedge</b> Price: <b>$149.98</b>  
+Website: <b>PGA TOUR Superstore Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_5.txt:
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Tour Satin Wedge</b> Price: <b>$99.99</b>
+Brand: <b>Cleveland</b> Title: <b>RTX ZipCore Black Satin Wedge</b> Price: <b>$99.99</b>
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore Wedge</b> Price: <b>From $119.99 To $129.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Nickel Wedge</b> Price: <b>From $189 To $199</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Tour Chrome Wedge</b> Price: <b>$189</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM10 Jet Black Wedge</b> Price: <b>$189</b>
+Brand: <b>Ping</b> Title: <b>G430 Wedge</b> Price: <b>$127</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Tour Chrome Wedge</b> Price: <b>From $149 To $159</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM9 Brushed Steel Wedge</b> Price: <b>$139.99</b>
+Brand: <b>Cleveland</b> Title: <b>Smart Sole 4 G Wedge</b> Price: <b>$69.99</b>
+Brand: <b>Mizuno</b> Title: <b>523 Copper Cobalt Wedge</b> Price: <b>$99.95</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SMO Jet Black Wedge</b> Price: <b>$149</b>
+Brand: <b>Mizuno</b> Title: <b>$23 Satin Chrome Wedge</b> Price: <b>$99.95</b>
+Brand: <b>Cleveland</b> Title: <b>Smart Sole 4 Black Satin G Wedge</b> Price: <b>$79.99</b>
+Brand: <b>Titleist</b> Title: <b>Vokey SM8 Tour Chrome Wedge</b> Price: <b>$119.99</b>
+Brand: <b>Odyssey</b> Title: <b>X-Act Chipper</b> Price: <b>$129.99</b>
+Brand: <b>Mizuno</b> Title: <b>T24 Blue Ion Wedge</b> Price: <b>$129.95</b>
+Brand: <b>Mizuno</b> Title: <b>T24 Denim Copper Wedge</b> Price: <b>$129.95</b>
+Website: <b>GolfDiscount.com Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_6.txt:
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM9</b> Price: <b>$159.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM9</b> Price: <b>$99.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>Wedges</b> Price: <b>$179.00, $149.00, $479.00, $149.00, $159.99, $99.99</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Wedges</b> Price: <b>$159.99</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore</b> Price: <b>$99.95</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Wedges - Satin</b> Price: <b>$159.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM10</b> Price: <b>$189.00, $119.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM10 Wedges 2024 - Jet Black</b> Price: <b>$189.00</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM10 Wedges 2024 - Nickel Chrome</b> Price: <b>$189.00</b>  
+Brand: <b>PING</b> Title: <b>5159 Hydropearl Wedges 2024</b> Price: <b>$177.00</b>  
+Brand: <b>PING</b> Title: <b>5159 Midnight Wedges 2024</b> Price: <b>$177.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200 Wedges 2024</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300 Wedges 2024</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23</b> Price: <b>$167.00</b>  
+Brand: <b>Callaway</b> Title: <b>CB Wedges 2024</b> Price: <b>$127.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Face Chrome Wedges - Steel Shaft</b> Price: <b>$479.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Full Toe Wedges - Graphite Shaft</b> Price: <b>$139.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Full Toe Wedges - Steel Shaft</b> Price: <b>$139.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Black Shadow Wedges 2024 - Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Brushed Chrome Wedges 2024</b> Price: <b>$229.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Brushed Chrome Wedges 2024 - Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Platinum Blue Wedges 2024</b> Price: <b>$229.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Raw Wedges 2024</b> Price: <b>$204.99</b>  
+Website: <b>Carl's Golfland Wedge</b>
+
+Result from ../../../web-src-scraping/clubs/wedges/club_wedges_7.txt:
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM9 Spin Milled Wedges - Tour Chrome</b> Price: <b>$159.99</b>  
+Brand: <b>Titleist</b> Title: <b>Vokey Design SM9 Spin Milled Wedges - Jet Black</b> Price: <b>$99.99</b>  
+Brand: <b>Tour Edge</b> Title: <b>ZipCore Wedges - Black Satin</b> Price: <b>$179.00</b>   
+Brand: <b>Tour Edge</b> Title: <b>ZipCore Wedges - Tour Satin</b> Price: <b>$149.00</b>  
+Brand: <b>Tour Edge</b> Title: <b>ZipCore Wedges - Tour Chrome</b> Price: <b>$479.00</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Wedges - Copper Cobalt</b> Price: <b>$159.99</b>  
+Brand: <b>Cleveland</b> Title: <b>CBX ZipCore Wedges - Satin</b> Price: <b>$99.95</b>  
+Brand: <b>Mizuno</b> Title: <b>523 Wedges - ON SALE</b> Price: <b>$159.99</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai200 Wedges 2024</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Apex Ai300 Wedges 2024</b> Price: <b>$200.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Wedges</b> Price: <b>$167.00</b>  
+Brand: <b>Callaway</b> Title: <b>CB Wedges 2024</b> Price: <b>$127.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Face Chrome Wedges - Steel Shaft</b> Price: <b>$479.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Full Toe Wedges - Graphite Shaft</b> Price: <b>$139.99</b>  
+Brand: <b>Callaway</b> Title: <b>JAWS Raw Full Toe Wedges - Steel Shaft</b> Price: <b>$479.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Black Shadow Wedges 2024 - Graphite Shaft</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Brushed Chrome Wedges 2024</b> Price: <b>$229.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Platinum Blue Wedges 2024</b> Price: <b>$179.99</b>  
+Brand: <b>Callaway</b> Title: <b>Opus Raw Wedges 2024</b> Price: <b>$204.99</b>  
+Website: <b>Carl's Golfland Wedge</b>
+
+
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_1.txt:
+Brand: <b>FootJoy</b> Title: <b>Mens WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$11.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Tour Preferred Golf Glove - Prior Generation</b> Price: <b>$24.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Tour Cabretta Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>NIKE</b> Title: <b>Men's Tech Extreme VII Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>NIKE</b> Title: <b>DuraFeel X 2-Pack Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Men's 2023 StaSof Golf Glove</b> Price: <b>$28.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Flex Golf Glove</b> Price: <b>$28.99</b>  
+Brand: <b>NIKE</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Tour Authentic Golf Glove</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2024 WeatherSof Golf Gloves</b> Price: <b>$12.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stratus Tech Golf Gloves 2-Pk</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Golf Glove</b> Price: <b>$37.95</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's StaSof Winter Golf Gloves</b> Price: <b>$49.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP Color Golf Gloves - Prior Generation</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's RainGrip Golf Gloves</b> Price: <b>$22.99</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Pur Tour Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>NIKE</b> Title: <b>Women's DuraFeel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Fusion Golf Glove</b> Price: <b>$16.00</b>  
+Brand: <b>Cobra</b> Title: <b>Women's Pur Tech Golf Glove</b> Price: <b>$9.99</b>  
+
+Website: <b>TGW.com Men's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_2.txt:
+Brand: <b>Etonic Golf</b> Title: <b>MRH Stabilizer FIT Glove</b> Price: <b>$22.95</b>  
+Brand: <b>FootJoy Golf</b> Title: <b>MRH WeatherSof Glove</b> Price: <b>$25.00</b>  
+Brand: <b>FootJoy Golf</b> Title: <b>MRH HyperFLX Glove</b> Price: <b>$25.00</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MRH Fusion Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MRH Weather Spann Glove (2-Pack)</b> Price: <b>$12.99</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>MRH Comp Glove</b> Price: <b>$11.00</b>  
+Brand: <b>Titleist Golf</b> Title: <b>MRH Perma-Soft Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>MRH Pur Tech Glove</b> Price: <b>$12.00</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MRH Dawn Patrol Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Nike Golf</b> Title: <b>MRH Tour Classic IV Glove</b> Price: <b>$14.99</b>  
+Brand: <b>Footjoy Golf</b> Title: <b>MRH SciFlex Glove</b> Price: <b>$22.95</b>  
+Website: <b>Rock Bottom Golf Men's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_3.txt:
+Brand: <b>Titleist</b> Title: <b>Titleist Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Callaway</b> Title: <b>PGA TOUR GLOVE</b> Price: <b>$23.99</b>  
+Brand: <b>Bionic</b> Title: <b>StableGrip 2.0 Men's Glove</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Mens PureTouch Golf Glove</b> Price: <b>$37.99</b>  
+Brand: <b>FootJoy</b> Title: <b>ReliefGrip 2.0 Men's Glove</b> Price: <b>$32.09</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Nike</b> Title: <b>Tech Extreme VII Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>FootJoy</b> Title: <b>HyperFLX Men's Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Nike</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$24.00</b>  
+Brand: <b>Ping</b> Title: <b>Sport Tech Golf Glove</b> Price: <b>$19.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>FootJoy</b> Title: <b>StaSof 2023 Mens Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>PGA TOUR</b> Title: <b>Men's Pro Series Leather Glove</b> Price: <b>$10.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Relaxgrip 2.0 Gloves</b> Price: <b>$17.99</b>  
+Website: <b>PGA TOUR Superstore Men's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_4.txt:
+Brand: <b>Footjoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Spectrum Golf Glove</b> Price: <b>$9.99</b>  
+Brand: <b>Nike</b> Title: <b>Dura Feel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Spectrum Camo Glove</b> Price: <b>$23.95</b>  
+Brand: <b>Ping</b> Title: <b>Tour Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Comp Golf Glove</b> Price: <b>$10.99</b>  
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Stasof Golf Glove</b> Price: <b>$26.95</b>  
+Brand: <b>Nike</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>Srixon</b> Title: <b>Cabretta Leather Golf Glove</b> Price: <b>$79.99</b>  
+Brand: <b>Nike</b> Title: <b>Jordan Tour Golf Glove</b> Price: <b>$34.99</b>  
+Brand: <b>Nike</b> Title: <b>Dura Feel X Golf Glove (2-Pack)</b> Price: <b>$22.99</b>  
+Brand: <b>Wilson Staff</b> Title: <b>Grip Soft Golf Glove</b> Price: <b>$10.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Pure Touch Limited Glove</b> Price: <b>$37.95</b>  
+Brand: <b>Callaway</b> Title: <b>Weather Spann Golf Glove</b> Price: <b>$29.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Elite Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Footjoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$12.95</b>  
+Brand: <b>Srixon</b> Title: <b>2021 All Weather Golf Glove (6-Pack)</b> Price: <b>$49.99</b>  
+Brand: <b>Zero Friction</b> Title: <b>Storm All Weather Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2021 Tour Preferred Golf Glove</b> Price: <b>$24.99</b>  
+Brand: <b>PIng</b> Title: <b>PLD Milled SE DS72 Hovland Edition Putter</b> Price: <b>$149.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Tour Rescue</b> Price: <b>$249.99</b>  
+
+Website: <b>golfdiscount.com Men's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_5.txt:
+Website: <b>GolfLand Men's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/men/gloves_left_men_6.txt:
+Please provide the text file or the content from the webpage that you would like me to analyze for golf products and their prices.
+
+
+
+Result from ../../../../web-src-scraping/gloves/left/women/gloves_left_women_1.txt:
+Brand: <b>FootJoy</b> Title: <b>Mens WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$11.95</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Perma Soft Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Women's WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$7.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Tour Preferred Golf Glove - Prior Generation</b> Price: <b>$24.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Tour Cabretta Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>NIKE</b> Title: <b>Men's Tech Extreme VII Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$16.99</b>  
+Brand: <b>NIKE</b> Title: <b>DuraFeel X 2-Pack Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Men's 2023 StaSof Golf Glove</b> Price: <b>$28.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Flex Golf Glove</b> Price: <b>$24.99</b>  
+Brand: <b>NIKE</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$17.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Tour Authentic Golf Glove 2pk</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2024 WeatherSof Golf Gloves</b> Price: <b>$12.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stratus Tech Golf Gloves 2-Pk</b> Price: <b>$21.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Golf Glove</b> Price: <b>$37.95</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's StaSof Winter Golf Gloves</b> Price: <b>$49.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP Color Golf Glove - Prior Generation</b> Price: <b>$29.99</b>  
+Brand: <b>NIKE</b> Title: <b>Women's DuraFeel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Fusion Golf Glove</b> Price: <b>$16.00</b>  
+Brand: <b>Cobra</b> Title: <b>Women's Pur Tech Golf Glove</b> Price: <b>$19.99</b>  
+
+Website: <b>TGW.com Women's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/women/gloves_left_women_2.txt:
+Brand: <b[Etonic Golf]</b> Title: <b[Prior Generation Ladies LRH Sport Glove (Closeout)]</b> Price: <b[$12.95]</b>  
+Brand: <b[FootJoy Golf]</b> Title: <b[Ladies LRH Stabilizer WeatherSof Glove]</b> Price: <b[$12.95]</b>  
+Brand: <b[FootJoy Golf]</b> Title: <b[Ladies LRH Stabilizer FAT]</b> Price: <b[$15.00]</b>  
+Brand: <b[Callaway Golf]</b> Title: <b[Ladies LRH WeatherSof Glove]</b> Price: <b[$19.99]</b>  
+Brand: <b[Callaway Golf]</b> Title: <b[Ladies LLH StaSof Glove]</b> Price: <b[$26.95]</b>  
+Brand: <b[Titleist Golf]</b> Title: <b[Ladies LRH Players Glove]</b> Price: <b[$25.99]</b>  
+Brand: <b[Titleist Golf]</b> Title: <b[Ladies LRH Perma-Soft Glove]</b> Price: <b[$21.99]</b>  
+
+Website: <b[Rock Bottom Golf]</b>
+
+Result from ../../../../web-src-scraping/gloves/left/women/gloves_left_women_3.txt:
+Brand: <b>Titleist</b> Title: <b>Womens Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Titleist</b> Title: <b>StaSof 2023 Women's Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>FootJoy</b> Title: <b>LadyClassic Women's Solar Glove</b> Price: <b>$18.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Women’s Pro Series Leather Glove</b> Price: <b>$19.99</b>  
+Brand: <b>Callaway</b> Title: <b>StaSof 2023 Women's Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Callaway</b> Title: <b>X Spann Women's Golf Glove</b> Price: <b>$10.99</b>  
+Brand: <b>GLOVEIT</b> Title: <b>Black Clear Dot Glove</b> Price: <b>$19.99</b>  
+Brand: <b>Callaway</b> Title: <b>Tour Authentic Women's Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Women's Golf Glove</b> Price: <b>$17.99</b>  
+Brand: <b>GLOVEIT</b> Title: <b>Coastal Prep Women's Golf Glove</b> Price: <b>$19.99</b>  
+Brand: <b>FootJoy</b> Title: <b>SofJoy Women's Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>FootJoy</b> Title: <b>StaSof 2023 Women's Golf Glove</b> Price: <b>$26.99</b>  
+Website: <b>PGA TOUR Superstore Women's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/women/gloves_left_women_4.txt:
+Brand: <b>Footjoy</b> Title: <b>Women's WeatherSof Golf Gloves</b> Price: <b>$22.95</b>  
+Brand: <b>Nike</b> Title: <b>Women's Dura Feel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Nike</b> Title: <b>Women's Tour Glove</b> Price: <b>$23.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Weather Spann Golf Glove</b> Price: <b>$29.99</b>  
+Brand: <b>Bionic</b> Title: <b>Women's StableGrip 2.0 Golf Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Srixon</b> Title: <b>Women's Cabretta Leather Golf Glove</b> Price: <b>$13.99</b>  
+Brand: <b>Pro Golf</b> Title: <b>Women's Cabretta Leather Golf Glove</b> Price: <b>$9.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Women's Elite Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Weather Spann Golf Gloves (6-Pack)</b> Price: <b>$49.99</b>  
+Brand: <b>Srixon</b> Title: <b>2021 Women's All Weather Golf Gloves (2-Pack)</b> Price: <b>$79.99</b>  
+Brand: <b>Titleist</b> Title: <b>Women's Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Women's Stratus Tech Golf Glove (6-Pack)</b> Price: <b>$11.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Women's WeatherSof Golf Gloves (2 Pack)</b> Price: <b>$30.00</b>  
+Website: <b>GolfDiscount.com Women's Left Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/left/women/gloves_left_women_5.txt:
+I'm sorry, but I need the text file or the specific content to analyze and extract the required information. Please provide the text you would like me to analyze.
+
+
+
+Result from ../../../../web-src-scraping/gloves/right/men/gloves_right_men_1.txt:
+Brand: <b>FootJoy</b> Title: <b>Mens WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$11.95</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Perma Soft Golf Glove</b> Price: <b>$9.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Women's WeatherSof Golf Glove</b> Price: <b>$4.49</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Tour Preferred Golf Glove - Prior Generation</b> Price: <b>$18.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Tour Cabretta Golf Glove</b> Price: <b>$8.24</b>  
+Brand: <b>NIKE</b> Title: <b>Men's Tech Extreme VII Golf Glove</b> Price: <b>$11.59</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$2.79</b>  
+Brand: <b>TGW</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$8.99</b>  
+Brand: <b>NIKE</b> Title: <b>DuraFeel X 2-Pack Golf Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Men's 2023 StaSof Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Flex Golf Glove</b> Price: <b>$24.79</b>  
+Brand: <b>NIKE</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$17.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Tour Authentic Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2024 WeatherSof Golf Gloves</b> Price: <b>$6.74</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stratus Tech Golf Gloves 2-Pk</b> Price: <b>$21.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Golf Glove</b> Price: <b>$37.95</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's StaSof Winter Golf Gloves</b> Price: <b>$49.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP Color Golf Glove</b> Price: <b>$22.80</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's RainGrip Golf Gloves - Prior Generation</b> Price: <b>$23.99</b>  
+Brand: <b>NIKE</b> Title: <b>Women's DuraFeel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Fusion Golf Glove</b> Price: <b>$16.00</b>  
+Brand: <b>Cobra</b> Title: <b>Women's Pur Tech Golf Glove</b> Price: <b>$8.99</b>  
+
+Website: <b>TGW.com Men's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/men/gloves_right_men_2.txt:
+Brand: <b>Callaway Golf</b> Title: <b>MLH Weather Spann Glove (2-Pack)</b> Price: <b>$16.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MLH Dawn Patrol Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Callaway Golf</b> Title: <b>MLH Fusion Spann Glove (2-Pack)</b> Price: <b>$22.99</b>  
+Brand: <b>Footjoy Golf</b> Title: <b>MLH StaSof Glove</b> Price: <b>$26.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>MLH Comp Glove</b> Price: <b>$9.00</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>MLH Elite Glove</b> Price: <b>$14.00</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>MLH Tour Glove</b> Price: <b>$19.00</b>  
+Brand: <b>Hirzl Golf</b> Title: <b>MLH Hybrid Glove</b> Price: <b>$14.97</b>  
+Brand: <b>Titleist Golf</b> Title: <b>MLH Players Flex Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>MLH Pur Tech Glove</b> Price: <b>$12.00</b>  
+Brand: <b>Wilson Golf</b> Title: <b>MLH Staff Grip Soft Glove</b> Price: <b>$7.00</b>  
+Brand: <b>Nike Golf</b> Title: <b>MLH Dura Feel X Glove (2 Pack)</b> Price: <b>$22.99</b>  
+Brand: <b>Nike Golf</b> Title: <b>MLH Tour Classic IV Glove</b> Price: <b>$23.99</b>  
+Brand: <b>Adams Golf</b> Title: <b>MLH AG23 Glove</b> Price: <b>$37.99</b>  
+Website: <b>Rock Bottom Golf Men's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/men/gloves_right_men_3.txt:
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft Golf Glove</b> Price: <b>$26.99</b>  
+Brand: <b>Titleist</b> Title: <b>Tour Authentic Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Bionic</b> Title: <b>StableGrip 2.0 Men's Glove</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pro Series Leather Glove</b> Price: <b>$10.99</b>  
+Brand: <b>FootJoy</b> Title: <b>HyperFLX Men's Glove</b> Price: <b>$21.99</b>  
+Brand: <b>FootJoy</b> Title: <b>WeatherSof 2023 Men's Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Glove</b> Price: <b>$37.99</b>  
+Brand: <b>Callaway</b> Title: <b>Zero Friction Men's Universal Fit Glove</b> Price: <b>$14.99</b>  
+Brand: <b>Callaway</b> Title: <b>Dawn Patrol Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Callaway</b> Title: <b>Fusion Men's Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>FootJoy</b> Title: <b>PGA TOUR GLOVE</b> Price: <b>$23.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pro Series Right-Handed Leather Glove</b> Price: <b>$17.99</b>  
+Brand: <b>FootJoy</b> Title: <b>SofJoy Men's Golf Glove</b> Price: <b>$10.99</b>  
+
+Website: <b>PGA TOUR Superstore Men's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/men/gloves_right_men_4.txt:
+Brand: <b>Footjoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Spectrum Golf Glove</b> Price: <b>$23.95</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Comp Golf Glove 2019</b> Price: <b>$10.99</b>  
+Brand: <b>Titleist</b> Title: <b>Players Golf Glove</b> Price: <b>$27.99</b>  
+Brand: <b>Nike</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$23.99</b>  
+Brand: <b>Srixon</b> Title: <b>Cabretta Leather Golf Glove (6-Pack)</b> Price: <b>$79.99</b>  
+Brand: <b>Nike</b> Title: <b>Dura Feel X Golf Glove (2-Pack)</b> Price: <b>$22.99</b>  
+Brand: <b>Srixon</b> Title: <b>Cabretta Leather Golf Glove</b> Price: <b>$16.99</b>  
+Brand: <b>Pro Golf</b> Title: <b>Cabretta Leather Golf Glove</b> Price: <b>$7.99</b>  
+Brand: <b>Pro Golf</b> Title: <b>Synthetic Golf Glove</b> Price: <b>$5.99</b>  
+Brand: <b>Footjoy</b> Title: <b>WeatherSof Golf Glove</b> Price: <b>$12.95</b>  
+Brand: <b>Srixon</b> Title: <b>2021 All Weather Golf Glove (6-Pack)</b> Price: <b>$49.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>2021 Tour Preferred Golf Glove White</b> Price: <b>$21.99</b>  
+Brand: <b>Ping</b> Title: <b>PLD Milled SE DS72 Hovland Edition Putter</b> Price: <b>$447.00</b>  
+Brand: <b>Ping</b> Title: <b>i530 Single Iron</b> Price: <b>$149.99</b>  
+Brand: <b>Bettinardi</b> Title: <b>BB48 Putter</b> Price: <b>$449.99</b>  
+Brand: <b>Wilson Staff</b> Title: <b>Model ZM Wedge</b> Price: <b>$149.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Tour Rescue</b> Price: <b>$249.99</b>  
+Website: <b>GolfDiscount.com Men's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/men/gloves_right_men_5.txt:
+Please provide the text file or the specific content from the webpage to analyze for product pricing and details.
+
+
+
+Result from ../../../../web-src-scraping/gloves/right/women/gloves_right_women_1.txt:
+Brand: <b>FootJoy</b> Title: <b>Mens WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$11.95</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Perma Soft Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Women's WeatherSof Golf Glove-Previous Season Style</b> Price: <b>$11.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Tour Preferred Golf Glove - Prior Generation</b> Price: <b>$24.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Tour Cabretta Golf Glove</b> Price: <b>$14.99</b>  
+Brand: <b>NIKE</b> Title: <b>Men's Tech Extreme VII Golf Glove</b> Price: <b>$15.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$12.99</b>  
+Brand: <b>TGW</b> Title: <b>Men's Players Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>NIKE</b> Title: <b>DuraFeel X 2-Pack Golf Glove</b> Price: <b>$22.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Men's 2023 StaSof Golf Glove</b> Price: <b>$28.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's Players Flex Golf Glove</b> Price: <b>$24.99</b>  
+Brand: <b>NIKE</b> Title: <b>Tour Classic IV Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Tour Authentic Golf Glove 2pk</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's 2024 WeatherSof Golf Gloves</b> Price: <b>$12.99</b>  
+Brand: <b>TGW</b> Title: <b>Women's Players Half Finger Golf Glove</b> Price: <b>$6.74</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stratus Tech Golf Gloves 2-Pk Limited</b> Price: <b>$21.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's Pure Touch Golf Glove</b> Price: <b>$37.95</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's StaSof Winter Golf Gloves</b> Price: <b>$49.95</b>  
+Brand: <b>TaylorMade</b> Title: <b>TP Color Golf Glove</b> Price: <b>$29.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Men's RainGrip Golf Gloves - Prior Generation</b> Price: <b>$23.99</b>  
+Brand: <b>NIKE</b> Title: <b>Women's DuraFeel X Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Fusion Golf Glove</b> Price: <b>$16.00</b>  
+Brand: <b>Cobra</b> Title: <b>Women's Pur Tech Golf Glove</b> Price: <b>$19.99</b>  
+
+Website: <b>TGW.com Women's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/women/gloves_right_women_2.txt:
+Brand: <b>Callaway Golf</b> Title: <b>Ladies LLH WeatherSof Glove</b> Price: <b>$19.99</b>  
+Brand: <b>FootJoy Golf</b> Title: <b>Prior Generation WeatherSof Glove</b> Price: <b>$22.95</b>  
+Brand: <b>Titleist Golf</b> Title: <b>Ladies LLH Glove</b> Price: <b>$21.99</b>  
+Brand: <b>TaylorMade Golf</b> Title: <b>Ladies LLH Stratus Tech Glove</b> Price: <b>$15.99</b>  
+Brand: <b>FootJoy Golf</b> Title: <b>Ladies LLH StaSof Glove</b> Price: <b>$12.95</b>  
+Brand: <b>Mizuno Golf</b> Title: <b>Ladies LLH Comp Glove</b> Price: <b>$24.99</b>  
+Brand: <b>Cobra Golf</b> Title: <b>Ladies LLH Tech Glove</b> Price: <b>$27.99</b>  
+Brand: <b>PGA Tour</b> Title: <b>Ladies LLH SwingSoft Leather Glove</b> Price: <b>$21.99</b>  
+Website: <b>Rock Bottom Golf Women's Right Hand Glove</b>  
+
+Result from ../../../../web-src-scraping/gloves/right/women/gloves_right_women_3.txt:
+Brand: <b>GLOVE IT</b> Title: <b>Black Clear Dot Glove</b> Price: <b>$19.99</b>  
+Brand: <b>GLOVE IT</b> Title: <b>Leopard Glove</b> Price: <b>$19.99</b>  
+Brand: <b>GLOVE IT</b> Title: <b>White Clear Dot Glove</b> Price: <b>$19.99</b>  
+Brand: <b>GLOVE IT</b> Title: <b>Navy Clear Dot Glove</b> Price: <b>$19.99</b>  
+
+Website: <b>PGA TOUR Superstore Women's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/women/gloves_right_women_4.txt:
+Brand: <b>Bridgestone</b> Title: <b>Lady Golf Glove</b> Price: <b>$11.99</b>  
+Brand: <b>Pro Golf</b> Title: <b>Women's Cabretta Leather Golf Glove</b> Price: <b>$7.99</b>  
+Brand: <b>Titleist</b> Title: <b>Women's Perma-Soft Golf Glove</b> Price: <b>$21.99</b>  
+Brand: <b>Footjoy</b> Title: <b>Women's WeatherSof Golf Glove</b> Price: <b>Price in cart</b>  
+
+Website: <b>GolfDiscount.com Women's Right Hand Glove</b>
+
+Result from ../../../../web-src-scraping/gloves/right/women/gloves_right_women_5.txt:
+Please provide the text file containing the information about the golf products, and I will analyze it accordingly.
+
+
+
+Result from ../../../../web-src-scraping/gloves/other/men/gloves_other_men_1.txt:
+Brand: <b>FootJoy</b> Title: <b>WeatherSof</b> Price: <b>$15.00</b>  
+Brand: <b>Callaway</b> Title: <b>Weather Spann</b> Price: <b>$19.99 - $20.00</b>  
+Brand: <b>Srixon</b> Title: <b>Cabretta USA</b> Price: <b>$16.99</b>  
+Brand: <b>Bridgestone</b> Title: <b>Pure Touch Limited</b> Price: <b>$17.99</b>  
+Brand: <b>Ping</b> Title: <b>Tour Comp</b> Price: <b>$30.00</b>  
+Brand: <b>FootJoy</b> Title: <b>Sport Tech 2-Pack</b> Price: <b>$20.00</b>  
+Brand: <b>Titleist</b> Title: <b>Perma-Soft</b> Price: <b>$14.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Players</b> Price: <b>$27.00</b>  
+Brand: <b>Callaway</b> Title: <b>Contour FLX</b> Price: <b>$14.99</b>  
+Brand: <b>Mizuno</b> Title: <b>Elite 19/20</b> Price: <b>$12.99</b>  
+Brand: <b>Jordan</b> Title: <b>Tour '23</b> Price: <b>$35.00</b>  
+Brand: <b>Wilson</b> Title: <b>Staff Model</b> Price: <b>$26.99</b>  
+Brand: <b>Wilson</b> Title: <b>Grip Soft</b> Price: <b>$14.99</b>  
+
+Website: <b>GlobalGolf Men's Glove</b>
+
+
+
+Result from ../../../../web-src-scraping/gloves/other/women/gloves_other_women_1.txt:
+Brand: <b>Titleist</b> Title: <b>Womens Perma-Soft Golf Gloves</b> Price: <b>$19.99</b>  
+Brand: <b>Titleist</b> Title: <b>Womens Players Golf Gloves 2025</b> Price: <b>$27.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Womens StaSof Golf Gloves - PRIOR GEN</b> Price: <b>$21.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Dawn Patrol Golf Gloves</b> Price: <b>$10.99</b>  
+Brand: <b>North Coast Golf Co.</b> Title: <b>Womens Carolina Blues Golf Gloves 2025</b> Price: <b>$17.95</b>  
+Brand: <b>Cleveland</b> Title: <b>Womens Bionic Golf Gloves</b> Price: <b>$29.99</b>  
+Brand: <b>Sun Mountain</b> Title: <b>Womens 3.5 Lightweight Cart Bag, 2025</b> Price: <b>$279.99</b>  
+Brand: <b>FootJoy</b> Title: <b>Womens RainGrip Golf Gloves 2025</b> Price: <b>$24.95</b>  
+Brand: <b>FootJoy</b> Title: <b>Womens WeatherSof Golf Gloves 2025</b> Price: <b>$12.95</b>  
+Website: <b>Fras Shipping over $70 Women's Glove</b>
+
