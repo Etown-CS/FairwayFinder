@@ -1,0 +1,162 @@
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_1.txt:
+Brand: <b>Titleist</b> Title: <b>Men's GT 3 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 MAX Driver</b> Price: <b>$599.00</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 Max 10K Driver</b> Price: <b>$399.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 2 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 LST Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Al Smoke Max Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Stealth 2 Driver</b> Price: <b>$329.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's GT 4 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Mavrik Driver</b> Price: <b>$249.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's SIM2 MAX Driver</b> Price: <b>$299.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's BRNR Copper Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's Qi10 MAX Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Paradym Ai Smoke Ti 340 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Women's Paradym Ai Smoke TI 340 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Men's Big Bertha 23 Driver</b> Price: <b>$212.49</b>  
+Brand: <b>TaylorMade</b> Title: <b>Men's QO LS Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR 3 Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Titleist</b> Title: <b>Men's TSR 2 Driver</b> Price: <b>$449.99</b>  
+Brand: <b>PING</b> Title: <b>Men's G430 SFT Driver</b> Price: <b>$399.99</b>  
+Brand: <b>PING</b> Title: <b>Women's G425 MAX Driver</b> Price: <b>$399.99</b>  
+Brand: <b>Cobra</b> Title: <b>Men's Darkspeed LS Driver</b> Price: <b>$549.00</b>  
+Brand: <b>Cleveland</b> Title: <b>Men's Launcher XL 2 Draw Driver</b> Price: <b>$349.99</b>  
+Website: <b>TGW.com</b>  
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_2.txt:
+Brand: <b>Adams Golf</b> Title: <b>Idea Driver</b> Price: <b>$239.99</b>
+Brand: <b>Honma Golf</b> Title: <b>TW 757 S Driver</b> Price: <b>$329.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$399.99</b>
+Brand: <b>Honma Golf</b> Title: <b>TW 757 D Driver</b> Price: <b>$329.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Mavrik Driver</b> Price: <b>$249.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>SIM2 Max Driver</b> Price: <b>$299.99</b>
+Brand: <b>Mizuno Golf</b> Title: <b>ST-X 230 Driver</b> Price: <b>$219.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDx Max Driver</b> Price: <b>$179.99</b>
+Brand: <b>Snake Eyes Golf</b> Title: <b>685X Driver</b> Price: <b>$199.95</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Burner Mini 2.0 Copper Driver</b> Price: <b>$449.99</b>
+Brand: <b>TaylorMade Golf</b> Title: <b>Qi10 Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Max Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$349.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Max D Driver</b> Price: <b>$399.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Big Bertha Driver</b> Price: <b>$599.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym X Driver</b> Price: <b>$349.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Paradym Driver</b> Price: <b>$449.99</b>
+Brand: <b>Callaway Golf</b> Title: <b>Rogue ST Max Driver</b> Price: <b>$449.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR1 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR2 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR2 Driver With Premium Shafts</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR3 Driver</b> Price: <b>$449.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR3 Driver With Premium Shafts</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>TSR4 Driver</b> Price: <b>$649.00</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT2 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT3 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT4 Driver</b> Price: <b>$649.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT2 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT3 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Titleist Golf</b> Title: <b>GT4 Driver</b> Price: <b>$849.99</b>
+Brand: <b>Cobra Golf</b> Title: <b>DarkSpeed LS Driver</b> Price: <b>$249.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>Aerojet Max Driver</b> Price: <b>$219.00</b>
+Brand: <b>Cobra Golf</b> Title: <b>LTDX LS Driver</b> Price: <b>$219.00</b>
+Website: <b>Rock Bottom Golf</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_3.txt:
+Brand: <b>Callaway</b> Title: <b>XR 16 Paradym X</b> Price: <b>$399.99</b>
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Epic</b> Price: <b>$199.99</b>
+Brand: <b>Cobra</b> Title: <b>AIR-X Straight Neck Grey/Red</b> Price: <b>$199.99</b>
+Brand: <b>TaylorMade</b> Title: <b>STEALTH 2 HD</b> Price: <b>$349.99</b>
+Brand: <b>PXG</b> Title: <b>0311 XF Gen 5</b> Price: <b>$349.99</b>
+Brand: <b>Srixon</b> Title: <b>ZX5</b> Price: <b>$299.99</b>
+Brand: <b>XXIO</b> Title: <b>Prime 11</b> Price: <b>$299.99</b>
+Brand: <b>Callaway</b> Title: <b>Paradym Triple Diamond XR</b> Price: <b>$449.99</b>
+Website: <b>GlobalGolf</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_4.txt:
+Brand: <b>TITLEIST</b> Title: <b>GT2 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT3 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT4 Driver</b> Price: <b>$649.99 - $849.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics C725 Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Driver</b> Price: <b>$399.99</b>  
+Brand: <b>TITLEIST</b> Title: <b>GT2 Women's Driver</b> Price: <b>$649.99</b>  
+Brand: <b>PING</b> Title: <b>Prodi G Driver</b> Price: <b>$274.99</b>  
+Brand: <b>TOUR EDGE</b> Title: <b>Exotics E725 Women's Driver</b> Price: <b>$399.99</b>  
+Brand: <b>PING</b> Title: <b>G430 Max Driver</b> Price: <b>$399.98 - $639.98</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Ai Smoke Ti340 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 Mini Driver</b> Price: <b>$449.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>BRNR Mini Driver Copper</b> Price: <b>$449.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Driver</b> Price: <b>$349.98 - $599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 LST Driver</b> Price: <b>$399.98</b>  
+Brand: <b>COBRA</b> Title: <b>Aerojet 50th Anniversary Driver</b> Price: <b>$579.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>Paradym Ai Smoke Triple Diamond MAX Driver</b> Price: <b>$599.99</b>  
+Brand: <b>PING</b> Title: <b>G430 SFT Driver</b> Price: <b>$399.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 Plus+ Driver</b> Price: <b>$549.99 - $629.99</b>  
+Brand: <b>ADAMS GOLF</b> Title: <b>NEW Idea Driver</b> Price: <b>$199.98</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Qi10 Max Designer Series Driver</b> Price: <b>$599.98 - $629.99</b>  
+Brand: <b>TAYLORMADE</b> Title: <b>Stealth 2 High Draw Driver</b> Price: <b>$349.98 - $599.99</b>  
+Brand: <b>COBRA</b> Title: <b>Aerojet Max Driver</b> Price: <b>$599.99</b>  
+Brand: <b>CALLAWAY</b> Title: <b>MAVRIK 2022 Driver</b> Price: <b>$249.98 - $399.99</b>  
+Website: <b>PGA TOUR Superstore</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_5.txt:
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver</b> Price: <b>$599.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 Driver</b> Price: <b>$599.99</b>
+Brand: <b>TaylorMade</b> Title: <b>BRNR Mini Driver</b> Price: <b>$449.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$328.99</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Driver Peacoat</b> Price: <b>$184.99</b>
+Brand: <b>Callaway</b> Title: <b>MAVRIK Driver</b> Price: <b>$249.99</b>
+Brand: <b>Cobra</b> Title: <b>LTD Driver Black</b> Price: <b>$184.99</b>
+Brand: <b>Titleist</b> Title: <b>TSR2 Driver</b> Price: <b>$397</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Max Driver Black</b> Price: <b>$184.99</b>
+Brand: <b>Cobra</b> Title: <b>LTDx Max Driver Peacoat</b> Price: <b>$184.99</b>
+Brand: <b>Cleveland</b> Title: <b>Launcher XL2 Driver</b> Price: <b>$349.99</b>
+Brand: <b>XXIO</b> Title: <b>13 Driver</b> Price: <b>$699.99</b>
+Brand: <b>TaylorMade</b> Title: <b>Qi10 LS Driver</b> Price: <b>$629.99</b>
+Brand: <b>Ping</b> Title: <b>Women's G Le3 Driver</b> Price: <b>$497</b>
+Website: <b>GolfDiscount.com</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_6.txt:
+Brand: <b>Srixon</b> Title: <b>MAX Driver 2024</b> Price: <b>$547.60</b>  
+Brand: <b>Cleveland</b> Title: <b>Launcher XL Lite</b> Price: <b>$397.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Driver</b> Price: <b>$328.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$520.99</b>  
+Brand: <b>PING</b> Title: <b>G430 MAX 10K Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver 2024</b> Price: <b>$597.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX Fast Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Driver 2023</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Driver 2024</b> Price: <b>$599.99</b>  
+Website: <b>Carl's Golfland</b>
+
+Result from ../../../web-src-scraping/clubs/drivers/club_driver_7.txt:
+Brand: <b>Srixon</b> Title: <b>Driver</b> Price: <b>$547.60</b>  
+Brand: <b>Srixon</b> Title: <b>Driver</b> Price: <b>$397.00</b>  
+Brand: <b>TaylorMade</b> Title: <b>Stealth 2 Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Cobra</b> Title: <b>Aerojet Driver</b> Price: <b>$328.99</b>  
+Brand: <b>TaylorMade</b> Title: <b>SIM 2 Max Driver</b> Price: <b>$449.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$520.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST MAX D Driver</b> Price: <b>$299.99</b>  
+Brand: <b>PING</b> Title: <b>G430 MAX 10K Driver</b> Price: <b>$649.00</b>  
+Brand: <b>Titleist</b> Title: <b>GT2 Driver 2024</b> Price: <b>$597.00</b>  
+Brand: <b>Callaway</b> Title: <b>Big Bertha 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Great Big Bertha Driver</b> Price: <b>$699.99</b>  
+Brand: <b>Callaway</b> Title: <b>Mavrik 22 Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX D Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke MAX Fast Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Paradym Ai Smoke Triple Diamond Driver 2024</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Rogue ST 24 Max Driver</b> Price: <b>$349.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Big Bertha REVA 23 Driver</b> Price: <b>$499.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Great Big Bertha Driver</b> Price: <b>$379.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Mavrik 22 Driver</b> Price: <b>$299.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX D Driver</b> Price: <b>$599.99</b>  
+Brand: <b>Callaway</b> Title: <b>Womens Paradym Ai Smoke MAX Driver</b> Price: <b>$599.99</b>  
+Website: <b>Carl's Golfland</b>  

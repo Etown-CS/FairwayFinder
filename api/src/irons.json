@@ -1,0 +1,1074 @@
+[
+  {
+    "_id": "67c39605806059cb9d452c69",
+    "brandName": "PING",
+    "productTitle": "Men's i230 Irons",
+    "price": "$875 - $1,599",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c85",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai300 Irons (5 Iron Set) Graphite",
+    "price": "$1,000.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8d",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex TCB 2024 Irons w/ Steel Shafts",
+    "price": "$1504.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca2",
+    "brandName": "Ping",
+    "productTitle": "Ping i525 Irons",
+    "price": "From $771 To $899.5",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca3",
+    "brandName": "Callaway",
+    "productTitle": "Callaway MAVRIK Irons",
+    "price": "$514.28",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb3",
+    "brandName": "PING",
+    "productTitle": "G425 Irons",
+    "price": "$599.25",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb4",
+    "brandName": "Titleist",
+    "productTitle": "T350 Irons 2024",
+    "price": "$1,199.16",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cba",
+    "brandName": "Callaway",
+    "productTitle": "Apex CB 24 Irons",
+    "price": "$1,505.00 - $1,505.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cbe",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Irons",
+    "price": "$768.00 - $1,200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc4",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Irons",
+    "price": "$685.68 - $514.28 - $699.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5c",
+    "brandName": "PING",
+    "productTitle": "Men's G425 Irons",
+    "price": "$1,149 - $1,027",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c70",
+    "brandName": "Mizuno",
+    "productTitle": "Men's JPX 921 Forged Irons",
+    "price": "$1,399",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c71",
+    "brandName": "Titleist",
+    "productTitle": "Men's 2023 T350 Irons",
+    "price": "$1,285 - $1,499",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8f",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex Ti Fusion Irons w/ Steel Shafts",
+    "price": "$2099.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c95",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex Ai200 Irons w/ Graphite Shafts",
+    "price": "$1399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c98",
+    "brandName": "COBRA",
+    "productTitle": "KING TEC X 2024 Irons w/ Steel Shafts",
+    "price": "$1299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c99",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics E725 Women's Irons w/ Graphite Shafts",
+    "price": "$649.99 - $899.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9c",
+    "brandName": "Ping",
+    "productTitle": "Ping G430 Irons",
+    "price": "From $771 To $1028",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca6",
+    "brandName": "Mizuno",
+    "productTitle": "Mizuno JPX925 Hot Metal Pro Irons",
+    "price": "From $1049.95 To $1199.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ccc",
+    "brandName": "Titleist",
+    "productTitle": "T350 Irons 2024",
+    "price": "$1,199.16",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd9",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Irons - ON SALE",
+    "price": "$685.68",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c75",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "6850S Combo Irons (7 Club Set)",
+    "price": "$499.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c77",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "X725 Irons (6 Iron Set)",
+    "price": "$689.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8a",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai200 Irons (6 Iron Set) Graphite",
+    "price": "$1,200.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cad",
+    "brandName": "XXIO",
+    "productTitle": "XXIO 13 Irons",
+    "price": "From $1099.99 To $1539.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cae",
+    "brandName": "Cleveland",
+    "productTitle": "Cleveland Launcher UHX Irons",
+    "price": "$299.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd7",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Irons - ON SALE",
+    "price": "$768.00 - $1,200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c59",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E522 Iron-Wood",
+    "price": "$79.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c65",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Stealth Irons",
+    "price": "$1,287 - $913",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c90",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex Ai200 Irons w/ Steel Shafts",
+    "price": "$1399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c92",
+    "brandName": "TAYLORMADE",
+    "productTitle": "P«7CB 2024 Irons w/ Steel Shafts",
+    "price": "$1399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc3",
+    "brandName": "TaylorMade",
+    "productTitle": "Qi Irons 2024",
+    "price": "$857.13 - $1,257.13",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc9",
+    "brandName": "Titleist",
+    "productTitle": "T300 Irons - ON SALE",
+    "price": "$999.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6b",
+    "brandName": "Mizuno",
+    "productTitle": "Men's JPX 923 Hot Metal Pro Irons",
+    "price": "$787.50",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c80",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (7 Iron Set) Graphite",
+    "price": "$999.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9b",
+    "brandName": "COBRA",
+    "productTitle": "KING TEC 2024 Irons w/ Steel Shafts",
+    "price": "$1299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9e",
+    "brandName": "Cobra",
+    "productTitle": "Cobra King Forged TEC X Black Irons",
+    "price": "From $599.99 To $699.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca4",
+    "brandName": "Ping",
+    "productTitle": "Ping G730 Irons",
+    "price": "From $912.5 To $1095",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb5",
+    "brandName": "COBRA",
+    "productTitle": "3D Printed LIMIT3D Irons 2024",
+    "price": "$3,000.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb6",
+    "brandName": "TaylorMade",
+    "productTitle": "P790 Aged Copper Irons 2024",
+    "price": "$1,499.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc2",
+    "brandName": "COBRA",
+    "productTitle": "KING TEC Irons 2025",
+    "price": "$857.13 - $1,257.13",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc6",
+    "brandName": "TaylorMade",
+    "productTitle": "SIM 2 Max Irons",
+    "price": "$799.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd0",
+    "brandName": "Callaway",
+    "productTitle": "Apex 21 Irons - ON SALE",
+    "price": "$1,200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd6",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ti Fusion Irons 2024",
+    "price": "$1,800.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c58",
+    "brandName": "Titleist",
+    "productTitle": "Men's 2023 T200 Utility Iron",
+    "price": "$269.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6f",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi Combo Irons",
+    "price": "$1,209 - $1,399",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c74",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "6850S Irons (7 Iron Set)",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c76",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "MAX Combo Irons (8 Club Set)",
+    "price": "$399.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cab",
+    "brandName": "Cobra",
+    "productTitle": "Cobra King MIM Tour Irons",
+    "price": "$599",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb1",
+    "brandName": "Titleist",
+    "productTitle": "T300 Irons",
+    "price": "$999.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd3",
+    "brandName": "Callaway",
+    "productTitle": "Apex CB 24 Irons - ON SALE",
+    "price": "$1,505.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6c",
+    "brandName": "Srixon",
+    "productTitle": "Men's ZX7 Mk II Irons",
+    "price": "$1,142 - $1,199",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7f",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (8 Iron Set)",
+    "price": "$1,028.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c84",
+    "brandName": "Wilson Golf",
+    "productTitle": "Staff D9 Irons (7 Iron Set)",
+    "price": "$479.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c94",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex Ai300 Irons w/ Steel Shafts",
+    "price": "$1399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6e",
+    "brandName": "Srixon",
+    "productTitle": "Men's SRX ZX5 MK II Black Chrome Irons",
+    "price": "$1,499",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7a",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (6 Iron Set)",
+    "price": "$770.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8b",
+    "brandName": "Callaway Golf",
+    "productTitle": "Rogue ST Max Iron [6 Iron Set]",
+    "price": "$590.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c91",
+    "brandName": "CALLAWAY",
+    "productTitle": "Apex Ai300 Irons w/ Graphite Shafts",
+    "price": "$1199.99 - $1399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c93",
+    "brandName": "MIZUNO",
+    "productTitle": "JPX925 Hot Metal HL Irons w/ Graphite Shafts",
+    "price": "$1049.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca5",
+    "brandName": "Cleveland",
+    "productTitle": "Cleveland ZipCore XL Irons",
+    "price": "From $714.25 To $1157.13",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cbc",
+    "brandName": "Callaway",
+    "productTitle": "Apex Pro 24 Irons",
+    "price": "$1,720.00 - $1,720.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc8",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Irons 2024",
+    "price": "$599.99 - $699.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ccb",
+    "brandName": "PING",
+    "productTitle": "G425 Irons",
+    "price": "$799.25",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd4",
+    "brandName": "Callaway",
+    "productTitle": "Apex MB 24 Irons",
+    "price": "$1,720.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cdd",
+    "brandName": "Mizuno",
+    "productTitle": "JPX921 Forged Irons",
+    "price": "1299.99",
+    "website": "https://www.example.com/mizuno-jpx921-forged-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c62",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's 2023 P790 Irons",
+    "price": "$1,399 - $1,599",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c63",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym Al Smoke HL Irons",
+    "price": "$1,428 - $1,099",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c78",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "E725 Irons (7 Iron Set)",
+    "price": "$799.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7d",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "X725 Irons (7 Iron Set) Graphite",
+    "price": "$899.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c82",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E522 Combo Irons (7 Club Set) Graphite",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c86",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai200 Irons (5 Iron Set) Graphite",
+    "price": "$1,000.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c97",
+    "brandName": "COBRA",
+    "productTitle": "KING CB Black Irons w/ Steel Shafts",
+    "price": "$1299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ccd",
+    "brandName": "COBRA",
+    "productTitle": "3D Printed LIMIT3D Irons 2024",
+    "price": "$3,000.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd5",
+    "brandName": "Callaway",
+    "productTitle": "Apex Pro 24 Irons",
+    "price": "$1,720.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5f",
+    "brandName": "Mizuno",
+    "productTitle": "Men's Pro 245 Irons",
+    "price": "$1,399 - $1,599",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6d",
+    "brandName": "Srixon",
+    "productTitle": "Men's SRX ZX7 MK II Black Chrome Irons",
+    "price": "$1,499",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8e",
+    "brandName": "MIZUNO",
+    "productTitle": "JPX925 Hot Metal Pro Irons w/ Graphite Shafts",
+    "price": "$1049.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca8",
+    "brandName": "Cleveland",
+    "productTitle": "Cleveland Halo XL Full-Face Irons",
+    "price": "From $714.25 To $1285.65",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc7",
+    "brandName": "TaylorMade",
+    "productTitle": "Qi Irons 2024",
+    "price": "$857.13 - $1,257.13",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd2",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai300 Irons 2024",
+    "price": "$1,600.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5e",
+    "brandName": "Cleveland",
+    "productTitle": "Men's Launcher XL Halo Irons",
+    "price": "$424.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c61",
+    "brandName": "PING",
+    "productTitle": "Men's Blueprint S Irons",
+    "price": "$1,275 - $1,699",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c72",
+    "brandName": "Cobra Golf",
+    "productTitle": "LTDx Irons (7 Iron Set)",
+    "price": "$629.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca0",
+    "brandName": "TaylorMade",
+    "productTitle": "TaylorMade P790 Aged Copper Irons",
+    "price": "$1499.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb0",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Irons 2024",
+    "price": "$1,299.00 - $599.99 - $699.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb7",
+    "brandName": "Bettinardi",
+    "productTitle": "MB24 Irons",
+    "price": "$1,599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb9",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai300 Irons",
+    "price": "$1,600.00 - $1,600.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cbd",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ti Fusion Irons 2024",
+    "price": "$1,800.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cca",
+    "brandName": "Cleveland",
+    "productTitle": "Launcher XL Irons",
+    "price": "$799.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c64",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's SIM2 MAX Irons",
+    "price": "$599.99 - $699.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c66",
+    "brandName": "Cleveland",
+    "productTitle": "Men's Launcher XL Irons",
+    "price": "$424.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c68",
+    "brandName": "Titleist",
+    "productTitle": "Men's Gen 2 T300 Golf Irons",
+    "price": "$799.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca9",
+    "brandName": "Cleveland",
+    "productTitle": "Cleveland Launcher XL Halo Irons",
+    "price": "From $449.99 To $499.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cdb",
+    "brandName": "Ping",
+    "productTitle": "i530 Single Iron",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c67",
+    "brandName": "PING",
+    "productTitle": "Men's 1530 Irons",
+    "price": "$1,862 - $1,400",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c79",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "X725 Irons (6 Iron Set) Graphite",
+    "price": "$779.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7e",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (8 Iron Set) Graphite",
+    "price": "$1,142.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c81",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E522 Iron (7 Iron Set) Graphite",
+    "price": "$389.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9d",
+    "brandName": "Callaway",
+    "productTitle": "Callaway Paradym Ai Smoke Irons",
+    "price": "From $714.3 To $1414.26",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452caf",
+    "brandName": "TaylorMade",
+    "productTitle": "SIM 2 Max Irons",
+    "price": "$799.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc0",
+    "brandName": "Mizuno",
+    "productTitle": "JPX 925 Hot Metal Irons 2024",
+    "price": "$750.00 - $1,199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5d",
+    "brandName": "Titleist",
+    "productTitle": "Men's 2023 T200 Irons",
+    "price": "$1,399 - $1,499",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7c",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (6 Iron Set) Graphite",
+    "price": "$856.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c87",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai300 Irons (6 Iron Set) Graphite",
+    "price": "$1,200.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9a",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics X725 Women's Irons w/ Graphite Shafts",
+    "price": "$779.99 - $899.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c9f",
+    "brandName": "Titleist",
+    "productTitle": "Titleist 2021 T300 Irons",
+    "price": "From $799.99 To $914.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452caa",
+    "brandName": "TaylorMade",
+    "productTitle": "TaylorMade Stealth Irons",
+    "price": "From $685.71 To $914.27",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb2",
+    "brandName": "Cleveland",
+    "productTitle": "Launcher XL Irons",
+    "price": "$799.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cce",
+    "brandName": "TaylorMade",
+    "productTitle": "P790 Aged Copper Irons 2024",
+    "price": "$1,499.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ccf",
+    "brandName": "Bettinardi",
+    "productTitle": "MB24 Irons",
+    "price": "$1,599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd8",
+    "brandName": "Callaway",
+    "productTitle": "Great Big Bertha Irons",
+    "price": "$2,250.00 - $2,400.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cda",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Black Irons 2024",
+    "price": "$1,099.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5a",
+    "brandName": "TITLEIST",
+    "productTitle": "U505 2023 Utility Iron w/ Graphite Shaft",
+    "price": "$269.99 - $399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c5b",
+    "brandName": "PING",
+    "productTitle": "Men's G430 Irons",
+    "price": "$1,285 - $1,1420",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c60",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi Irons",
+    "price": "$428.50 - $1,257.13",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c73",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "685X Irons (7 Iron Set)",
+    "price": "$369.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c89",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai200 Irons (7 Iron Set) Graphite",
+    "price": "$1,400.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c96",
+    "brandName": "COBRA",
+    "productTitle": "KING TEC X 2024 ONE Length Irons w/ Steel Shafts",
+    "price": "$1299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/irons-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca1",
+    "brandName": "Ping",
+    "productTitle": "Ping G425 Irons",
+    "price": "From $642.5 To $798",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452ca7",
+    "brandName": "Mizuno",
+    "productTitle": "Mizuno JPX925 Hot Metal Irons",
+    "price": "From $1049.95 To $1199.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cac",
+    "brandName": "TaylorMade",
+    "productTitle": "TaylorMade SIM2 Max Irons",
+    "price": "From $599.99 To $699.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/irons?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cbb",
+    "brandName": "Callaway",
+    "productTitle": "Apex MB 24 Irons",
+    "price": "$1,720.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cbf",
+    "brandName": "Mizuno",
+    "productTitle": "JPX 925 Hot Metal Pro Irons 2024",
+    "price": "$771.00 - $1,142.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc1",
+    "brandName": "COBRA",
+    "productTitle": "KING TEC X Irons",
+    "price": "$900.00 - $1,199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cd1",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai200 Irons 2024",
+    "price": "$1,600.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c6a",
+    "brandName": "Srixon",
+    "productTitle": "Men's ZX5 Mk II Irons",
+    "price": "$1,857.10 - $1,299",
+    "website": "https://www.tgw.com/golf-clubs/golf-irons",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c7b",
+    "brandName": "Tour Edge Exotics",
+    "productTitle": "C725 Irons (7 Iron Set)",
+    "price": "$899.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c83",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E522 Iron-Woods (7 Iron Set) Graphite",
+    "price": "$499.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c88",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai300 Irons (7 Iron Set) Graphite",
+    "price": "$1,400.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452c8c",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Ai300 Irons (8 Iron Set)",
+    "price": "$1,600.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cb8",
+    "brandName": "Callaway",
+    "productTitle": "Apex Ai200 Irons 2024",
+    "price": "$1,200.00 - $1,200.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cc5",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Black Irons 2024",
+    "price": "$1,099.99 - $1,257.14",
+    "website": "https://www.carlsgolfland.com/golf-clubs/iron-sets",
+    "__v": 0
+  },
+  {
+    "_id": "67c39605806059cb9d452cdc",
+    "brandName": "TaylorMade",
+    "productTitle": "Sim2 Max Iron Set",
+    "price": "999.99",
+    "website": "https://www.example.com/taylormade-sim2-max-iron-set",
+    "__v": 0
+  }
+]
