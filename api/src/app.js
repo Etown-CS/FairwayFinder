@@ -17,15 +17,10 @@ const app = koa(feathers());
 
 // Middleware and configurations
 app.configure(configuration())
-  .use(cors({
-    origin: process.env.NODE_ENV === 'production' 
-      ? '*'
-      : 'http://localhost:5173',
-    credentials: true
-  }))
-  .use(errorHandler())
-  .use(parseAuthentication())
-  .use(bodyParser());
+   .use(cors())
+   .use(errorHandler())
+   .use(parseAuthentication())
+   .use(bodyParser());
 
 // Configure Feathers transports
 app.configure(rest());
@@ -62,10 +57,11 @@ async function initializeApp() {
     //console.log("TEST");
 
     // Start the app server
-    const port = process.env.PORT || 3031;
+    const port = app.get('port') || 3031;
+    const host = app.get('host') || 'localhost';
     app.listen(port).then(() => {
-    console.log(`Feathers app is listening on port ${port}`);
-});
+      console.log(`Feathers app is listening on http://${host}:${port}`);
+    });
   } catch (error) {
     console.error('Error initializing app:', error);
   }
@@ -74,5 +70,4 @@ async function initializeApp() {
 // Run the app initialization
 initializeApp();
 
-export default app;
 export { app };
