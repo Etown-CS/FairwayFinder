@@ -8,9 +8,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "concurrently \"npm run dev:client\" \"npm run dev:server\"",
-    "dev:client": "vite",
-    "dev:server": "cd .. && cd api && cd src && node app.js"
+    "start": "npm run dev:client",
+    "dev:client": "vite"
   },
   "dependencies": {
     "@feathersjs/mongodb": "^5.0.31",
@@ -33,6 +32,6 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
-    "vite": "^6.2.2"
+    "vite": "^6.3.1"
   }
 }

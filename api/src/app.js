@@ -57,8 +57,8 @@ async function initializeApp() {
     //console.log("TEST");
 
     // Start the app server
-    const port = app.get('port') || 3031;
-    const host = app.get('host') || 'localhost';
+    const port = 3031;
+    const host = '0.0.0.0';
     app.listen(port).then(() => {
       console.log(`Feathers app is listening on http://${host}:${port}`);
     });
