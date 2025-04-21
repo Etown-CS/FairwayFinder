@@ -121,7 +121,7 @@ function GolfDeals() {
       setError(null);
 
       try {
-        let url = `http://35.194.77.139:3031/${category}`;
+        let url = `https://d8a2-35-194-77-139.ngrok-free.app/${category}`;
         console.log(`Fetching data from URL: ${url}`);
         const response = await fetch(url);
         console.log(`Response status: ${response.status}`);
