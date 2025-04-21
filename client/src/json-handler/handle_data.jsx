@@ -123,7 +123,11 @@ function GolfDeals() {
       try {
         let url = `https://d8a2-35-194-77-139.ngrok-free.app/${category}`;
         console.log(`Fetching data from URL: ${url}`);
-        const response = await fetch(url);
+        const response = await fetch(url, {
+          headers: {
+            'ngrok-skip-browser-warning': 'true'
+          }
+        });
         console.log(`Response status: ${response.status}`);
         if (response.ok) {
           const data = await response.json();
