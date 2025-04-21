@@ -1,4 +1,4 @@
-import dotenv from 'dotenv'; 
+import dotenv from 'dotenv';
 import { feathers } from '@feathersjs/feathers';
 import configuration from '@feathersjs/configuration';
 import { koa, rest, bodyParser, errorHandler, parseAuthentication, cors } from '@feathersjs/koa';
@@ -15,35 +15,16 @@ dotenv.config();
 // Feathers app setup
 const app = koa(feathers());
 
-// ✅ CORS allowed origins
-const allowedOrigins = [
-  'https://fairway-finder-git-backend-wetzeltanners-projects.vercel.app',
-  'http://localhost:3000'
-];
-
 // Middleware and configurations
 app.configure(configuration())
-  .use(cors({
-    origin: (ctx) => {
-      const requestOrigin = ctx.request.header.origin;
-      if (allowedOrigins.includes(requestOrigin)) {
-        return requestOrigin;
-      }
-      return ''; // Disallow unknown origins
-    },
-    credentials: true
-  }))
-  .use(errorHandler())
-  .use(parseAuthentication())
-  .use(bodyParser());
+   .use(cors())
+   .use(errorHandler())
+   .use(parseAuthentication())
+   .use(bodyParser());
 
 // Configure Feathers transports
 app.configure(rest());
-app.configure(socketio({
-  cors: {
-    origin: allowedOrigins
-  }
-}));
+app.configure(socketio({ cors: { origin: app.get('origins') }}));
 
 const psswd = process.env.DATABASE_PSSWD;
 console.log("psswd:");
@@ -60,7 +41,8 @@ async function initializeApp() {
   try {
     console.log('Initializing MongoDB connection...');
    
-    const mongoClient = await app.configure(mongodb);
+    // Wait for MongoDB to connect and client to be set
+    const mongoClient = await app.configure(mongodb);  // Waits for the mongodb.js to finish
 
     if (!mongoClient) {
       throw new Error('MongoDB client is not set on the app.');
@@ -68,9 +50,13 @@ async function initializeApp() {
 
     console.log('MongoDB client connected:', mongoClient);
 
+    // Register services and channels after MongoDB is connected
     app.configure(services);
     app.configure(channels);
 
+    //console.log("TEST");
+
+    // Start the app server
     const port = 3031;
     const host = '0.0.0.0';
     app.listen(port).then(() => {
@@ -81,7 +67,10 @@ async function initializeApp() {
   }
 }
 
+// Run the app initialization
 initializeApp();
 
 export { app };
+
+
 
