@@ -40,7 +40,7 @@ app.set('mongodb', mongoUri);
 async function initializeApp() {
   try {
     console.log('Initializing MongoDB connection...');
-    
+   
     // Wait for MongoDB to connect and client to be set
     const mongoClient = await app.configure(mongodb);  // Waits for the mongodb.js to finish
 
@@ -57,8 +57,8 @@ async function initializeApp() {
     //console.log("TEST");
 
     // Start the app server
-    const port = app.get('port') || 3031;
-    const host = app.get('host') || 'localhost';
+    const port = 3031;
+    const host = '0.0.0.0';
     app.listen(port).then(() => {
       console.log(`Feathers app is listening on http://${host}:${port}`);
     });
@@ -71,3 +71,6 @@ async function initializeApp() {
 initializeApp();
 
 export { app };
+
+
+

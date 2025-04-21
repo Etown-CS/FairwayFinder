@@ -102,7 +102,6 @@ function formatGolfDeals(data) {
   });
 }
 
-
 function GolfDeals() {
   const { category } = useParams();  // Get the category from the URL
   const [allDeals, setAllDeals] = useState([]);
@@ -122,7 +121,7 @@ function GolfDeals() {
       setError(null);
 
       try {
-        let url = `http://localhost:3031/${category}`;
+        let url = `http://35.194.77.139:3031/${category}`;
         console.log(`Fetching data from URL: ${url}`);
         const response = await fetch(url);
         console.log(`Response status: ${response.status}`);
@@ -401,16 +400,16 @@ function GolfDeals() {
   }}
 >
   {/* Stats Image Positioned at the Top Left */}
-  <div 
-    style={{ 
-      position: 'absolute', 
-      top: '15px', 
-      right: '15px' 
+  <div
+    style={{
+      position: 'absolute',
+      top: '15px',
+      right: '15px'
     }}
   >
-    <img 
-      src={statsImage} 
-      alt="Statistics" 
+    <img
+      src={statsImage}
+      alt="Statistics"
       style={{
         width: '60px',
         height: '60px',
@@ -421,14 +420,14 @@ function GolfDeals() {
 
   {/* Left Section: Category Image */}
   {categoryImages[category] && (
-    <img 
-      src={categoryImages[category]} 
-      alt={category} 
-      style={{ 
-        width: '185px', 
-        height: '200x', 
-        borderRadius: '8px', 
-        objectFit: 'cover', 
+    <img
+      src={categoryImages[category]}
+      alt={category}
+      style={{
+        width: '185px',
+        height: '200x',
+        borderRadius: '8px',
+        objectFit: 'cover',
       }}
     />
   )}
@@ -450,10 +449,10 @@ function GolfDeals() {
     {deal.website && domain ? (
       <p>
         <strong>Visit Website: </strong>
-        <a 
-          href={deal.website} 
-          target="_blank" 
-          rel="noopener noreferrer" 
+        <a
+          href={deal.website}
+          target="_blank"
+          rel="noopener noreferrer"
           style={{ color: '#007bff', textDecoration: 'none', fontWeight: 'bold' }}
         >
           See {domain} {category} deals
@@ -471,9 +470,7 @@ function GolfDeals() {
   !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
 )}
 
-
 </ul>
-
 
             <div style={{ textAlign: 'center', marginTop: '20px' }}>
               <a href="/" style={{ textDecoration: 'none', color: '#007bff' }}>Back to Home</a>
@@ -486,3 +483,5 @@ function GolfDeals() {
 }
 
 export default GolfDeals;
+
+
