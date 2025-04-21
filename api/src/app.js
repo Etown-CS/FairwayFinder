@@ -17,6 +17,7 @@ const app = koa(feathers());
 
 // ✅ Allowed origins
 const allowedOrigins = [
+  'http://localhost:5173',
   'https://fairway-finder.vercel.app',
   'https://d8a2-35-194-77-139.ngrok-free.app'
 ];
