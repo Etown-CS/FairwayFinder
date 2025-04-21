@@ -24,7 +24,7 @@ const app = koa(feathers());
 
 // Define allowed origins explicitly
 const allowedOrigins = [
-  'https://fairway-finder.vercel.app', // Replace with your actual Vercel URL
+  'https://fairway-finder-git-backend-wetzeltanners-projects.vercel.app/', // Replace with your actual Vercel URL
   'http://localhost:3000'
 ];
 
