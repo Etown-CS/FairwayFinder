@@ -50,7 +50,7 @@
     "@feathersjs/schema": "^5.0.30",
     "@feathersjs/socketio": "^5.0.30",
     "@feathersjs/transport-commons": "^5.0.30",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.5.0",
     "mongodb": "^6.10.0",
     "mongoose": "^8.8.1",
     "winston": "^3.15.0"

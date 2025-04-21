@@ -1,750 +1,6 @@
 [
   {
-    "_id": "67c39605806059cb9d452a4a",
-    "brandName": "Bettinardi",
-    "productTitle": "2024 Inovai 10.0 Series Plumbers Putter",
-    "price": "$4000",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a4f",
-    "brandName": "Ray Cook Golf",
-    "productTitle": "Silver Ray SR500 Center Shafted Putter",
-    "price": "$59.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a65",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #6T Double Bend Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a71",
-    "brandName": "Odyssey Golf",
-    "productTitle": "2-Ball Ten Black Stroke Lab Putter",
-    "price": "$249.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7e",
-    "brandName": "PING",
-    "productTitle": "2024 Tyne H Putter",
-    "price": "$199.98",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a89",
-    "brandName": "TaylorMade",
-    "productTitle": "Spider GT Rollback Silver/Black Putter",
-    "price": "$299.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a92",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Special Select Newport 2.5 Putter",
-    "price": "$399",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa3",
-    "brandName": "Odyssey",
-    "productTitle": "Ai-ONE Cruiser #7 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aaf",
-    "brandName": "Bettinardi",
-    "productTitle": "BB1 Putter 2024 - Standard Grip",
-    "price": "$449.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a3a",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Special Select Flowback 5.5 Putter",
-    "price": "$3999",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a40",
-    "brandName": "Odyssey",
-    "productTitle": "2023 White Hot Versa Seven DB Putter",
-    "price": "$2299",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a5d",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Rossie Double Bend Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a99",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 7.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa7",
-    "brandName": "Cleveland",
-    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac9",
-    "brandName": "Ping",
-    "productTitle": "PLD Milled SE DS72 Hovland Edition Putter",
-    "price": "$447.00",
-    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a43",
-    "brandName": "Odyssey",
-    "productTitle": "Ai-One Milled #11 Double Bend Putter",
-    "price": "$4499",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a44",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron 2024 Phantom 5 Putter",
-    "price": "$4490",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a4d",
-    "brandName": "Lynx",
-    "productTitle": "Predator Putter",
-    "price": "$149.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a54",
-    "brandName": "Snake Eyes Golf",
-    "productTitle": "Venom 3 Mallet Putter",
-    "price": "$65.00",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a55",
-    "brandName": "Snake Eyes Golf",
-    "productTitle": "Venom 1 Blade Putter",
-    "price": "$65.00",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a59",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One #7 S Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a75",
-    "brandName": "LAB GOLF",
-    "productTitle": "DF3 Custom Broomstick Putter",
-    "price": "$629.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7d",
-    "brandName": "EVNROLL",
-    "productTitle": "71 Putter",
-    "price": "$399.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a86",
-    "brandName": "TaylorMade",
-    "productTitle": "Spider GT Rollback Silver/Black Single Bend Putter",
-    "price": "$299.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab4",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Newport 2 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a57",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One #2 Mini Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a62",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #1T Crank Hosel Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a68",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #8T S Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a6a",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Versa Twelve S Putter",
-    "price": "$229.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a6d",
-    "brandName": "Odyssey Golf",
-    "productTitle": "White Hot OG 2-Ball Putter",
-    "price": "$199.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a78",
-    "brandName": "EVNROLL",
-    "productTitle": "Neo Classic ER8 38 Tour Spec Putter",
-    "price": "$399.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7f",
-    "brandName": "PING",
-    "productTitle": "2024 Anser D Putter",
-    "price": "$199.98",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a81",
-    "brandName": "TAYLORMADE",
-    "productTitle": "Spider Tour X #3 Putter",
-    "price": "$429.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a85",
-    "brandName": "ODYSSEY",
-    "productTitle": "M CRAFT Type IV Blue Ion Putter",
-    "price": "$299.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a88",
-    "brandName": "Ping",
-    "productTitle": "PLD Milled SE DS72 Hovland Edition Putter",
-    "price": "$449",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a8c",
-    "brandName": "Tour Edge",
-    "productTitle": "HP Series Counter-Balanced CBAL-2 Putter",
-    "price": "$99.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a9a",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa2",
-    "brandName": "Odyssey",
-    "productTitle": "Ai-ONE Cruiser Arm Lock Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aad",
-    "brandName": "PING",
-    "productTitle": "2024 Anser D Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab6",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select GOLO 6.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac3",
-    "brandName": "PING",
-    "productTitle": "2024 Tyne H Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac7",
-    "brandName": "Bettinardi",
-    "productTitle": "BB1 Putter 2024 - Standard Grip",
-    "price": "$449.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a41",
-    "brandName": "PING",
-    "productTitle": "2024 B60 Putter",
-    "price": "$1990",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a47",
-    "brandName": "Bettinardi",
-    "productTitle": "2023 BB28 Armlock Putter",
-    "price": "$4300",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a49",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Phantom X 12.5 Putter",
-    "price": "$42900",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a53",
-    "brandName": "Orlimar Golf",
-    "productTitle": "F70 Putter",
-    "price": "$49.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a77",
-    "brandName": "LAB GOLF",
-    "productTitle": "MEZZ1MAX Custom Counter Balance Putter",
-    "price": "$629.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7b",
-    "brandName": "EVNROLL",
-    "productTitle": "Neo Classic ER538 Tour Spec Putter",
-    "price": "$449.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a83",
-    "brandName": "TITLEIST",
-    "productTitle": "Scotty Cameron 2024 Phantom 75 Putter",
-    "price": "$449.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a9b",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 7 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a9d",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Fastback 1.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a9f",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select GOLO 6 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa1",
-    "brandName": "Odyssey",
-    "productTitle": "A-ONE Cruiser Jailbird Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa9",
-    "brandName": "PING",
-    "productTitle": "2024 Ketsch G Putter",
-    "price": "$249.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aaa",
-    "brandName": "PING",
-    "productTitle": "2024 Fetch Putter",
-    "price": "$227.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab5",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Fastback 1.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a4c",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Special Select Squareback 2 Putter",
-    "price": "$3999",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a74",
-    "brandName": "PING",
-    "productTitle": "Prodi G Anser Putter",
-    "price": "$119.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a90",
-    "brandName": "Cleveland",
-    "productTitle": "Frontline Elite RHO Single Bend Putter",
-    "price": "$149.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a94",
-    "brandName": "Cleveland",
-    "productTitle": "HB Soft 2 #8C Putter",
-    "price": "$149.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa5",
-    "brandName": "Odyssey",
-    "productTitle": "DFX #1 Putter",
-    "price": "$339.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a37",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron 2024 Phantom 7 Putter",
-    "price": "$4490",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a3f",
-    "brandName": "PING",
-    "productTitle": "2023 DS72 C Putter",
-    "price": "$19900",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a48",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Phantom X 5s Putter",
-    "price": "$4299",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a4e",
-    "brandName": "Mizuno Golf",
-    "productTitle": "Mizuno Golf Putter",
-    "price": "$99.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a5a",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One 2 Ball Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a5e",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Rossie S Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a63",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #2T Crank Hosel Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7a",
-    "brandName": "EVNROLL",
-    "productTitle": "22s Putter",
-    "price": "$449.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a7c",
-    "brandName": "EVNROLL",
-    "productTitle": "Z1 Tour Spec Putter",
-    "price": "$449.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a84",
-    "brandName": "TITLEIST",
-    "productTitle": "Scotty Cameron 2024 Phantom 5.5 Putter",
-    "price": "$449.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aab",
-    "brandName": "PING",
-    "productTitle": "2024 Tyne H Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab2",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab9",
-    "brandName": "Odyssey",
-    "productTitle": "A-ONE Cruiser Jailbird Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452abd",
-    "brandName": "Odyssey",
-    "productTitle": "DFX #1 Putter - Oversize Grip 2024",
-    "price": "$339.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a56",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One #1 Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a58",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One #7 Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a64",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #37 S Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a6e",
-    "brandName": "Odyssey Golf",
-    "productTitle": "White Hot OG Double Wide DB Putter",
-    "price": "$199.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a70",
-    "brandName": "Odyssey Golf",
-    "productTitle": "2-Ball Ten Tour Lined S Stroke Lab Putter",
-    "price": "$249.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aac",
-    "brandName": "PING",
-    "productTitle": "2024 Anser 2 Putter",
-    "price": "$227.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab0",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 5.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab1",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 7.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab7",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select GOLO 6 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac1",
-    "brandName": "PING",
-    "productTitle": "2024 Ketsch G Putter",
-    "price": "$249.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac6",
-    "brandName": "Bettinardi",
-    "productTitle": "BB1 Putter 2024 - Jumbo Grip",
-    "price": "$449.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a66",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #7T Double Bend Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a67",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #7T Crank Hosel Putter",
-    "price": "$449.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a6c",
-    "brandName": "Odyssey Golf",
-    "productTitle": "White Hot OG #2 Crank Hosel Putter",
-    "price": "$199.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa6",
-    "brandName": "Odyssey",
-    "productTitle": "DFX 2-Ball Putter",
-    "price": "$277.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aae",
-    "brandName": "Bettinardi",
-    "productTitle": "BB1 Putter 2024 - Jumbo Grip",
-    "price": "$449.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab8",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Del Mar Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452abe",
-    "brandName": "Odyssey",
-    "productTitle": "DFX 2-Ball Putter - Pistol Grip",
-    "price": "$277.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a39",
+    "_id": "67dd04e9e36cd9e9751fbb3b",
     "brandName": "Titleist",
     "productTitle": "Scotty Cameron Special Select Newport 2 Putter",
     "price": "$3999",
@@ -752,47 +8,87 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a50",
-    "brandName": "Ray Cook Golf",
-    "productTitle": "Silver Ray SR595 Putter",
-    "price": "$59.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a52",
-    "brandName": "Orlimar Golf",
-    "productTitle": "F60 Putter",
-    "price": "$49.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a87",
+    "_id": "67dd04e9e36cd9e9751fbb42",
     "brandName": "Odyssey",
-    "productTitle": "Women's DFX #7 Putter",
-    "price": "$159.99",
+    "productTitle": "2023 White Hot Versa Seven DB Putter",
+    "price": "$2299",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5b",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One #7 S Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5f",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Rossie Double Bend Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb7e",
+    "brandName": "EVNROLL",
+    "productTitle": "Z1 Tour Spec Putter",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb86",
+    "brandName": "TITLEIST",
+    "productTitle": "Scotty Cameron 2024 Phantom 5.5 Putter",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb8b",
+    "brandName": "TaylorMade",
+    "productTitle": "Spider GT Rollback Silver/Black Putter",
+    "price": "$299.99",
     "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a9c",
+    "_id": "67dd04e9e36cd9e9751fbbab",
+    "brandName": "PING",
+    "productTitle": "2024 Ketsch G Putter",
+    "price": "$249.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbad",
+    "brandName": "PING",
+    "productTitle": "2024 Tyne H Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb8",
     "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Newport 2 Putter 2024",
+    "productTitle": "Super Select GOLO 6.5 Putter 2024",
     "price": "$449.00",
     "website": "https://www.carlsgolfland.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452aa4",
+    "_id": "67dd04e9e36cd9e9751fbbc0",
     "brandName": "Odyssey",
-    "productTitle": "AONE #1 CH Putter 2024",
-    "price": "$349.99",
+    "productTitle": "DFX 2-Ball Putter - Pistol Grip",
+    "price": "$277.00",
     "website": "https://www.carlsgolfland.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452ac0",
+    "_id": "67dd04e9e36cd9e9751fbbc2",
     "brandName": "Cleveland",
     "productTitle": "Frontline Elite RHO Single Bend Putter",
     "price": "$149.99",
@@ -800,71 +96,7 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452aca",
-    "brandName": "Bettinardi",
-    "productTitle": "BB48 Putter",
-    "price": "$449.99",
-    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a38",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Phantom X 5.5 Putter",
-    "price": "$4299",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a4b",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron Special Select Del Mar Putter",
-    "price": "$3999",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a5b",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Double Wide Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a5c",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Jailbird Mini Crank Hosel Putter",
-    "price": "$299.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a6b",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Versa Twelve Double Bend Putter",
-    "price": "$229.99",
-    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a8b",
-    "brandName": "Odyssey",
-    "productTitle": "DFX #1 Putter",
-    "price": "$197",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a95",
-    "brandName": "Cleveland",
-    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
-    "price": "$149.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac2",
+    "_id": "67dd04e9e36cd9e9751fbbc4",
     "brandName": "PING",
     "productTitle": "2024 Fetch Putter",
     "price": "$227.00",
@@ -872,71 +104,15 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452ac4",
-    "brandName": "PING",
-    "productTitle": "2024 Anser 2 Putter",
-    "price": "$227.00",
+    "_id": "67dd04e9e36cd9e9751fbbc8",
+    "brandName": "Bettinardi",
+    "productTitle": "BB1 Putter 2024 - Jumbo Grip",
+    "price": "$449.99",
     "website": "https://www.carlsgolfland.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a42",
-    "brandName": "PING",
-    "productTitle": "2024 Anser D Putter",
-    "price": "$1990",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a8f",
-    "brandName": "Ping",
-    "productTitle": "Tomcat 14 Counter Balance Putter",
-    "price": "$197",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a97",
-    "brandName": "TaylorMade",
-    "productTitle": "Spider GT Rollback Silver Putter",
-    "price": "$159.99",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a98",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 5.5 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa0",
-    "brandName": "Titleist Scotty Cameron",
-    "productTitle": "Super Select Del Mar Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ac5",
-    "brandName": "PING",
-    "productTitle": "2024 Anser D Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a3b",
-    "brandName": "Titleist",
-    "productTitle": "Scotty Cameron 2024 Phantom 11.5 Putter",
-    "price": "$449",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a3c",
+    "_id": "67dd04e9e36cd9e9751fbb3e",
     "brandName": "Titleist",
     "productTitle": "Scotty Cameron 2024 Phantom 7.5 Putter",
     "price": "$44900",
@@ -944,15 +120,7 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a3e",
-    "brandName": "PING",
-    "productTitle": "2024 Fetch Putter",
-    "price": "$1990",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a46",
+    "_id": "67dd04e9e36cd9e9751fbb48",
     "brandName": "Titleist",
     "productTitle": "2023 Super Select Newport 2.5 Plus Putter",
     "price": "$4490",
@@ -960,135 +128,31 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a73",
-    "brandName": "PING",
-    "productTitle": "Prodi G Tyne H Putter",
-    "price": "$119.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a79",
-    "brandName": "LAB GOLF",
-    "productTitle": "DF3 Custom Armlock Putter",
-    "price": "$399.99",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a8e",
+    "_id": "67dd04e9e36cd9e9751fbb4a",
     "brandName": "Titleist",
-    "productTitle": "Scotty Cameron 83 Triple Black Design LTD Newport 2 Putter",
-    "price": "$750",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a93",
-    "brandName": "Ping",
-    "productTitle": "2024 Anser D Putter",
-    "price": "$197",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452ab3",
-    "brandName": "Never Compromise",
-    "productTitle": "Phantom 7 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452abb",
-    "brandName": "Odyssey",
-    "productTitle": "Ai-ONE Cruiser #7 Putter 2024",
-    "price": "$449.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a3d",
-    "brandName": "TaylorMade",
-    "productTitle": "Spider Tour X Slant Neck Putter",
-    "price": "$34999",
+    "productTitle": "Scotty Cameron Phantom X 5s Putter",
+    "price": "$4299",
     "website": "https://www.tgw.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a5f",
-    "brandName": "Odyssey Golf",
-    "productTitle": "Al One Cruiser Arm Lock #7 Putter",
-    "price": "$349.99",
+    "_id": "67dd04e9e36cd9e9751fbb56",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "Venom 3 Mallet Putter",
+    "price": "$65.00",
     "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a6f",
+    "_id": "67dd04e9e36cd9e9751fbb59",
     "brandName": "Odyssey Golf",
-    "productTitle": "Eleven Tour Lined S Putter",
-    "price": "$249.99",
+    "productTitle": "Al One #2 Mini Crank Hosel Putter",
+    "price": "$299.99",
     "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a82",
-    "brandName": "PING",
-    "productTitle": "2024 Anser 2 Putter",
-    "price": "$199.98",
-    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a8d",
-    "brandName": "Ping",
-    "productTitle": "DS72 C Putter",
-    "price": "$197",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a96",
-    "brandName": "Ping",
-    "productTitle": "Anser Putter",
-    "price": "$197",
-    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452aa8",
-    "brandName": "Cleveland",
-    "productTitle": "Frontline Elite RHO Single Bend Putter",
-    "price": "$149.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452abc",
-    "brandName": "Odyssey",
-    "productTitle": "AONE #1 CH Putter 2024",
-    "price": "$349.99",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452abf",
-    "brandName": "Cleveland",
-    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
-    "price": "$197.00",
-    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a45",
-    "brandName": "PING",
-    "productTitle": "PLD Milled SE Anser 30 Putter",
-    "price": "$449",
-    "website": "https://www.tgw.com/golf-clubs/putters",
-    "__v": 0
-  },
-  {
-    "_id": "67c39605806059cb9d452a61",
+    "_id": "67dd04e9e36cd9e9751fbb63",
     "brandName": "Odyssey Golf",
     "productTitle": "Al One Milled Double Wide Putter",
     "price": "$349.99",
@@ -1096,15 +160,183 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a76",
+    "_id": "67dd04e9e36cd9e9751fbb67",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #6T Double Bend Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb77",
     "brandName": "LAB GOLF",
-    "productTitle": "DF3 Custom Counter Balance Putter",
-    "price": "$619.99",
+    "productTitle": "DF3 Custom Broomstick Putter",
+    "price": "$629.99",
     "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a80",
+    "_id": "67dd04e9e36cd9e9751fbb7d",
+    "brandName": "EVNROLL",
+    "productTitle": "Neo Classic ER538 Tour Spec Putter",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb94",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Special Select Newport 2.5 Putter",
+    "price": "$399",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb9a",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 5.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbae",
+    "brandName": "PING",
+    "productTitle": "2024 Anser 2 Putter",
+    "price": "$227.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb3",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 7.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbc9",
+    "brandName": "Bettinardi",
+    "productTitle": "BB1 Putter 2024 - Standard Grip",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb3f",
+    "brandName": "TaylorMade",
+    "productTitle": "Spider Tour X Slant Neck Putter",
+    "price": "$34999",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb43",
+    "brandName": "PING",
+    "productTitle": "2024 B60 Putter",
+    "price": "$1990",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb4c",
+    "brandName": "Bettinardi",
+    "productTitle": "2024 Inovai 10.0 Series Plumbers Putter",
+    "price": "$4000",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb52",
+    "brandName": "Ray Cook Golf",
+    "productTitle": "Silver Ray SR595 Putter",
+    "price": "$59.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb57",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "Venom 1 Blade Putter",
+    "price": "$65.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb58",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One #1 Crank Hosel Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5e",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Jailbird Mini Crank Hosel Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb61",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Cruiser Arm Lock #7 Putter",
+    "price": "$349.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6f",
+    "brandName": "Odyssey Golf",
+    "productTitle": "White Hot OG 2-Ball Putter",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb70",
+    "brandName": "Odyssey Golf",
+    "productTitle": "White Hot OG Double Wide DB Putter",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb72",
+    "brandName": "Odyssey Golf",
+    "productTitle": "2-Ball Ten Tour Lined S Stroke Lab Putter",
+    "price": "$249.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb73",
+    "brandName": "Odyssey Golf",
+    "productTitle": "2-Ball Ten Black Stroke Lab Putter",
+    "price": "$249.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb79",
+    "brandName": "LAB GOLF",
+    "productTitle": "MEZZ1MAX Custom Counter Balance Putter",
+    "price": "$629.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb7a",
+    "brandName": "EVNROLL",
+    "productTitle": "Neo Classic ER8 38 Tour Spec Putter",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb82",
     "brandName": "BETTINARDI",
     "productTitle": "Queen B 6 Putter",
     "price": "$349.98",
@@ -1112,23 +344,71 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a8a",
-    "brandName": "Ping",
-    "productTitle": "2024 Anser 2 Putter",
-    "price": "$227",
+    "_id": "67dd04e9e36cd9e9751fbb88",
+    "brandName": "TaylorMade",
+    "productTitle": "Spider GT Rollback Silver/Black Single Bend Putter",
+    "price": "$299.99",
     "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a91",
+    "_id": "67dd04e9e36cd9e9751fbb8e",
+    "brandName": "Tour Edge",
+    "productTitle": "HP Series Counter-Balanced CBAL-2 Putter",
+    "price": "$99.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb96",
     "brandName": "Cleveland",
-    "productTitle": "Frontline Elite 8.0 Putter",
+    "productTitle": "HB Soft 2 #8C Putter",
     "price": "$149.99",
     "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452aba",
+    "_id": "67dd04e9e36cd9e9751fbb9d",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 7 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb9e",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Newport 2 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb1",
+    "brandName": "Bettinardi",
+    "productTitle": "BB1 Putter 2024 - Standard Grip",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb2",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 5.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb4",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbbc",
     "brandName": "Odyssey",
     "productTitle": "Ai-ONE Cruiser #7 Arm Lock Putter 2024",
     "price": "$349.99",
@@ -1136,15 +416,87 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452ac8",
-    "brandName": "PIng",
+    "_id": "67dd04e9e36cd9e9751fbbc6",
+    "brandName": "PING",
+    "productTitle": "2024 Anser 2 Putter",
+    "price": "$227.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbc7",
+    "brandName": "PING",
+    "productTitle": "2024 Anser D Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbca",
+    "brandName": "PING",
     "productTitle": "PLD Milled SE DS72 Hovland Edition Putter",
     "price": "$149.99",
     "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&filter.hand=Left%20Hand&filter.gender=Men%27s&resultsPerPage=36",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a51",
+    "_id": "67dd04e9e36cd9e9751fbb39",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron 2024 Phantom 7 Putter",
+    "price": "$4490",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb40",
+    "brandName": "PING",
+    "productTitle": "2024 Fetch Putter",
+    "price": "$1990",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb41",
+    "brandName": "PING",
+    "productTitle": "2023 DS72 C Putter",
+    "price": "$19900",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb45",
+    "brandName": "Odyssey",
+    "productTitle": "Ai-One Milled #11 Double Bend Putter",
+    "price": "$4499",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb4b",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Phantom X 12.5 Putter",
+    "price": "$42900",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb4e",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Special Select Squareback 2 Putter",
+    "price": "$3999",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb51",
+    "brandName": "Ray Cook Golf",
+    "productTitle": "Silver Ray SR500 Center Shafted Putter",
+    "price": "$59.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb53",
     "brandName": "Ray Cook Golf",
     "productTitle": "Silver Ray SR600 Putter",
     "price": "$49.99",
@@ -1152,7 +504,31 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a60",
+    "_id": "67dd04e9e36cd9e9751fbb55",
+    "brandName": "Orlimar Golf",
+    "productTitle": "F70 Putter",
+    "price": "$49.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5c",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One 2 Ball Crank Hosel Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb60",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Rossie S Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb62",
     "brandName": "Odyssey Golf",
     "productTitle": "Al One Cruiser #7 Putter",
     "price": "$349.99",
@@ -1160,15 +536,311 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a69",
+    "_id": "67dd04e9e36cd9e9751fbb65",
     "brandName": "Odyssey Golf",
-    "productTitle": "Al One Milled #11T Double Bend Putter",
+    "productTitle": "Al One Milled #2T Crank Hosel Putter",
     "price": "$449.99",
     "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a72",
+    "_id": "67dd04e9e36cd9e9751fbb66",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #37 S Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb68",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #7T Double Bend Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb76",
+    "brandName": "PING",
+    "productTitle": "Prodi G Anser Putter",
+    "price": "$119.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb7c",
+    "brandName": "EVNROLL",
+    "productTitle": "22s Putter",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb89",
+    "brandName": "Odyssey",
+    "productTitle": "Women's DFX #7 Putter",
+    "price": "$159.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb8d",
+    "brandName": "Odyssey",
+    "productTitle": "DFX #1 Putter",
+    "price": "$197",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb8f",
+    "brandName": "Ping",
+    "productTitle": "DS72 C Putter",
+    "price": "$197",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb90",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron 83 Triple Black Design LTD Newport 2 Putter",
+    "price": "$750",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb97",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb98",
+    "brandName": "Ping",
+    "productTitle": "Anser Putter",
+    "price": "$197",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba4",
+    "brandName": "Odyssey",
+    "productTitle": "Ai-ONE Cruiser Arm Lock Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba9",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbac",
+    "brandName": "PING",
+    "productTitle": "2024 Fetch Putter",
+    "price": "$227.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbba",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Del Mar Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbbe",
+    "brandName": "Odyssey",
+    "productTitle": "AONE #1 CH Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbbf",
+    "brandName": "Odyssey",
+    "productTitle": "DFX #1 Putter - Oversize Grip 2024",
+    "price": "$339.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbc1",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite Elevado Slant Neck Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb3a",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Phantom X 5.5 Putter",
+    "price": "$4299",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb44",
+    "brandName": "PING",
+    "productTitle": "2024 Anser D Putter",
+    "price": "$1990",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb4f",
+    "brandName": "Lynx",
+    "productTitle": "Predator Putter",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb50",
+    "brandName": "Mizuno Golf",
+    "productTitle": "Mizuno Golf Putter",
+    "price": "$99.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb69",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #7T Crank Hosel Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6d",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Versa Twelve Double Bend Putter",
+    "price": "$229.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb78",
+    "brandName": "LAB GOLF",
+    "productTitle": "DF3 Custom Counter Balance Putter",
+    "price": "$619.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb84",
+    "brandName": "PING",
+    "productTitle": "2024 Anser 2 Putter",
+    "price": "$199.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb91",
+    "brandName": "Ping",
+    "productTitle": "Tomcat 14 Counter Balance Putter",
+    "price": "$197",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba1",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select GOLO 6 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba8",
+    "brandName": "Odyssey",
+    "productTitle": "DFX 2-Ball Putter",
+    "price": "$277.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbaa",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite RHO Single Bend Putter",
+    "price": "$149.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb6",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Newport 2 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbcb",
+    "brandName": "Ping",
+    "productTitle": "PLD Milled SE DS72 Hovland Edition Putter",
+    "price": "$447.00",
+    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb3c",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Special Select Flowback 5.5 Putter",
+    "price": "$3999",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb46",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron 2024 Phantom 5 Putter",
+    "price": "$4490",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb54",
+    "brandName": "Orlimar Golf",
+    "productTitle": "F60 Putter",
+    "price": "$49.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5a",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One #7 Crank Hosel Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb5d",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Double Wide Crank Hosel Putter",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6c",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Versa Twelve S Putter",
+    "price": "$229.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb74",
     "brandName": "Odyssey Golf",
     "productTitle": "Ten S Black Stroke Lab Putter",
     "price": "$249.99",
@@ -1176,10 +848,338 @@
     "__v": 0
   },
   {
-    "_id": "67c39605806059cb9d452a9e",
+    "_id": "67dd04e9e36cd9e9751fbb75",
+    "brandName": "PING",
+    "productTitle": "Prodi G Tyne H Putter",
+    "price": "$119.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb7b",
+    "brandName": "LAB GOLF",
+    "productTitle": "DF3 Custom Armlock Putter",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb7f",
+    "brandName": "EVNROLL",
+    "productTitle": "71 Putter",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb80",
+    "brandName": "PING",
+    "productTitle": "2024 Tyne H Putter",
+    "price": "$199.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb85",
+    "brandName": "TITLEIST",
+    "productTitle": "Scotty Cameron 2024 Phantom 75 Putter",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb9f",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Fastback 1.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba2",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Del Mar Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba7",
+    "brandName": "Odyssey",
+    "productTitle": "DFX #1 Putter",
+    "price": "$339.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb5",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 7 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb7",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select Fastback 1.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbc5",
+    "brandName": "PING",
+    "productTitle": "2024 Tyne H Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb49",
+    "brandName": "Bettinardi",
+    "productTitle": "2023 BB28 Armlock Putter",
+    "price": "$4300",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6e",
+    "brandName": "Odyssey Golf",
+    "productTitle": "White Hot OG #2 Crank Hosel Putter",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb71",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Eleven Tour Lined S Putter",
+    "price": "$249.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb83",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Spider Tour X #3 Putter",
+    "price": "$429.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb87",
+    "brandName": "ODYSSEY",
+    "productTitle": "M CRAFT Type IV Blue Ion Putter",
+    "price": "$299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb8c",
+    "brandName": "Ping",
+    "productTitle": "2024 Anser 2 Putter",
+    "price": "$227",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb95",
+    "brandName": "Ping",
+    "productTitle": "2024 Anser D Putter",
+    "price": "$197",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb99",
+    "brandName": "TaylorMade",
+    "productTitle": "Spider GT Rollback Silver Putter",
+    "price": "$159.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba0",
     "brandName": "Titleist Scotty Cameron",
     "productTitle": "Super Select GOLO 6.5 Putter 2024",
     "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba3",
+    "brandName": "Odyssey",
+    "productTitle": "A-ONE Cruiser Jailbird Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba6",
+    "brandName": "Odyssey",
+    "productTitle": "AONE #1 CH Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbaf",
+    "brandName": "PING",
+    "productTitle": "2024 Anser D Putter",
+    "price": "$197.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb9",
+    "brandName": "Titleist Scotty Cameron",
+    "productTitle": "Super Select GOLO 6 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbbb",
+    "brandName": "Odyssey",
+    "productTitle": "A-ONE Cruiser Jailbird Putter 2024",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbcc",
+    "brandName": "Bettinardi",
+    "productTitle": "BB48 Putter",
+    "price": "$449.99",
+    "website": "https://www.golfdiscount.com/catalogsearch/result/?q=gloves&resultsPerPage=36&filter.hand=Right%20Hand&filter.gender=Men%27s",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb3d",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron 2024 Phantom 11.5 Putter",
+    "price": "$449",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb47",
+    "brandName": "PING",
+    "productTitle": "PLD Milled SE Anser 30 Putter",
+    "price": "$449",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb4d",
+    "brandName": "Titleist",
+    "productTitle": "Scotty Cameron Special Select Del Mar Putter",
+    "price": "$3999",
+    "website": "https://www.tgw.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb64",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #1T Crank Hosel Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6a",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #8T S Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb6b",
+    "brandName": "Odyssey Golf",
+    "productTitle": "Al One Milled #11T Double Bend Putter",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb81",
+    "brandName": "PING",
+    "productTitle": "2024 Anser D Putter",
+    "price": "$199.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb8a",
+    "brandName": "Ping",
+    "productTitle": "PLD Milled SE DS72 Hovland Edition Putter",
+    "price": "$449",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb92",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite RHO Single Bend Putter",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb93",
+    "brandName": "Cleveland",
+    "productTitle": "Frontline Elite 8.0 Putter",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/putters?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb9b",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 7.5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbb9c",
+    "brandName": "Never Compromise",
+    "productTitle": "Phantom 5 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbba5",
+    "brandName": "Odyssey",
+    "productTitle": "Ai-ONE Cruiser #7 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbb0",
+    "brandName": "Bettinardi",
+    "productTitle": "BB1 Putter 2024 - Jumbo Grip",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbbd",
+    "brandName": "Odyssey",
+    "productTitle": "Ai-ONE Cruiser #7 Putter 2024",
+    "price": "$449.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/putters",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbc3",
+    "brandName": "PING",
+    "productTitle": "2024 Ketsch G Putter",
+    "price": "$249.99",
     "website": "https://www.carlsgolfland.com/golf-clubs/putters",
     "__v": 0
   }

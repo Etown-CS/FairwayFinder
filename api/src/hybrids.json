@@ -1,0 +1,866 @@
+[
+  {
+    "_id": "67dd04e9e36cd9e9751fbe67",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym AI Smoke Hybrid",
+    "price": "$279.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7f",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Stealth 2 HD Rescue Hybrid",
+    "price": "$219.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe96",
+    "brandName": "CALLAWAY",
+    "productTitle": "Paradym Hybrid",
+    "price": "$219.98 - $299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9b",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke HL Hybrid",
+    "price": "$159.95",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9d",
+    "brandName": "Callaway",
+    "productTitle": "MAVRIK Hybrid",
+    "price": "$149.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea0",
+    "brandName": "XXIO",
+    "productTitle": "Women's 13 Hybrid",
+    "price": "$299.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeab",
+    "brandName": "Callaway",
+    "productTitle": "Apex Pro 21 Hybrids",
+    "price": "$249.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb0",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA 23 Hybrids",
+    "price": "$99.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb3",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX Fast Hybrids 2024",
+    "price": "$199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb5",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST 24 Max Hybrids",
+    "price": "$199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb8",
+    "brandName": "Titleist",
+    "productTitle": "Hybrids 2024",
+    "price": "$269.99 - $299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec3",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA Hybrids",
+    "price": "$219.99 - $249.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec7",
+    "brandName": "Hirzl Golf",
+    "productTitle": "MLH Hybrid Glove",
+    "price": "$14.97",
+    "website": "https://www.rockbottomgolf.com/accessories/gloves/#?profile_id=9a60e9bcfd4c1a789dfe41a2ec4ffd11&session_id=468725c2-d939-11ef-b74b-0242ac110003&Gender=Mens&Dexteritysearch=&Searchcat1=Gloves&Dexterity=Right&search_return=all",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe64",
+    "brandName": "Callaway",
+    "productTitle": "Men's Mavrik Hybrid",
+    "price": "$149.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe66",
+    "brandName": "PING",
+    "productTitle": "Men's G425 Hybrid",
+    "price": "$219.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe71",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "SIM2 Max Rescue Hybrid",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe74",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "685X Hybrid",
+    "price": "$99.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe76",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Exotics E725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7c",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Hybrid",
+    "price": "$249.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe89",
+    "brandName": "PING",
+    "productTitle": "G430 Hybrid",
+    "price": "$239.98 - $279.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe91",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics E725 Women's Hybrid",
+    "price": "$199.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe95",
+    "brandName": "MIZUNO",
+    "productTitle": "ST-Z 230 Hybrid",
+    "price": "$159.98 - $249.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea9",
+    "brandName": "TaylorMade",
+    "productTitle": "Stealth 2 Rescue Hybrids",
+    "price": "$279.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeae",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Hybrids",
+    "price": "$259.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb2",
+    "brandName": "Callaway",
+    "productTitle": "Womens Great Big Bertha Hybrids 2023",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe5e",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi10 MAX Rescue Hybrid",
+    "price": "$299.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6a",
+    "brandName": "Cobra",
+    "productTitle": "Men's AirX2 Hybrid",
+    "price": "$199.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe83",
+    "brandName": "Mizuno Golf",
+    "productTitle": "ST-MAX 230 Hybrid",
+    "price": "$159.95",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8e",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Prodi G Hybrid",
+    "price": "$144.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe92",
+    "brandName": "TITLEIST",
+    "productTitle": "TSR2 Hybrid",
+    "price": "$249.98 - $299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe93",
+    "brandName": "COBRA",
+    "productTitle": "Aerojet One Length Hybrid",
+    "price": "$129.98 - $279.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea2",
+    "brandName": "Tour Edge",
+    "productTitle": "Exotics E725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea4",
+    "brandName": "Ping",
+    "productTitle": "G430 HL Hybrid",
+    "price": "$237",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeaf",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik Max Hybrids",
+    "price": "$219.99 - $449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb1",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA Hybrids",
+    "price": "$259.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb7",
+    "brandName": "TaylorMade",
+    "productTitle": "Hybrids 2024",
+    "price": "$297.60 - $237.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec0",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Hybrids 2024",
+    "price": "$279.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec5",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX Fast Hybrids 2024",
+    "price": "$199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe5c",
+    "brandName": "PING",
+    "productTitle": "Men's G430 Hybrid",
+    "price": "$239.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe69",
+    "brandName": "Titleist",
+    "productTitle": "Men's TSi3 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe75",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Exotics C725 Hybrid",
+    "price": "$99.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7a",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Ai Smoke Hybrid",
+    "price": "$279.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7e",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Qi10 Hybrid",
+    "price": "$299.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe82",
+    "brandName": "Cobra Golf",
+    "productTitle": "King Tec Hybrid",
+    "price": "$299.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe87",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Exotics C723 Hybrid",
+    "price": "$169.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8c",
+    "brandName": "PING",
+    "productTitle": "G430 HL Hybrid",
+    "price": "$209.98 - $279.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8f",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics C725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe90",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics E725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9a",
+    "brandName": "Ping",
+    "productTitle": "G425 Hybrid",
+    "price": "$217",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea6",
+    "brandName": "Callaway",
+    "productTitle": "Apex 21 Hybrids",
+    "price": "$237.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea8",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Super Hybrid 2024",
+    "price": "$399.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeba",
+    "brandName": "TaylorMade",
+    "productTitle": "Stealth 2 Rescue Hybrids",
+    "price": "$279.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbebc",
+    "brandName": "Callaway",
+    "productTitle": "Apex Pro 21 Hybrids",
+    "price": "$99.99 - $269.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbebd",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Hybrids",
+    "price": "$149.99 - $299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec1",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST 24 Max Hybrids",
+    "price": "$199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec2",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA 23 Hybrids",
+    "price": "$99.99 - $259.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe5f",
+    "brandName": "Cleveland",
+    "productTitle": "Men's Launcher Halo XL Hybrid",
+    "price": "$199.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe65",
+    "brandName": "Titleist",
+    "productTitle": "Men's TSR2 Hybrid",
+    "price": "$249.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6e",
+    "brandName": "Callaway Golf",
+    "productTitle": "Rogue ST Pro Hybrid",
+    "price": "$139.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe78",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E522 Offset Hybrid",
+    "price": "$99.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7b",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Utility Hybrid",
+    "price": "$289.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe81",
+    "brandName": "Cleveland Golf",
+    "productTitle": "Halo XL Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe86",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch E524 Hybrid",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8a",
+    "brandName": "PING",
+    "productTitle": "G425 Hybrid Mens",
+    "price": "$249.99 - $299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8b",
+    "brandName": "MIZUNO",
+    "productTitle": "ST-Max 230 Hybrid",
+    "price": "$159.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe94",
+    "brandName": "CLEVELAND",
+    "productTitle": "Launcher Halo XL 2024 Hybrid",
+    "price": "$199.98 - $229.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe98",
+    "brandName": "TITLEIST",
+    "productTitle": "TSR1 Hybrid",
+    "price": "$249.98 - $299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea1",
+    "brandName": "Tour Edge",
+    "productTitle": "Women's Exotics E725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea3",
+    "brandName": "Tour Edge",
+    "productTitle": "Exotics C725 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea7",
+    "brandName": "Titleist",
+    "productTitle": "Hybrids 2024",
+    "price": "$269.99 - $299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbebf",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Hybrids",
+    "price": "$219.99 - $199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe5d",
+    "brandName": "PING",
+    "productTitle": "Men's G410 Hybrid",
+    "price": "$135.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe60",
+    "brandName": "PING",
+    "productTitle": "Men's G430 HL Hybrid",
+    "price": "$239.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6b",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi10 Tour Rescue Hybrid",
+    "price": "$299.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe72",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Stealth Rescue Hybrid",
+    "price": "$169.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe79",
+    "brandName": "Callaway Golf",
+    "productTitle": "Rogue ST Max Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe7d",
+    "brandName": "Callaway Golf",
+    "productTitle": "Rogue ST Max OS Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe80",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR1 Hybrid",
+    "price": "$249.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9c",
+    "brandName": "Mizuno",
+    "productTitle": "ST-Max 230 Hybrid",
+    "price": "$187",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbea5",
+    "brandName": "TaylorMade",
+    "productTitle": "G430 Hybrids",
+    "price": "$297.60",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbebb",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha B21 Hybrids",
+    "price": "$198.99 - $249.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6c",
+    "brandName": "Honma Golf",
+    "productTitle": "TW 757 Hybrid",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6f",
+    "brandName": "Callaway Golf",
+    "productTitle": "Mavrik Hybrid",
+    "price": "$149.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe73",
+    "brandName": "XXIO Golf",
+    "productTitle": "Prime 11 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe85",
+    "brandName": "Lynx Golf",
+    "productTitle": "Predator Hybrid",
+    "price": "$99.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe97",
+    "brandName": "CALLAWAY",
+    "productTitle": "Paradym X Hybrid",
+    "price": "$219.98 - $299.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbead",
+    "brandName": "Callaway",
+    "productTitle": "Great Big Bertha Hybrids",
+    "price": "$299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb9",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Super Hybrid 2024",
+    "price": "$399.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe61",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi10 Rescue Hybrid",
+    "price": "$299.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe62",
+    "brandName": "PING",
+    "productTitle": "Men's iCrossover Hybrid",
+    "price": "$249.00",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe63",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym AI Smoke HL Hybrid",
+    "price": "$279.99",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe68",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym Star Hybrid",
+    "price": "$212.40",
+    "website": "https://www.tgw.com/golf-clubs/hybrid-golf-clubs",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe6d",
+    "brandName": "Callaway Golf",
+    "productTitle": "Apex Pro 21 Hybrid",
+    "price": "$139.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe70",
+    "brandName": "Cobra Golf",
+    "productTitle": "LTDx Hybrid",
+    "price": "$114.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe77",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Hot Launch C522 Hybrid",
+    "price": "$199.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe84",
+    "brandName": "Srixon Golf",
+    "productTitle": "ZX MKII Hybrid",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe88",
+    "brandName": "Tour Edge Golf",
+    "productTitle": "Exotics E723 Hybrid",
+    "price": "$169.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe8d",
+    "brandName": "CALLAWAY",
+    "productTitle": "Mavrik 2022 Hybrid",
+    "price": "$149.98 - $199.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe99",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Hybrid",
+    "price": "$279.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9e",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Max Fast Hybrid",
+    "price": "$279.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbe9f",
+    "brandName": "Callaway",
+    "productTitle": "Women's Paradym Ai Smoke Hybrid Max Fast",
+    "price": "$279.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/hybrids?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeaa",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha B21 Hybrids",
+    "price": "$198.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeac",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Hybrids",
+    "price": "$149.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb4",
+    "brandName": "Callaway",
+    "productTitle": "Womens Rogue ST 24 Max OS Lite Hybrids",
+    "price": "$279.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbeb6",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST Pro Hybrids",
+    "price": "$279.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbebe",
+    "brandName": "Callaway",
+    "productTitle": "Great Big Bertha Hybrids",
+    "price": "$259.99 - $449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec4",
+    "brandName": "Callaway",
+    "productTitle": "Womens Great Big Bertha Hybrids 2023",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbec6",
+    "brandName": "Callaway",
+    "productTitle": "Womens Rogue ST X Hybrids",
+    "price": "$199.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/hybrids",
+    "__v": 0
+  }
+]

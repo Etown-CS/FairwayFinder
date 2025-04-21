@@ -1,996 +1,1090 @@
 [
   {
-    "_id": "672eb573c9bae5e02c703d20",
-    "brand_name": "Titleist",
-    "product_title": "Men's GT 3 Driver",
+    "_id": "67dd04e9e36cd9e9751fbbcf",
+    "brandName": "Titleist",
+    "productTitle": "Men's GT 3 Driver",
     "price": "$649.99 - $849.99",
-    "website": "TGW.com"
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d21",
-    "brand_name": "PING",
-    "product_title": "Men's G430 MAX Driver",
-    "price": "$599.00",
-    "website": "TGW.com"
+    "_id": "67dd04e9e36cd9e9751fbbdf",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's QO LS Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d22",
-    "brand_name": "PING",
-    "product_title": "Men's G430 Max 10K Driver",
-    "price": "$399.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d23",
-    "brand_name": "Titleist",
-    "product_title": "Men's GT 2 Driver",
-    "price": "$649.99 - $849.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d24",
-    "brand_name": "PING",
-    "product_title": "Men's G430 LST Driver",
-    "price": "$399.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d25",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's Qi10 Driver",
-    "price": "$599.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d26",
-    "brand_name": "Callaway",
-    "product_title": "Men's Paradym Al Smoke Max Driver",
-    "price": "$599.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d27",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's Stealth 2 Driver",
+    "_id": "67dd04e9e36cd9e9751fbbe7",
+    "brandName": "Honma Golf",
+    "productTitle": "TW 757 S Driver",
     "price": "$329.99",
-    "website": "TGW.com"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d28",
-    "brand_name": "Titleist",
-    "product_title": "Men's GT 4 Driver",
-    "price": "$649.99 - $849.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d29",
-    "brand_name": "Callaway",
-    "product_title": "Men's Mavrik Driver",
-    "price": "$249.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2a",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's SIM2 MAX Driver",
-    "price": "$299.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2b",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's BRNR Copper Mini Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2c",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's Qi10 MAX Driver",
-    "price": "$599.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2d",
-    "brand_name": "Callaway",
-    "product_title": "Men's Paradym Ai Smoke Ti 340 Mini Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2e",
-    "brand_name": "Callaway",
-    "product_title": "Women's Paradym Ai Smoke TI 340 Mini Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d2f",
-    "brand_name": "Callaway",
-    "product_title": "Men's Big Bertha 23 Driver",
-    "price": "$212.49",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d30",
-    "brand_name": "TaylorMade",
-    "product_title": "Men's QO LS Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d31",
-    "brand_name": "Titleist",
-    "product_title": "Men's TSR 3 Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d32",
-    "brand_name": "Titleist",
-    "product_title": "Men's TSR 2 Driver",
-    "price": "$449.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d33",
-    "brand_name": "PING",
-    "product_title": "Men's G430 SFT Driver",
-    "price": "$399.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d34",
-    "brand_name": "PING",
-    "product_title": "Women's G425 MAX Driver",
-    "price": "$399.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d35",
-    "brand_name": "Cobra",
-    "product_title": "Men's Darkspeed LS Driver",
-    "price": "$549.00",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d36",
-    "brand_name": "Cleveland",
-    "product_title": "Men's Launcher XL 2 Draw Driver",
-    "price": "$349.99",
-    "website": "TGW.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d37",
-    "brand_name": "Adams Golf",
-    "product_title": "Idea Driver",
-    "price": "$239.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d38",
-    "brand_name": "Honma Golf",
-    "product_title": "TW 757 S Driver",
+    "_id": "67dd04e9e36cd9e9751fbbe9",
+    "brandName": "Honma Golf",
+    "productTitle": "TW 757 D Driver",
     "price": "$329.99",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d39",
-    "brand_name": "Callaway Golf",
-    "product_title": "Great Big Bertha Driver",
-    "price": "$399.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d3a",
-    "brand_name": "Honma Golf",
-    "product_title": "TW 757 D Driver",
-    "price": "$329.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d3b",
-    "brand_name": "Callaway Golf",
-    "product_title": "Mavrik Driver",
-    "price": "$249.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d3c",
-    "brand_name": "TaylorMade Golf",
-    "product_title": "SIM2 Max Driver",
-    "price": "$299.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d3d",
-    "brand_name": "Mizuno Golf",
-    "product_title": "ST-X 230 Driver",
+    "_id": "67dd04e9e36cd9e9751fbbec",
+    "brandName": "Mizuno Golf",
+    "productTitle": "ST-X 230 Driver",
     "price": "$219.00",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d3e",
-    "brand_name": "Cobra Golf",
-    "product_title": "LTDx Max Driver",
-    "price": "$179.99",
-    "website": "Rock Bottom Golf"
+    "_id": "67dd04e9e36cd9e9751fbbf1",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Ai Smoke Max Driver",
+    "price": "$599.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d3f",
-    "brand_name": "Snake Eyes Golf",
-    "product_title": "685X Driver",
+    "_id": "67dd04e9e36cd9e9751fbbf3",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Ai Smoke Max D Driver",
+    "price": "$399.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf8",
+    "brandName": "Callaway Golf",
+    "productTitle": "Rogue ST Max Driver",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc0c",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics E725 Driver",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc12",
+    "brandName": "PING",
+    "productTitle": "G430 Mini Driver",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc20",
+    "brandName": "TaylorMade",
+    "productTitle": "Qi10 Driver",
+    "price": "$599.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc28",
+    "brandName": "Cobra",
+    "productTitle": "LTDx Max Driver Peacoat",
+    "price": "$184.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc37",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST 24 Max Driver",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbdd",
+    "brandName": "Callaway",
+    "productTitle": "Women's Paradym Ai Smoke TI 340 Mini Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe2",
+    "brandName": "PING",
+    "productTitle": "Men's G430 SFT Driver",
+    "price": "$399.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf0",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Qi10 Driver",
+    "price": "$599.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf4",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Ai Smoke Triple Diamond Driver",
+    "price": "$599.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf6",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym X Driver",
+    "price": "$349.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbfe",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR4 Driver",
+    "price": "$649.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc11",
+    "brandName": "CALLAWAY",
+    "productTitle": "Paradym Ai Smoke Ti340 Driver",
+    "price": "$599.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc13",
+    "brandName": "TAYLORMADE",
+    "productTitle": "BRNR Mini Driver Copper",
+    "price": "$449.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc18",
+    "brandName": "PING",
+    "productTitle": "G430 SFT Driver",
+    "price": "$399.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1f",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Triple Diamond Driver",
+    "price": "$599.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc27",
+    "brandName": "Cobra",
+    "productTitle": "LTDx Max Driver Black",
+    "price": "$184.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc29",
+    "brandName": "Cleveland",
+    "productTitle": "Launcher XL2 Driver",
+    "price": "$349.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc2f",
+    "brandName": "TaylorMade",
+    "productTitle": "SIM 2 Max Driver",
+    "price": "$328.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc31",
+    "brandName": "PING",
+    "productTitle": "G430 MAX 10K Driver",
+    "price": "$649.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3a",
+    "brandName": "Callaway",
+    "productTitle": "Womens Mavrik 22 Driver",
+    "price": "$299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc43",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST MAX D Driver",
+    "price": "$299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc4f",
+    "brandName": "Callaway",
+    "productTitle": "Womens Great Big Bertha Driver",
+    "price": "$379.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd4",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi10 Driver",
+    "price": "$599.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd5",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym Al Smoke Max Driver",
+    "price": "$599.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbdc",
+    "brandName": "Callaway",
+    "productTitle": "Men's Paradym Ai Smoke Ti 340 Mini Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbee",
+    "brandName": "Snake Eyes Golf",
+    "productTitle": "685X Driver",
     "price": "$199.95",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d40",
-    "brand_name": "TaylorMade Golf",
-    "product_title": "Burner Mini 2.0 Copper Driver",
+    "_id": "67dd04e9e36cd9e9751fbbef",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "Burner Mini 2.0 Copper Driver",
     "price": "$449.99",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d41",
-    "brand_name": "TaylorMade Golf",
-    "product_title": "Qi10 Driver",
-    "price": "$599.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d42",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym Ai Smoke Max Driver",
-    "price": "$599.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d43",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym Ai Smoke Triple Diamond Driver",
+    "_id": "67dd04e9e36cd9e9751fbbf2",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Ai Smoke Triple Diamond Driver",
     "price": "$349.99",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d44",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym Ai Smoke Max D Driver",
-    "price": "$399.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d45",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym Ai Smoke Triple Diamond Driver",
-    "price": "$599.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d46",
-    "brand_name": "Callaway Golf",
-    "product_title": "Big Bertha Driver",
-    "price": "$599.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d47",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym X Driver",
-    "price": "$349.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d48",
-    "brand_name": "Callaway Golf",
-    "product_title": "Paradym Driver",
-    "price": "$449.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d49",
-    "brand_name": "Callaway Golf",
-    "product_title": "Rogue ST Max Driver",
-    "price": "$449.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4a",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR1 Driver",
-    "price": "$449.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4b",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR2 Driver",
-    "price": "$449.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4c",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR2 Driver With Premium Shafts",
-    "price": "$649.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4d",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR3 Driver",
-    "price": "$449.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4e",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR3 Driver With Premium Shafts",
-    "price": "$649.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d4f",
-    "brand_name": "Titleist Golf",
-    "product_title": "TSR4 Driver",
-    "price": "$649.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d50",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT2 Driver",
+    "_id": "67dd04e9e36cd9e9751fbbff",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT2 Driver",
     "price": "$649.99",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d51",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT3 Driver",
-    "price": "$649.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d52",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT4 Driver",
-    "price": "$649.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d53",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT2 Driver",
-    "price": "$849.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d54",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT3 Driver",
-    "price": "$849.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d55",
-    "brand_name": "Titleist Golf",
-    "product_title": "GT4 Driver",
-    "price": "$849.99",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d56",
-    "brand_name": "Cobra Golf",
-    "product_title": "DarkSpeed LS Driver",
-    "price": "$249.00",
-    "website": "Rock Bottom Golf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d57",
-    "brand_name": "Cobra Golf",
-    "product_title": "Aerojet Max Driver",
+    "_id": "67dd04e9e36cd9e9751fbc06",
+    "brandName": "Cobra Golf",
+    "productTitle": "Aerojet Max Driver",
     "price": "$219.00",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d58",
-    "brand_name": "Cobra Golf",
-    "product_title": "LTDX LS Driver",
+    "_id": "67dd04e9e36cd9e9751fbc07",
+    "brandName": "Cobra Golf",
+    "productTitle": "LTDX LS Driver",
     "price": "$219.00",
-    "website": "Rock Bottom Golf"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d59",
-    "brand_name": "Callaway",
-    "product_title": "XR 16 Paradym X",
-    "price": "$399.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5a",
-    "brand_name": "Callaway",
-    "product_title": "Great Big Bertha Epic",
-    "price": "$199.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5b",
-    "brand_name": "Cobra",
-    "product_title": "AIR-X Straight Neck Grey/Red",
-    "price": "$199.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5c",
-    "brand_name": "TaylorMade",
-    "product_title": "STEALTH 2 HD",
-    "price": "$349.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5d",
-    "brand_name": "PXG",
-    "product_title": "0311 XF Gen 5",
-    "price": "$349.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5e",
-    "brand_name": "Srixon",
-    "product_title": "ZX5",
-    "price": "$299.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d5f",
-    "brand_name": "XXIO",
-    "product_title": "Prime 11",
-    "price": "$299.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d60",
-    "brand_name": "Callaway",
-    "product_title": "Paradym Triple Diamond XR",
-    "price": "$449.99",
-    "website": "GlobalGolf"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d61",
-    "brand_name": "TITLEIST",
-    "product_title": "GT2 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc0a",
+    "brandName": "TITLEIST",
+    "productTitle": "GT4 Driver",
     "price": "$649.99 - $849.99",
-    "website": "PGA TOUR Superstore"
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d62",
-    "brand_name": "TITLEIST",
-    "product_title": "GT3 Driver",
-    "price": "$649.99 - $849.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d63",
-    "brand_name": "TITLEIST",
-    "product_title": "GT4 Driver",
-    "price": "$649.99 - $849.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d64",
-    "brand_name": "TOUR EDGE",
-    "product_title": "Exotics C725 Driver",
-    "price": "$399.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d65",
-    "brand_name": "TOUR EDGE",
-    "product_title": "Exotics E725 Driver",
-    "price": "$399.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d66",
-    "brand_name": "TITLEIST",
-    "product_title": "GT2 Women's Driver",
-    "price": "$649.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d67",
-    "brand_name": "PING",
-    "product_title": "Prodi G Driver",
-    "price": "$274.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d68",
-    "brand_name": "TOUR EDGE",
-    "product_title": "Exotics E725 Women's Driver",
-    "price": "$399.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d69",
-    "brand_name": "PING",
-    "product_title": "G430 Max Driver",
-    "price": "$399.98 - $639.98",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d6a",
-    "brand_name": "CALLAWAY",
-    "product_title": "Paradym Ai Smoke Ti340 Driver",
-    "price": "$599.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d6b",
-    "brand_name": "PING",
-    "product_title": "G430 Mini Driver",
-    "price": "$449.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d6c",
-    "brand_name": "TAYLORMADE",
-    "product_title": "BRNR Mini Driver Copper",
-    "price": "$449.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d6d",
-    "brand_name": "TAYLORMADE",
-    "product_title": "Stealth 2 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc14",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Stealth 2 Driver",
     "price": "$349.98 - $599.99",
-    "website": "PGA TOUR Superstore"
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d6e",
-    "brand_name": "PING",
-    "product_title": "G430 LST Driver",
-    "price": "$399.98",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d6f",
-    "brand_name": "COBRA",
-    "product_title": "Aerojet 50th Anniversary Driver",
-    "price": "$579.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d70",
-    "brand_name": "CALLAWAY",
-    "product_title": "Paradym Ai Smoke Triple Diamond MAX Driver",
-    "price": "$599.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d71",
-    "brand_name": "PING",
-    "product_title": "G430 SFT Driver",
-    "price": "$399.98",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d72",
-    "brand_name": "TAYLORMADE",
-    "product_title": "Stealth 2 Plus+ Driver",
-    "price": "$549.99 - $629.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d73",
-    "brand_name": "ADAMS GOLF",
-    "product_title": "NEW Idea Driver",
-    "price": "$199.98",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d74",
-    "brand_name": "TAYLORMADE",
-    "product_title": "Qi10 Max Designer Series Driver",
-    "price": "$599.98 - $629.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d75",
-    "brand_name": "TAYLORMADE",
-    "product_title": "Stealth 2 High Draw Driver",
-    "price": "$349.98 - $599.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d76",
-    "brand_name": "COBRA",
-    "product_title": "Aerojet Max Driver",
-    "price": "$599.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d77",
-    "brand_name": "CALLAWAY",
-    "product_title": "MAVRIK 2022 Driver",
-    "price": "$249.98 - $399.99",
-    "website": "PGA TOUR Superstore"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d78",
-    "brand_name": "Callaway",
-    "product_title": "Paradym Ai Smoke Triple Diamond Driver",
-    "price": "$599.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d79",
-    "brand_name": "TaylorMade",
-    "product_title": "Qi10 Driver",
-    "price": "$599.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d7a",
-    "brand_name": "TaylorMade",
-    "product_title": "BRNR Mini Driver",
+    "_id": "67dd04e9e36cd9e9751fbc21",
+    "brandName": "TaylorMade",
+    "productTitle": "BRNR Mini Driver",
     "price": "$449.99",
-    "website": "GolfDiscount.com"
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d7b",
-    "brand_name": "TaylorMade",
-    "product_title": "Stealth 2 Driver",
-    "price": "$328.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d7c",
-    "brand_name": "Cobra",
-    "product_title": "LTDx Driver Peacoat",
-    "price": "$184.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d7d",
-    "brand_name": "Callaway",
-    "product_title": "MAVRIK Driver",
+    "_id": "67dd04e9e36cd9e9751fbc24",
+    "brandName": "Callaway",
+    "productTitle": "MAVRIK Driver",
     "price": "$249.99",
-    "website": "GolfDiscount.com"
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d7e",
-    "brand_name": "Cobra",
-    "product_title": "LTD Driver Black",
-    "price": "$184.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d7f",
-    "brand_name": "Titleist",
-    "product_title": "TSR2 Driver",
-    "price": "$397",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d80",
-    "brand_name": "Cobra",
-    "product_title": "LTDx Max Driver Black",
-    "price": "$184.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d81",
-    "brand_name": "Cobra",
-    "product_title": "LTDx Max Driver Peacoat",
-    "price": "$184.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d82",
-    "brand_name": "Cleveland",
-    "product_title": "Launcher XL2 Driver",
-    "price": "$349.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d83",
-    "brand_name": "XXIO",
-    "product_title": "13 Driver",
-    "price": "$699.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d84",
-    "brand_name": "TaylorMade",
-    "product_title": "Qi10 LS Driver",
-    "price": "$629.99",
-    "website": "GolfDiscount.com"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d85",
-    "brand_name": "Ping",
-    "product_title": "Women's G Le3 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc2c",
+    "brandName": "Ping",
+    "productTitle": "Women's G Le3 Driver",
     "price": "$497",
-    "website": "GolfDiscount.com"
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d86",
-    "brand_name": "Srixon",
-    "product_title": "MAX Driver 2024",
-    "price": "$547.60",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc33",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Driver",
+    "price": "$499.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d87",
-    "brand_name": "Cleveland",
-    "product_title": "Launcher XL Lite",
-    "price": "$397.00",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc39",
+    "brandName": "Callaway",
+    "productTitle": "Womens Great Big Bertha Driver 2023",
+    "price": "$379.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d88",
-    "brand_name": "TaylorMade",
-    "product_title": "Stealth 2 Driver",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d89",
-    "brand_name": "TaylorMade",
-    "product_title": "SIM 2 Max Driver",
-    "price": "$328.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d8a",
-    "brand_name": "Callaway",
-    "product_title": "Rogue ST MAX D Driver",
-    "price": "$520.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d8b",
-    "brand_name": "PING",
-    "product_title": "G430 MAX 10K Driver",
-    "price": "$649.00",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d8c",
-    "brand_name": "Titleist",
-    "product_title": "GT2 Driver 2024",
+    "_id": "67dd04e9e36cd9e9751fbc45",
+    "brandName": "Titleist",
+    "productTitle": "GT2 Driver 2024",
     "price": "$597.00",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d8d",
-    "brand_name": "Callaway",
-    "product_title": "Big Bertha 23 Driver",
-    "price": "$499.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc4a",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke MAX D Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d8e",
-    "brand_name": "Callaway",
-    "product_title": "Great Big Bertha",
-    "price": "$379.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc4b",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke MAX Fast Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d8f",
-    "brand_name": "Callaway",
-    "product_title": "Mavrik 22 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc50",
+    "brandName": "Callaway",
+    "productTitle": "Womens Mavrik 22 Driver",
     "price": "$299.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d90",
-    "brand_name": "Callaway",
-    "product_title": "Paradym Ai Smoke MAX Fast Driver 2024",
+    "_id": "67dd04e9e36cd9e9751fbc52",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX Driver",
     "price": "$599.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d91",
-    "brand_name": "Callaway",
-    "product_title": "Paradym Ai Smoke Triple Diamond Driver 2024",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d92",
-    "brand_name": "Callaway",
-    "product_title": "Rogue ST 24 Max Driver",
-    "price": "$349.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d93",
-    "brand_name": "Callaway",
-    "product_title": "Womens Big Bertha REVA 23 Driver",
-    "price": "$499.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d94",
-    "brand_name": "Callaway",
-    "product_title": "Womens Great Big Bertha Driver 2023",
-    "price": "$379.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d95",
-    "brand_name": "Callaway",
-    "product_title": "Womens Mavrik 22 Driver",
-    "price": "$299.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d96",
-    "brand_name": "Callaway",
-    "product_title": "Womens Paradym Ai Smoke MAX D Driver 2024",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d97",
-    "brand_name": "Callaway",
-    "product_title": "Womens Paradym Ai Smoke MAX Driver 2024",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d98",
-    "brand": "Srixon",
-    "product_title": "Driver",
-    "price": "$547.60",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d99",
-    "brand": "Srixon",
-    "product_title": "Driver",
-    "price": "$397.00",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d9a",
-    "brand": "TaylorMade",
-    "product_title": "Stealth 2 Driver",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d9b",
-    "brand": "Cobra",
-    "product_title": "Aerojet Driver",
-    "price": "$328.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703d9c",
-    "brand": "TaylorMade",
-    "product_title": "SIM 2 Max Driver",
+    "_id": "67dd04e9e36cd9e9751fbc53",
+    "brandName": "CALLAWAY",
+    "productTitle": "Paradym Ai Smoke TI Mini Driver",
     "price": "$449.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/fairway-metals",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d9d",
-    "brand": "Callaway",
-    "product_title": "Rogue ST MAX D Driver",
-    "price": "$520.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc56",
+    "brandName": "Cobra",
+    "productTitle": "King F9 Speedback Driver",
+    "price": "449.99",
+    "website": "https://www.example.com/golf/cobra-king-f9-speedback-driver",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d9e",
-    "brand": "Callaway",
-    "product_title": "Rogue ST MAX D Driver",
-    "price": "$299.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbbd2",
+    "brandName": "Titleist",
+    "productTitle": "Men's GT 2 Driver",
+    "price": "$649.99 - $849.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703d9f",
-    "brand": "PING",
-    "product_title": "G430 MAX 10K Driver",
-    "price": "$649.00",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbbe0",
+    "brandName": "Titleist",
+    "productTitle": "Men's TSR 3 Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da0",
-    "brand": "Titleist",
-    "product_title": "GT2 Driver 2024",
+    "_id": "67dd04e9e36cd9e9751fbbea",
+    "brandName": "Callaway Golf",
+    "productTitle": "Mavrik Driver",
+    "price": "$249.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc02",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT2 Driver",
+    "price": "$849.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc19",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Stealth 2 Plus+ Driver",
+    "price": "$549.99 - $629.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1c",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Stealth 2 High Draw Driver",
+    "price": "$349.98 - $599.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1e",
+    "brandName": "CALLAWAY",
+    "productTitle": "MAVRIK 2022 Driver",
+    "price": "$249.98 - $399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc22",
+    "brandName": "TaylorMade",
+    "productTitle": "Stealth 2 Driver",
+    "price": "$328.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc32",
+    "brandName": "Titleist",
+    "productTitle": "GT2 Driver 2024",
     "price": "$597.00",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da1",
-    "brand": "Callaway",
-    "product_title": "Big Bertha 23 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc38",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA 23 Driver",
     "price": "$499.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da2",
-    "brand": "Callaway",
-    "product_title": "Great Big Bertha Driver",
-    "price": "$379.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc41",
+    "brandName": "TaylorMade",
+    "productTitle": "SIM 2 Max Driver",
+    "price": "$449.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da3",
-    "brand": "Callaway",
-    "product_title": "Great Big Bertha Driver",
-    "price": "$699.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc44",
+    "brandName": "PING",
+    "productTitle": "G430 MAX 10K Driver",
+    "price": "$649.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da4",
-    "brand": "Callaway",
-    "product_title": "Mavrik 22 Driver",
-    "price": "$349.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703da5",
-    "brand": "Callaway",
-    "product_title": "Paradym Ai Smoke MAX D Driver 2024",
+    "_id": "67dd04e9e36cd9e9751fbc4c",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Triple Diamond Driver 2024",
     "price": "$599.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703da6",
-    "brand": "Callaway",
-    "product_title": "Paradym Ai Smoke MAX Fast Driver 2024",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703da7",
-    "brand": "Callaway",
-    "product_title": "Paradym Ai Smoke Triple Diamond Driver 2024",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703da8",
-    "brand": "Callaway",
-    "product_title": "Rogue ST 24 Max Driver",
-    "price": "$349.99",
-    "website": "Carl's Golfland"
-  },
-  {
-    "_id": "672eb573c9bae5e02c703da9",
-    "brand": "Callaway",
-    "product_title": "Womens Big Bertha REVA 23 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc4e",
+    "brandName": "Callaway",
+    "productTitle": "Womens Big Bertha REVA 23 Driver",
     "price": "$499.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703daa",
-    "brand": "Callaway",
-    "product_title": "Womens Great Big Bertha Driver",
-    "price": "$379.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbc51",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX D Driver",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703dab",
-    "brand": "Callaway",
-    "product_title": "Womens Mavrik 22 Driver",
+    "_id": "67dd04e9e36cd9e9751fbc55",
+    "brandName": "Callaway",
+    "productTitle": "Epic Flash Driver",
+    "price": "499.99",
+    "website": "https://www.example.com/golf/callaway-epic-flash-driver",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd6",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Stealth 2 Driver",
+    "price": "$329.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd8",
+    "brandName": "Callaway",
+    "productTitle": "Men's Mavrik Driver",
+    "price": "$249.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbde",
+    "brandName": "Callaway",
+    "productTitle": "Men's Big Bertha 23 Driver",
+    "price": "$212.49",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe1",
+    "brandName": "Titleist",
+    "productTitle": "Men's TSR 2 Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe8",
+    "brandName": "Callaway Golf",
+    "productTitle": "Great Big Bertha Driver",
+    "price": "$399.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbeb",
+    "brandName": "TaylorMade Golf",
+    "productTitle": "SIM2 Max Driver",
     "price": "$299.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703dac",
-    "brand": "Callaway",
-    "product_title": "Womens Paradym Ai Smoke MAX D Driver",
-    "price": "$599.99",
-    "website": "Carl's Golfland"
+    "_id": "67dd04e9e36cd9e9751fbbf7",
+    "brandName": "Callaway Golf",
+    "productTitle": "Paradym Driver",
+    "price": "$449.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
   },
   {
-    "_id": "672eb573c9bae5e02c703dad",
-    "brand": "Callaway",
-    "product_title": "Womens Paradym Ai Smoke MAX Driver",
+    "_id": "67dd04e9e36cd9e9751fbc00",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT3 Driver",
+    "price": "$649.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1d",
+    "brandName": "COBRA",
+    "productTitle": "Aerojet Max Driver",
     "price": "$599.99",
-    "website": "Carl's Golfland"
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc30",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST MAX D Driver",
+    "price": "$520.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc34",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Driver",
+    "price": "$299.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc36",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke Triple Diamond Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3e",
+    "brandName": "Srixon",
+    "productTitle": "Driver",
+    "price": "$397.00",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc46",
+    "brandName": "Callaway",
+    "productTitle": "Big Bertha 23 Driver",
+    "price": "$499.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc47",
+    "brandName": "Callaway",
+    "productTitle": "Great Big Bertha Driver",
+    "price": "$379.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc4d",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST 24 Max Driver",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe4",
+    "brandName": "Cobra",
+    "productTitle": "Men's Darkspeed LS Driver",
+    "price": "$549.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe5",
+    "brandName": "Cleveland",
+    "productTitle": "Men's Launcher XL 2 Draw Driver",
+    "price": "$349.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe6",
+    "brandName": "Adams Golf",
+    "productTitle": "Idea Driver",
+    "price": "$239.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc01",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT4 Driver",
+    "price": "$649.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc03",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT3 Driver",
+    "price": "$849.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc08",
+    "brandName": "TITLEIST",
+    "productTitle": "GT2 Driver",
+    "price": "$649.99 - $849.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc09",
+    "brandName": "TITLEIST",
+    "productTitle": "GT3 Driver",
+    "price": "$649.99 - $849.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc25",
+    "brandName": "Cobra",
+    "productTitle": "LTD Driver Black",
+    "price": "$184.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc42",
+    "brandName": "Callaway",
+    "productTitle": "Rogue ST MAX D Driver",
+    "price": "$520.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc49",
+    "brandName": "Callaway",
+    "productTitle": "Mavrik 22 Driver",
+    "price": "$349.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc54",
+    "brandName": "TAYLORMADE",
+    "productTitle": "BRNR Mini Driver Copper",
+    "price": "$269.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/fairway-metals",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd3",
+    "brandName": "PING",
+    "productTitle": "Men's G430 LST Driver",
+    "price": "$399.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbdb",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's Qi10 MAX Driver",
+    "price": "$599.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbed",
+    "brandName": "Cobra Golf",
+    "productTitle": "LTDx Max Driver",
+    "price": "$179.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf5",
+    "brandName": "Callaway Golf",
+    "productTitle": "Big Bertha Driver",
+    "price": "$599.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbf9",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR1 Driver",
+    "price": "$449.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbfa",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR2 Driver",
+    "price": "$449.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbfb",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR2 Driver With Premium Shafts",
+    "price": "$649.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbfc",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR3 Driver",
+    "price": "$449.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc04",
+    "brandName": "Titleist Golf",
+    "productTitle": "GT4 Driver",
+    "price": "$849.99",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc05",
+    "brandName": "Cobra Golf",
+    "productTitle": "DarkSpeed LS Driver",
+    "price": "$249.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc0b",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics C725 Driver",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc0d",
+    "brandName": "TITLEIST",
+    "productTitle": "GT2 Women's Driver",
+    "price": "$649.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc0e",
+    "brandName": "PING",
+    "productTitle": "Prodi G Driver",
+    "price": "$274.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc0f",
+    "brandName": "TOUR EDGE",
+    "productTitle": "Exotics E725 Women's Driver",
+    "price": "$399.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1a",
+    "brandName": "ADAMS GOLF",
+    "productTitle": "NEW Idea Driver",
+    "price": "$199.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc1b",
+    "brandName": "TAYLORMADE",
+    "productTitle": "Qi10 Max Designer Series Driver",
+    "price": "$599.98 - $629.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc23",
+    "brandName": "Cobra",
+    "productTitle": "LTDx Driver Peacoat",
+    "price": "$184.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc2a",
+    "brandName": "XXIO",
+    "productTitle": "13 Driver",
+    "price": "$699.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc2b",
+    "brandName": "TaylorMade",
+    "productTitle": "Qi10 LS Driver",
+    "price": "$629.99",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc2d",
+    "brandName": "Srixon",
+    "productTitle": "MAX Driver 2024",
+    "price": "$547.60",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc2e",
+    "brandName": "TaylorMade",
+    "productTitle": "Stealth 2 Driver",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc35",
+    "brandName": "Callaway",
+    "productTitle": "Paradym Ai Smoke MAX Fast Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3b",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX D Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3c",
+    "brandName": "Callaway",
+    "productTitle": "Womens Paradym Ai Smoke MAX Driver 2024",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3d",
+    "brandName": "Srixon",
+    "productTitle": "Driver",
+    "price": "$547.60",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc3f",
+    "brandName": "TaylorMade",
+    "productTitle": "Stealth 2 Driver",
+    "price": "$599.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc40",
+    "brandName": "Cobra",
+    "productTitle": "Aerojet Driver",
+    "price": "$328.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc48",
+    "brandName": "Callaway",
+    "productTitle": "Great Big Bertha Driver",
+    "price": "$699.99",
+    "website": "https://www.carlsgolfland.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd0",
+    "brandName": "PING",
+    "productTitle": "Men's G430 MAX Driver",
+    "price": "$599.00",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd1",
+    "brandName": "PING",
+    "productTitle": "Men's G430 Max 10K Driver",
+    "price": "$399.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd7",
+    "brandName": "Titleist",
+    "productTitle": "Men's GT 4 Driver",
+    "price": "$649.99 - $849.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbd9",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's SIM2 MAX Driver",
+    "price": "$299.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbda",
+    "brandName": "TaylorMade",
+    "productTitle": "Men's BRNR Copper Mini Driver",
+    "price": "$449.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbe3",
+    "brandName": "PING",
+    "productTitle": "Women's G425 MAX Driver",
+    "price": "$399.99",
+    "website": "https://www.tgw.com/golf-clubs/golf-drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbbfd",
+    "brandName": "Titleist Golf",
+    "productTitle": "TSR3 Driver With Premium Shafts",
+    "price": "$649.00",
+    "website": "https://www.rockbottomgolf.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc10",
+    "brandName": "PING",
+    "productTitle": "G430 Max Driver",
+    "price": "$399.98 - $639.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc15",
+    "brandName": "PING",
+    "productTitle": "G430 LST Driver",
+    "price": "$399.98",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc16",
+    "brandName": "COBRA",
+    "productTitle": "Aerojet 50th Anniversary Driver",
+    "price": "$579.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc17",
+    "brandName": "CALLAWAY",
+    "productTitle": "Paradym Ai Smoke Triple Diamond MAX Driver",
+    "price": "$599.99",
+    "website": "https://www.pgatoursuperstore.com/golf-clubs/drivers",
+    "__v": 0
+  },
+  {
+    "_id": "67dd04e9e36cd9e9751fbc26",
+    "brandName": "Titleist",
+    "productTitle": "TSR2 Driver",
+    "price": "$397",
+    "website": "https://www.golfdiscount.com/golf-clubs/drivers?resultsPerPage=24",
+    "__v": 0
   }
 ]
