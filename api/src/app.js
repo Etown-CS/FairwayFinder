@@ -22,7 +22,7 @@ const allowedOrigins = [
   'https://d8a2-35-194-77-139.ngrok-free.app'
 ];
 
-// Middleware and configurations
+// ✅ Middleware and configurations
 app.configure(configuration())
   .use(cors({
     origin: (ctx) => {
@@ -30,7 +30,7 @@ app.configure(configuration())
       if (allowedOrigins.includes(requestOrigin)) {
         return requestOrigin;
       }
-      return ''; // Block disallowed origins
+      return null; // ✅ Correct way to block disallowed origins
     },
     credentials: true
   }))
@@ -71,9 +71,11 @@ async function initializeApp() {
 
     const port = 3031;
     const host = '0.0.0.0';
+
     app.listen(port).then(() => {
       console.log(`Feathers app is listening on http://${host}:${port}`);
     });
+
   } catch (error) {
     console.error('Error initializing app:', error);
   }
