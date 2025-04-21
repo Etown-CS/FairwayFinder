@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';
+import dotenv from 'dotenv'; 
 import { feathers } from '@feathersjs/feathers';
 import configuration from '@feathersjs/configuration';
 import { koa, rest, bodyParser, errorHandler, parseAuthentication, cors } from '@feathersjs/koa';
@@ -15,34 +15,48 @@ dotenv.config();
 // Feathers app setup
 const app = koa(feathers());
 
+// ✅ Allowed origins
+const allowedOrigins = [
+  'https://fairway-finder.vercel.app'
+];
+
 // Middleware and configurations
 app.configure(configuration())
-   .use(cors())
-   .use(errorHandler())
-   .use(parseAuthentication())
-   .use(bodyParser());
+  .use(cors({
+    origin: (ctx) => {
+      const requestOrigin = ctx.request.header.origin;
+      if (allowedOrigins.includes(requestOrigin)) {
+        return requestOrigin;
+      }
+      return ''; // Block disallowed origins
+    },
+    credentials: true
+  }))
+  .use(errorHandler())
+  .use(parseAuthentication())
+  .use(bodyParser());
 
 // Configure Feathers transports
 app.configure(rest());
-app.configure(socketio({ cors: { origin: app.get('origins') }}));
+app.configure(socketio({
+  cors: {
+    origin: allowedOrigins
+  }
+}));
 
 const psswd = process.env.DATABASE_PSSWD;
 console.log("psswd:");
 console.log(psswd);
 
 // MongoDB URI and connection setup
-const mongoUri = `mongodb+srv://samh:${encodeURIComponent(process.env.DATABASE_PSSWD)}@fairwayfinder.stoif.mongodb.net/FairwayFinderDB?retryWrites=true&w=majority&tls=true`;
-
-// Set MongoDB URI on the app config
+const mongoUri = `mongodb+srv://samh:${encodeURIComponent(psswd)}@fairwayfinder.stoif.mongodb.net/FairwayFinderDB?retryWrites=true&w=majority&tls=true`;
 app.set('mongodb', mongoUri);
 
 // Initialize MongoDB connection and Feathers app
 async function initializeApp() {
   try {
     console.log('Initializing MongoDB connection...');
-   
-    // Wait for MongoDB to connect and client to be set
-    const mongoClient = await app.configure(mongodb);  // Waits for the mongodb.js to finish
+    const mongoClient = await app.configure(mongodb);
 
     if (!mongoClient) {
       throw new Error('MongoDB client is not set on the app.');
@@ -50,13 +64,9 @@ async function initializeApp() {
 
     console.log('MongoDB client connected:', mongoClient);
 
-    // Register services and channels after MongoDB is connected
     app.configure(services);
     app.configure(channels);
 
-    //console.log("TEST");
-
-    // Start the app server
     const port = 3031;
     const host = '0.0.0.0';
     app.listen(port).then(() => {
@@ -67,10 +77,7 @@ async function initializeApp() {
   }
 }
 
-// Run the app initialization
 initializeApp();
 
 export { app };
-
-
 
