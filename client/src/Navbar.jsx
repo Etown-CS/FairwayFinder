@@ -1,10 +1,12 @@
 import './Navbar.css';
 import logo from '/navlogo.png';
+import favicon from '/favicon.ico';
 import { Link } from 'react-router-dom'; // ← Import React Router's Link
 
 function Navbar() {
   return (
     <nav className="navbar">
+      <link rel="icon" type="image/x-icon" href={favicon}></link>
       <Link to="/" className="navbar-logo">
         <img id="navlogo" src={logo} alt="Logo" />
       </Link>
