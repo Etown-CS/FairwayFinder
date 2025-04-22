@@ -1,19 +1,19 @@
 import './Navbar.css';
-import logo from '/navlogo.png';
-import { Link } from 'react-router-dom'; // ← Import React Router's Link
+import logo from '/public/react.svg';
 
 function Navbar() {
   return (
     <nav className="navbar">
-      <Link to="/" className="navbar-logo">
-        <img id="navlogo" src={logo} alt="Logo" />
-      </Link>
+        <a href="/" className="navbar-logo">
+        <img src={logo} alt="Logo" />
+      </a>
       <ul className="navbar-links">
-        <li><Link to="/">Search</Link></li>
-        <li><Link to="/sell">Sell</Link></li>
-        <li><Link to="/about">How It Works</Link></li>
-        <li><Link to="/more">More</Link></li>
+        <li><a href="search">Search</a></li>
+        <li><a href="sell">Sell</a></li>
+        <li><a href="about">How It Works</a></li>
+        <li><a href="more">More</a></li>
       </ul>
+      
     </nav>
   );
 }

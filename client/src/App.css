@@ -40,13 +40,3 @@
 .button-deals:hover {
   background-color: #0056b3; /* Darken the button on hover */
 }
-
-.applyButton{
-  background-color: #82a417;
-  cursor: pointer;
-  transition: background-color 0.3s ease
-}
-
-.applyButton:hover{
-  background-color: darkgreen;
-}

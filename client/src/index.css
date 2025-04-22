@@ -25,31 +25,3 @@
     background-color: #f9f9f9;
   }
 }
-
-#about_1{
-  margin: auto;
-  text-align: left;
-  width: 80%;
-  justify-content: center;
-}
-#site_use{
-  border: 3px solid lightgray;
-  padding-bottom: 30px;
-}
-#behind_site{
-  border: 3px solid lightgray;
-  padding-bottom: 30px;
-  position: relative;
-  top:-3px;
-}
-.centered-container{
-  background-color: #666666;
-  
-}
-
-.button-deals{
-  background-color: #82a417;
-}
-.button-deals:hover{
-  background-color: darkgreen;
-}
