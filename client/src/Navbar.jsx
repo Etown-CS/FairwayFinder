@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'; // ← Import React Router's Link
 function Navbar() {
   return (
     <nav className="navbar">
-      <link rel="shortcut icon" href={favicon} />
+      <link rel="shortcut icon" href={favicon}></link>
       <Link to="/" className="navbar-logo">
         <img id="navlogo" src={logo} alt="Logo" />
       </Link>
