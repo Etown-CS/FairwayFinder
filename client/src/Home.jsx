@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 import Fuse from 'fuse.js';
 
 const categories = [
@@ -36,7 +37,12 @@ function Home() {
   };
 
   return (
+
+
     <div className="centered-container">
+      <Helmet>
+            <title>FairwayFinder</title>
+        </Helmet>
       <h1>Welcome to FairwayFinder!</h1><br />
       
       <div style={{ position: 'relative', width: 'fit-content' }}>
