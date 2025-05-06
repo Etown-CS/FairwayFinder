@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import driverImage from '../assets/drivers.png';
 import wedgeImage from '../assets/wedges.png';
 import ironImage from '../assets/irons.png';
@@ -9,6 +9,7 @@ import putterImage from '../assets/putters.png';
 import ballImage from '../assets/balls.png';
 import gloveImage from '../assets/gloves.png';
 import statsImage from '../assets/statistics.png';
+import '../App.css';
 
 const categoryImages = {
   drivers: driverImage,
@@ -59,7 +60,7 @@ const hideScrollbarStyles = `
   }
 
   .filter-section button {
-    background-color: #82a417;
+    
     color: white;
     border: none;
     border-radius: 5px;
@@ -70,7 +71,7 @@ const hideScrollbarStyles = `
   }
 
   .filter-section button:hover {
-    background-color: #6f8f14;
+    
   }
 `;
 
@@ -121,9 +122,13 @@ function GolfDeals() {
       setError(null);
 
       try {
-        let url = `http://35.194.77.139:3031/${category}`;
+        let url = `https://d8a2-35-194-77-139.ngrok-free.app/${category}`;
         console.log(`Fetching data from URL: ${url}`);
-        const response = await fetch(url);
+        const response = await fetch(url, {
+          headers: {
+            'ngrok-skip-browser-warning': 'true'
+          }
+        });
         console.log(`Response status: ${response.status}`);
         if (response.ok) {
           const data = await response.json();
@@ -145,6 +150,7 @@ function GolfDeals() {
         setLoading(false);
       }
     }
+
 
     fetchData();
   }, [category]);
@@ -211,8 +217,8 @@ function GolfDeals() {
             left: '25%',
             top: 0,
             bottom: 0,
-            width: '1px',
-            backgroundColor: 'black',
+            width: '2px',
+            backgroundColor: 'darkgray',
             boxShadow: '0 0 4px rgba(0, 0, 0, 0.1)',
           }}
         />
@@ -324,14 +330,16 @@ function GolfDeals() {
               onClick={handleFilterChange}
               style={{
                 padding: '10px 20px',
-                backgroundColor: '#82a417',
+                
                 color: 'white',
                 border: 'none',
                 borderRadius: '5px',
                 width: '100%',
                 cursor: 'pointer',
                 boxSizing: 'border-box'
-              }}
+              } 
+            }
+            className="applyButton"
             >
               Apply Filters
             </button>
@@ -394,22 +402,23 @@ function GolfDeals() {
     padding: '15px',
     boxShadow: '0 2px 5px rgba(0, 0, 0, 0.1)',
     width: '100%',
-    backgroundColor: '#f5f5f5',
     boxSizing: 'border-box',
     gap: '20px',
+    backgroundColor: 'lightgray',
+    color: 'black'
   }}
 >
   {/* Stats Image Positioned at the Top Left */}
-  <div
-    style={{
-      position: 'absolute',
-      top: '15px',
-      right: '15px'
+  <div 
+    style={{ 
+      position: 'absolute', 
+      top: '15px', 
+      right: '15px' 
     }}
   >
-    <img
-      src={statsImage}
-      alt="Statistics"
+    <img 
+      src={statsImage} 
+      alt="Statistics" 
       style={{
         width: '60px',
         height: '60px',
@@ -420,14 +429,15 @@ function GolfDeals() {
 
   {/* Left Section: Category Image */}
   {categoryImages[category] && (
-    <img
-      src={categoryImages[category]}
-      alt={category}
-      style={{
-        width: '185px',
-        height: '200x',
-        borderRadius: '8px',
-        objectFit: 'cover',
+    <img 
+      src={categoryImages[category]} 
+      alt={category} 
+      style={{ 
+        width: '185px', 
+        height: '200x', 
+        borderRadius: '8px', 
+        objectFit: 'cover', 
+        backgroundColor: 'lightgray'
       }}
     />
   )}
@@ -440,7 +450,8 @@ function GolfDeals() {
       flexDirection: 'column',
       justifyContent: 'center',
       textAlign: 'center',
-      paddingRight: '160px' // Adjust padding if needed
+      paddingRight: '160px', // Adjust padding if needed
+      backgroundColor: 'lightgray'
     }}
   >
     <h2 style={{ wordBreak: 'break-word' }}>{deal.title}</h2>
@@ -449,11 +460,11 @@ function GolfDeals() {
     {deal.website && domain ? (
       <p>
         <strong>Visit Website: </strong>
-        <a
-          href={deal.website}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ color: '#007bff', textDecoration: 'none', fontWeight: 'bold' }}
+        <a 
+          href={deal.website} 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          style={{ color: '#008523', textDecoration: 'none', fontWeight: 'bold' }}
         >
           See {domain} {category} deals
         </a>
@@ -470,10 +481,12 @@ function GolfDeals() {
   !loading && <p style={{ textAlign: 'center' }}>No deals available for this category.</p>
 )}
 
+
 </ul>
 
+
             <div style={{ textAlign: 'center', marginTop: '20px' }}>
-              <a href="/" style={{ textDecoration: 'none', color: '#007bff' }}>Back to Home</a>
+              <a href="/" style={{fontSize: '15pt', textDecoration: 'none', color: '#82a417', fontWeight: 'bold' }}>Back to Search</a>
             </div>
           </div>
         </div>
@@ -483,5 +496,3 @@ function GolfDeals() {
 }
 
 export default GolfDeals;
-
-

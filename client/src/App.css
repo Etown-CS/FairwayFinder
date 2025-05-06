@@ -7,13 +7,15 @@
 /* Container for centering the button */
 .centered-container {
   display: flex;
-  flex-direction: column;  
-  justify-content: center; 
-  align-items: center;    
-  height: 100vh;           
-  background-color: white; 
-  text-align: center;      
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start; /* ⬅️ change this */
+  height: 100vh;
+  background-color: white;
+  text-align: center;
+  padding-top: 306px; /* ⬅️ adjust this as needed */
 }
+
 
 /* Styling for the input textbox */
 .search-box {
@@ -39,4 +41,45 @@
 
 .button-deals:hover {
   background-color: #0056b3; /* Darken the button on hover */
+}
+
+.applyButton{
+  background-color: #82a417;
+  cursor: pointer;
+  transition: background-color 0.3s ease
+}
+
+.applyButton:hover{
+  background-color: darkgreen;
+}
+
+.suggestions-list {
+  list-style: none;
+  padding: 5px;
+  margin: -10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color:black;
+  width: 260px;
+  background-color: #fff;
+  text-align: left;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  z-index: 10;
+  margin-bottom: 15px
+}
+
+/* Individual suggestion item */
+.suggestion-item {
+  padding: 8px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+  transition: background-color 0.2s ease;
+}
+
+.suggestion-item:last-child {
+  border-bottom: none;
+}
+
+.suggestion-item:hover {
+  background-color: #f2f2f2;
 }
