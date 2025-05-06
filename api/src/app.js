@@ -84,4 +84,3 @@ async function initializeApp() {
 initializeApp();
 
 export { app };
-
